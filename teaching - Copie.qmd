@@ -1,0 +1,48 @@
+---
+title: "Enseignements"
+---
+
+## Principaux enseignements au sein de l'IUT Dijon-Axuerre 
+
+### Economie financière 
+
+Un enseignement de deuxième année qui présente les principaux concepts relatifs au financement de l'économie. Le cours introduit le système financier, ces principaux acteurs et son évolution depuis les années 1970. Le cours aborde ensuite les crises financières à travers des exemples historiques et en discutant les mécanismes communs à ces différentes crises. La dernière partie de l'enseignement présente le rôle de la monnaie dans l'économie et les enjeux contemporains de la politique monétaire. 
+
+  - Syllabus: [pdf](assets/documents/syllabus_economie_financière.pdf)
+
+  
+### Economie des inégalités
+
+Un enseignement de troisième année qui présente les recherches récentes en économie sur la montée des inégalités. Le cours commence par une discussion des arguments (philosophiques et économiques) qui justifient de lutter contre les inégalités économiques. Il présente ensuite les principaux indicateurs des inégalités économiques et les grandes évolutions dans le monde et en France. Il aborde enfin des thématiques plus spécifiques, notamment la répartition de la valeur ajoutée et les inégalités de revenus hommes-femmes. 
+
+  - Syllabus: 
+  - Cours magistral: 
+
+###  Economie Ecologique 
+
+Un enseignement de deuxième année qui vulgarise les principaux points clefs du sixième rapport du GIEC et du Haut Conseil pour le Climat, ainsi que les concepts clefs de l'économie de l'environnement. Le cours est intégré dans un projet de groupe où les étudiant.es analysent l'emprunte carbone d'une entreprise et proposent une solution d'atténuation à travers le cadre de la société à mission.  
+
+  - Cours magistral: 
+  - Projet de groupe:
+  - Ressources: 
+  
+
+### Economie du numérique 
+
+  - Syllabus: 
+  - Cours magistral: 
+
+## Autres cours
+
+### Text as Data (with Aurelien Goutsmedt): 
+
+Une intervention de 4 heures pour des étudiants de master 2 sur l'analyse textuelle et ses applications à l'histoire de l'économie.
+
+- Slide: [html](assets/documents/text_as_data_slides.html)
+
+### Narrative economics (with Aurelien Goutsmedt and Niels Boisonnet)
+
+Une intervention de 3 heures pour les étudiants de master sur le rôle de la narration en économie dans les recherches contemporaines. Le cours présente trois applications des récits : l'usage des récits en sciences, dans l'élaboration de politiques économiques et dans les comportements individuels. 
+
+- Slide: 
+

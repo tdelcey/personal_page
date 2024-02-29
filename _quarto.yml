@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  navbar:
+    background: primary
+    pinned: true 
+    left:
+      - href: about.qmd
+      - sidebar:research
+      - href: teaching.qmd
+    tools:
+          - icon: linkedin
+            href: www.linkedin.com/in/thomas-delcey
+          - icon: github
+            menu:
+              - text: Source Code
+                url:  https://github.com/tdelcey/personage_page
+              - text: Report a Bug
+                url:  https://github.com/tdelcey/personage_page/issues 
+  
+  sidebar: 
+    - id: research
+      title: "Research" 
+      background: light
+      collapse-level: 2
+      contents: 
+      - publications.qmd  
+      - projects.qmd
+  page-footer:
+   right: 
+    - text: "Power by Quarto / Licence CC"
+      href: license.qmd 
+      
+      
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+
