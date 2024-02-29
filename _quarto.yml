@@ -11,8 +11,6 @@ website:
       - sidebar:research
       - href: teaching.qmd
     tools:
-          - icon: linkedin
-            href: www.linkedin.com/in/thomas-delcey
           - icon: github
             menu:
               - text: Source Code
