@@ -1,11 +1,18 @@
 [
   {
-    "listing": "/research.html",
+    "listing": "/teaching.html",
     "items": [
-      "/publications/MAKING_HOPE_2024/index.html",
-      "/publications/EFFICIENT_EJHET_2023/index.html",
-      "/publications/EFFICIENT_JEM_2021/index.html",
-      "/publications/EFFICIENT_OE_19/index.html"
+      "/teaching/economie_ecologique/index.html",
+      "/teaching/economie_financière/index.html",
+      "/teaching/economie_inégalités/index.html",
+      "/teaching/text_as_data/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/DIGITAL_HISTORY_FINANCE/index.html",
+      "/projects/WORKING_WP_2024/index.html"
     ]
   },
   {
@@ -15,28 +22,6 @@
       "/publications/EFFICIENT_EJHET_2023/index.html",
       "/publications/EFFICIENT_JEM_2021/index.html",
       "/publications/EFFICIENT_OE_19/index.html"
-    ]
-  },
-  {
-    "listing": "/project.html",
-    "items": [
-      "/projects/MAKING_HOPE_2024/index.html"
-    ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/ORAL_HISTORY/index.html",
-      "/projects/WORKING_WP_2024/index.html"
-    ]
-  },
-  {
-    "listing": "/teaching.html",
-    "items": [
-      "/teaching/economie_ecologique/index.html",
-      "/teaching/economie_financière/index.html",
-      "/teaching/economie_inégalités/index.html",
-      "/teaching/text_as_data/index.html"
     ]
   }
 ]

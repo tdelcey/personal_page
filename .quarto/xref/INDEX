@@ -70,7 +70,8 @@
     "index.html": "7f031e9e"
   },
   "teaching/economie_financière/syllabus.qmd": {
-    "syllabus.tex": "1880a27e"
+    "syllabus.tex": "1880a27e",
+    "syllabus.html": "fb355a6f"
   },
   "teaching/economie_inégalités/index.qmd": {
     "index.html": "c854c5b6"
@@ -90,5 +91,11 @@
   },
   "projects/DIGITAL_HISTORY_FINANCE/index2.qmd": {
     "index2.html": "71ed09b9"
+  },
+  "projects/DIGITAL_HISTORY_FINANCE/index.qmd": {
+    "index.html": "7f8dc573"
+  },
+  "projects/ORAL_HISTORY/index2.qmd": {
+    "index2.html": "2d16510f"
   }
 }
