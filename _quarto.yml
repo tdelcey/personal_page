@@ -30,8 +30,7 @@ website:
       - projects.qmd
   page-footer:
    right: 
-    - text: "Power by Quarto / Licence CC"
-      href: license.qmd 
+    - text: "Power by Quarto / Licence CC0 1.0 Universal"
       
       
 format:
