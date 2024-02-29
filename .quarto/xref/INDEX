@@ -1,0 +1,94 @@
+{
+  "index.qmd": {
+    "index.html": "25874381"
+  },
+  "about.qmd": {
+    "about.html": "b7fa65cc"
+  },
+  "home.qmd": {
+    "home.html": "aedadf26"
+  },
+  "research.qmd": {
+    "research.html": "73c1e437"
+  },
+  "teaching.qmd": {
+    "teaching.html": "2f59bb11"
+  },
+  "licence.qmd": {
+    "licence.html": "8039c4ad"
+  },
+  "license.qmd": {
+    "license.html": "aaa6afbd"
+  },
+  "publications/MAKING_HOPE_2023.qmd": {
+    "MAKING_HOPE_2023.html": "a8df4266"
+  },
+  "publications/MAKING_HOPE_2023/index.qmd": {
+    "index.html": "064f850d"
+  },
+  "publications/EFFICIENT_EJHET_2023/index.qmd": {
+    "index.html": "2f6f5838"
+  },
+  "publications/MAKING_HOPE_2024/index.qmd": {
+    "index.html": "3e5c4923"
+  },
+  "publications/EFFICIENT_OE_19/index.qmd": {
+    "index.html": "d839f866"
+  },
+  "publications/EFFICIENT_JEM_2021/index.qmd": {
+    "index.html": "a87a87e7"
+  },
+  "404.qmd": {
+    "404.html": "ff7d5aa8"
+  },
+  "publications.qmd": {
+    "publications.html": "2bc44651"
+  },
+  "project.qmd": {
+    "project.html": "4f33d420"
+  },
+  "projects/MAKING_HOPE_2024/index.qmd": {
+    "index.html": "6155bb9e"
+  },
+  "projects.qmd": {
+    "projects.html": "f7038c3d"
+  },
+  "projects/WORKING_WP_2024/index.qmd": {
+    "index.html": "f9557dd8"
+  },
+  "teaching/economie_financière/index.qmd": {
+    "index.html": "e11e2091"
+  },
+  "teaching - Copie.qmd": {
+    "teaching - Copie.html": "de6564aa"
+  },
+  "teaching/economie_ecologique/syllabus.qmd": {
+    "syllabus.tex": "df4cf967",
+    "syllabus.html": "ad975549"
+  },
+  "teaching/economie_ecologique/index.qmd": {
+    "index.html": "7f031e9e"
+  },
+  "teaching/economie_financière/syllabus.qmd": {
+    "syllabus.tex": "1880a27e"
+  },
+  "teaching/economie_inégalités/index.qmd": {
+    "index.html": "c854c5b6"
+  },
+  "teaching/economie_inégalités/syllabus.qmd": {
+    "syllabus.html": "86654e4a",
+    "syllabus.tex": "ff461f1a"
+  },
+  "teaching/text_as_data/index.qmd": {
+    "index.html": "9ea32f06"
+  },
+  "teaching/text_as_data/syllabus.qmd": {
+    "syllabus.html": "b307253e"
+  },
+  "projects/ORAL_HISTORY/index.qmd": {
+    "index.html": "8373141d"
+  },
+  "projects/DIGITAL_HISTORY_FINANCE/index2.qmd": {
+    "index2.html": "71ed09b9"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "listingMap": {
+    "research.qmd": [
+      "B3049D40",
+      "publications"
+    ],
+    "publications.qmd": [
+      "publications"
+    ],
+    "project.qmd": [
+      "projects"
+    ],
+    "projects.qmd": [
+      "projects",
+      "projects/*/index.qmd"
+    ],
+    "teaching.qmd": [
+      "teaching",
+      "teaching/*/index.qmd"
+    ]
+  }
+}
