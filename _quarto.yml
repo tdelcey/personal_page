@@ -16,9 +16,9 @@ website:
           - icon: github
             menu:
               - text: Source Code
-                url:  https://github.com/tdelcey/personage_page
+                url:  https://github.com/tdelcey/personal_page
               - text: Report a Bug
-                url:  https://github.com/tdelcey/personage_page/issues 
+                url:  https://github.com/tdelcey/personal_page/issues 
   
   sidebar: 
     - id: research
