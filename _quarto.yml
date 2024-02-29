@@ -7,7 +7,7 @@ website:
     background: primary
     pinned: true 
     left:
-      - href: about.qmd
+      - href: index.qmd
       - sidebar:research
       - href: teaching.qmd
     tools:
