@@ -1,6 +1,7 @@
 ---
-title: "Thomas Delcey"
+title: "Home"
 subtitle: "Assistant Professor in Economics, Université de Bourgogne"
+sidebar: false
 about: 
   template: trestles
   image: assets/images/thomas-delcey.jpg
