@@ -1,11 +1,15 @@
 ---
-title: "Économie écoologique"
+title: "Syllabus : Économie Ecologique"
 format: pdf
 ---
 
-## Syllabus : Économie et Crise Climatique
 
-### Objectifs du cours
+## Cible
+
+Étudiant.es BUT2
+
+
+## Objectifs du cours
 
 Ce cours vise à comprendre l'interaction entre l'économie et le changement climatique. Il explore l'impact économique de la crise climatique, analyse les politiques économiques pouvant être mises en œuvre pour y faire face, et propose une réflexion sur les solutions politiques envisageables. À travers ce cours, les objectifs sont :
 
@@ -15,11 +19,11 @@ Ce cours vise à comprendre l'interaction entre l'économie et le changement cli
 - Evaluer l'efficacité des mesures de lutte contre le changement climatique.
 
 
-### Évaluation
+## Évaluation
 
 - Soutenance orale (projets de groupe).
 
-### PLAN 
+## PLAN 
 
 #### Chapitre 0 : Présentation du projet de groupe
 - Directives pour le projet
@@ -40,7 +44,7 @@ Ce cours vise à comprendre l'interaction entre l'économie et le changement cli
 #### Chapitre 4 : Les solutions politiques
 
 
-### Ressources bibliographiques
+## Ressources bibliographiques
 
 Une liste de ressources (articles, vidéos, infographies) sera fournie au début du cours. 
 
