@@ -1,5 +1,5 @@
 ---
-title: "When efficient market hypothesis meets Hayek on information: beyond a methodological reading"
+title: "When Efficient Market Hypothesis Meets Hayek on Information: Beyond a Methodological Reading"
 author: Thomas Delcey, Nathanaël Colin
 date: "2021"
 date-format: "YYYY"
