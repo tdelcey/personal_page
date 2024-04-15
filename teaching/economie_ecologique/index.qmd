@@ -2,6 +2,7 @@
 title: "Economie Ecologique"
 author: Thomas Delcey
 categories: "IUT deuxième année"
+sidebar: false
 ---
 
 ![](picture.png)

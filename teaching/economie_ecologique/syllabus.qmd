@@ -38,10 +38,8 @@ Ce cours vise à comprendre l'interaction entre l'économie et le changement cli
 - Sujet 2.2: Quel secteur réchauffe le climat ? 
 
 #### Chapitre 3 : L’analyse économique de la crise climatique
-- sujet 3.1: Les externalités. 
-- sujet 3.2: La tragédie des communs. 
-
-#### Chapitre 4 : Les solutions politiques
+- Sujet 3.1: Les externalités. 
+- Sujet 3.2: La tragédie des communs. 
 
 
 ## Ressources bibliographiques
