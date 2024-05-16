@@ -1,5 +1,6 @@
 ---
 title: "Holbrook Working and the early financial economics."
+subtitle: Working Paper
 author: Thomas Delcey
 date: "2024"
 date-format: "YYYY"

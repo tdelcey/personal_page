@@ -2,6 +2,7 @@
 title: "Economie Financière"
 author: Thomas Delcey
 categories: "IUT deuxième année"
+sidebar: false
 ---
 
 

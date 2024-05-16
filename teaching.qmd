@@ -1,5 +1,6 @@
 ---
 title: "Enseignements"
+sidebar: false
 listing: 
   type: grid
   contents: 

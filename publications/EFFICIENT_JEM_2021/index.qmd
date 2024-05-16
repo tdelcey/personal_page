@@ -1,9 +1,10 @@
 ---
-title: "When efficient market hypothesis meets Hayek on information: beyond a methodological reading"
+title: "When Efficient Market Hypothesis Meets Hayek on Information: Beyond a Methodological Reading"
+subtitle: "Journal of Economic Methodology"
 author: Thomas Delcey, Nathanaël Colin
 date: "2021"
 date-format: "YYYY"
-categories: "Methodology of Economics"
+description: "Methodology of Economics"
 ---
 
 <!-- ![Credit: [Summers (1985)](https://www.jstor.org/stable/2327785)](picture.png) -->
@@ -14,5 +15,5 @@ Hayek and the Efficient Market Hypothesis are often seen as proposing a similar 
 
 ## Published In
 
-This article was published in *Journal of Economic Methodology, 27(2)*. [Link](https://doi.org/10.1080/1350178X.2019.1675896)
+This article was published in the *Journal of Economic Methodology, 27(2)*. [Link](https://doi.org/10.1080/1350178X.2019.1675896)
 

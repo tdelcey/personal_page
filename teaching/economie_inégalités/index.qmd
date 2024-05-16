@@ -2,6 +2,7 @@
 title: "Economie des inégalités"
 author: Thomas Delcey
 categories: "IUT troisième année"
+sidebar: false
 ---
 
 

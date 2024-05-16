@@ -1,9 +1,9 @@
 ---
-title: "Economie financière"
+title: "Syllabus : Economie financière"
 format: pdf
 ---
 
-# Cible
+## Cible
 
 Étudiant.es BUT3
 
@@ -19,7 +19,7 @@ Ce cours introduit les concepts fondamentaux de l'économie monétaire et financ
 Les notions clefs du cours seront introduites en CM et seront ensuite approfondies en séances de TD par groupe. 
 
 
-### PLAN
+## Plan
 
 #### Chapitre 1 : Les marchés financiers
 
@@ -50,13 +50,14 @@ Les notions clefs du cours seront introduites en CM et seront ensuite approfondi
 - Sujet 4.2. Défis contemporains de la politique monétaire
 
   
-### Evaluation
+## Evaluation
 
 Trois notes :
-- Evaluation de mi-parcours à 4ème séances de TD (40%). 
-- Evaluation finale à la 8ème et dernière séance de TD (60%).
 
-### Références bibliographiques :
+- Evaluation de mi-parcours: QCM (40%)
+- Evaluation finale: devoir sur table (60%)
+
+## Références bibliographiques :
 
 - Monnaie, banques, finance, Jézabel Couppey-Soubeyran, Thomas Renault, Edition PUF. 
 - Monnaie, banque et marchés financiers, Frederic Mishkin, Edition Pearson. 

@@ -1,5 +1,5 @@
 ---
-title: "Syllabus : Environnement Economique - Économie des inégalités"
+title: "Syllabus : Économie des inégalités"
 format: pdf
 ---
 
