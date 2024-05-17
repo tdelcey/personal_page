@@ -1,6 +1,6 @@
 ---
 title: "The Efficient Market Hypothesis and Rational Expectations Macroeconomics. How Did They Meet and Live (Happily) Ever After?"
-subutitle: "European Journal of the History of Economic Thought"
+subtitle: "European Journal of the History of Economic Thought"
 author: Thomas Delcey, Francesco Sergi
 date: "2023"
 date-format: "YYYY"
