@@ -15,9 +15,6 @@ This article offers a historical analysis of American interwar agricultural econ
 
 ## Published In
 
-<<<<<<< HEAD
 This article was published in the *History of Political Economy, forthcoming*. 
-=======
-This article was published in *History of Political Economy, forthcoming*. 
->>>>>>> 182f4ffc75ceeafc896bf6ca3bde40daa3013052
+
 
