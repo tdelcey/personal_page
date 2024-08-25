@@ -1,0 +1,9 @@
+---
+title: "Enseignements"
+sidebar: false
+listing: 
+  type: grid
+  contents: 
+    - "teaching/*/index.qmd"
+  fields: [title, author, categories, image]  
+---

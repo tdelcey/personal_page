@@ -1,0 +1,18 @@
+---
+title: "Holbrook Working and the early financial economics."
+author: Thomas Delcey
+date: "2025"
+date-format: "YYYY"
+categories: "History of financial economics"
+---
+
+![Credit: [Working (1922)](https://hdl.handle.net/11299/203943)](picture.png)
+
+## Abstract
+
+Where does financial economics come from? This paper studies the origins of foundational ideas of financial economics such as the price spread, the arbitrage, and the interpretation of price as reflecting information. Based on his publications and archival and interview materials, I analyze Holbrook Working's intellectual journey between the 1920s and 1960s. Working was a leading North American agricultural economist. I show that his pioneering analyzes of futures markets strongly influenced early financial economists, such as Paul Samuelson, Paul Cootner, Hendrick Houthakker, and Lester G. Telser. Working sheds light on a North American view of speculation that contrasted with the British and dominant one. 
+
+## Published In
+
+This article is forthcoming in the *History of Political Economy*. [Link](https://doi.org/10.1215/00182702-11242749)
+

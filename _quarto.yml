@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/tdelcey/personal_page
+          - text: Report a Bug
+            url:  https://github.com/tdelcey/personal_page/issues
+    background: primary
+    pinned: true 
+    left:
+      - text: "Home"
+        file: index.qmd
+      - sidebar:research
+      - file: teaching.qmd
+
+  sidebar: 
+   - id: research
+     title: "Research" 
+     background: light
+     style: docked
+     collapse-level: 2
+     contents: 
+      - publications.qmd  
+      - projects.qmd
+
+  page-footer:
+   right: 
+    - text: "Powered by Quarto / Licence CC0 1.0 Universal"
+      
+      
+format:
+  html:
+    # grid:
+    #   sidebar-width: 200px
+    #   body-width: 900px
+    #   margin-width: 300px
+    #   gutter-width: 1.5rem
+    theme: spacelab
+    css: styles.css
+

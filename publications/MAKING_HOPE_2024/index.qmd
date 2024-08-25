@@ -1,0 +1,19 @@
+---
+title: "The Making of Informational Efficiency: Information Policy and Theory in Interwar Agricultural Economics"
+author: Thomas Delcey, Guillaume Noblet
+date: "2024"
+date-format: "YYYY"
+categories: "History of financial economics"
+---
+
+![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png)
+
+## Abstract
+
+This article offers a historical analysis of American interwar agricultural economists and their interest in information. Believing that the main problem facing farmers was a lack of information, agricultural economists designed an information policy aiming to produce, format, and disseminate information. Using administrative archives, we analyze the motivations of these economists and the implementation of this policy. We show that the policy was a prerequisite for theoretical discussions on information, and established institutional tools that are still active today, such as the USDA market news service.
+
+## Published In
+
+This article is published in the *History of Political Economy*. [Publisher's Link](https://doi.org/10.1215/00182702-11242749)
+
+

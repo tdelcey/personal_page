@@ -1,0 +1,19 @@
+---
+title: "Spreading the financial approach: the impact of Fama"
+subtitle: Working paper
+author: Thomas Delcey
+date: "2024"
+date-format: "YYYY"
+categories: "History of financial economics"
+---
+
+![](picture.jpg)
+
+## Abstract
+
+This paper examines the impact of Fama’s 1970 review that introduces the efficient market hypothesis. I utilize an original database that combines a citation index of Fama’s review from 1970 to 2000 with the specific paragraphs in which Fama is cited. The analysis reveals Fama’s influence beyond financial economics, showing that his work was widely cited in other research programs, including economics, management, marketing, and law. By analyzing the paragraphs that cite Fama, I demonstrate that the efficient market hypothesis was more frequently critically discussed within core finance research, while it was uncritically used by peripheral research programs. 
+
+<!-- ## Published In -->
+
+<!-- This article is forthcoming in the *History of Political Economy*. [Link](https://doi.org/10.1215/00182702-11242749) -->
+

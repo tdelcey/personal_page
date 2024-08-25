@@ -1,0 +1,19 @@
+---
+title: "La Revue Economique (1954-2024)"
+subtitle: Working paper   
+author: Loïc Charles, Thomas Delcey, Yann Giraud, Ivan Ledezema 
+date: "2024"
+date-format: "YYYY"
+categories: "History of french economics"
+---
+
+<!-- ![](picture.jpg) -->
+
+## Abstract
+
+The project is a retrospective of one of the leading french journal in economics, _La Revue Economique_. We use both bibliometric and textual data to analyze the evolution of the journal over the last 70 years.
+
+<!-- ## Published In -->
+
+<!-- This article is forthcoming in the *History of Political Economy*. [Link](https://doi.org/10.1215/00182702-11242749) -->
+

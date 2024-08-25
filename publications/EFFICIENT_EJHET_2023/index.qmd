@@ -1,0 +1,18 @@
+---
+title: "The Efficient Market Hypothesis and Rational Expectations Macroeconomics. How Did They Meet and Live (Happily) Ever After?"
+author: Thomas Delcey, Francesco Sergi
+date: "2023"
+date-format: "YYYY"
+categories: "History of financial economics"
+---
+
+![Credit: [Summers (1985)](https://www.jstor.org/stable/2327785)](picture.png)
+
+## Abstract
+
+This article contributes to the study of the historical relationship between macroeconomics and financial economics. We investigate the interactions, in the 1960s and 1970s, between two research programmes—“rational expectations macroeconomics” (or “new classical macroeconomics”) and the efficient market hypothesis. We uncover the back-and-forth-dialogue between these two research programmes, which took place along the 1970s. We identify Sargent (1972a)’s contribution on the term structure of interest rates (and ensuing debates) as the starting point of this dialogue. We then highlight how rational expectations models reshaped the definition and assessment of the efficient market hypothesis in financial economics.
+
+## Published In
+
+This article is published in the *European Journal of History of Economic Thought, 30(1)*. [Link](https://doi.org/10.1080/09672567.2022.2108869)
+

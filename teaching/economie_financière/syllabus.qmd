@@ -1,0 +1,65 @@
+---
+title: "Syllabus : Economie financière"
+format: pdf
+---
+
+## Cible
+
+Étudiant.es BUT3
+
+
+## Objectifs
+
+Ce cours introduit les concepts fondamentaux de l'économie monétaire et financière. Les objectifs spécifiques sont les suivants :
+
+1. Familiariser les étudiants avec les principaux marchés financiers et leur rôle dans le système économique.
+2. Analyser les crises financières passées et actuelles pour comprendre leurs causes, leurs effets et les mécanismes de propagation.
+3. Expliquer le rôle et les fonctions de la monnaie dans l'économie et le mécanisme de création monétaire.
+
+Les notions clefs du cours seront introduites en CM et seront ensuite approfondies en séances de TD par groupe. 
+
+
+## Plan
+
+#### Chapitre 1 : Les marchés financiers
+
+- Sujet 1.1. Le système financier et ses acteurs
+
+- Sujet 1.2. Les marchés financiers
+
+#### Chapitre 2 : Les crises financières
+
+- Sujet 2.1. Les crises financières dans l'histoire
+  
+- Sujet 2.2. Les mécanismes théoriques des crises
+
+
+#### Chapitre 3 : La monnaie
+
+- Sujet 3.1. Nature et fonctions de la monnaie
+
+- Sujet 3.2. La création monétaire 
+
+- Sujet 3.3. Monnaie et prix
+
+
+#### Chapitre 4 : La politique monétaire
+
+- Sujet 4.1. Objectifs et instruments de la politique monétaire
+
+- Sujet 4.2. Défis contemporains de la politique monétaire
+
+  
+## Evaluation
+
+Trois notes :
+
+- Evaluation de mi-parcours: QCM (40%)
+- Evaluation finale: devoir sur table (60%)
+
+## Références bibliographiques :
+
+- Monnaie, banques, finance, Jézabel Couppey-Soubeyran, Thomas Renault, Edition PUF. 
+- Monnaie, banque et marchés financiers, Frederic Mishkin, Edition Pearson. 
+- Macroéconomie financière, Michel Aglietta et Natacha Valla, Edition La découverte. 
+- Economie ; l'essentiel du cours, IUT GEA et TC ; 1ère et 2ème années, Éric Maurus, David Calmels, Edition Nathan.

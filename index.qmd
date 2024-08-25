@@ -1,0 +1,29 @@
+---
+title: "Home"
+subtitle: "Assistant Professor in Economics, Université de Bourgogne"
+sidebar: false
+about: 
+  template: trestles
+  image: assets/images/thomas-delcey.jpg
+  image-width: 15em
+---
+
+## Bio 
+
+I am an economist specializing in the history of economics. 
+
+My research focuses on the origins and development of financial economics, employing both qualitative data (including private and administrative archives, as well as oral history) and quantitative data (through bibliometric analysis and textual analysis).
+
+[Download](assets/documents/cv.pdf) my C.V.
+
+## Experiences
+
+**Tenured assistant professor** | Université de Bourgogne, Dijon | since 2022
+
+**Managing editor** | Œconomia | since 2022
+
+## Education
+
+**Ph.D. Economics** | Université Paris I Pantheon-Sorbonne | 2021
+
+**Master Economics** | Université Paris I Pantheon-Sorbonne | 2016

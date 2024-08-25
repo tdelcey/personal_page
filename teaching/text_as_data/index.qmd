@@ -1,0 +1,15 @@
+---
+title: "Text as Data"
+author: Thomas Delcey, Aurelien Goutsmedt
+categories: "Master 2 Economie"
+sidebar: false
+---
+
+
+![](picture.png)
+
+### Description
+
+Une intervention de 4 heures pour des étudiants de master 2 sur l'analyse textuelle et ses applications à l'histoire de l'économie. L'enseignement introduit les étapes clefs de l'analyse: la création du corpus, la représentation et tokenization, et l'analyse. Pour chaque étape, une application est proposée sur `R`. 
+
+  - Slides: [html](text_as_data_slides.html)

@@ -1,0 +1,12 @@
+---
+title: "Publications"
+listing: 
+  type: default
+  contents: 
+    - "publications"
+  fields: [image, date, title, author, categories]  
+  sort: "date desc"
+  date-format: "YYYY"
+---
+
+
