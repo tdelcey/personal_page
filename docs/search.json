@@ -63,7 +63,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Spreading the financial approach: the impact of Fama\n\n\nWorking paper\n\n\n\nHistory of financial economics\n\n\n\n\n\n\n2024\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\nBecoming an economist: a database of french economic theses (1900-2024)\n\n\nDatabase\n\n\n\nHistory of french economics\n\n\n\n\n\n\n2024\n\n\nAurelien Goutsmedt, Thomas Delcey, Alexandre Truc\n\n\n\n\n\n\n\n\n\n\n\n\nLa Revue Economique (1954-2024)\n\n\nWorking paper\n\n\n\nHistory of french economics\n\n\n\n\n\n\n2024\n\n\nLoïc Charles, Thomas Delcey, Yann Giraud, Ivan Ledezema\n\n\n\n\n\n\nNo matching items",
+    "text": "Spreading the financial approach: the impact of Fama\n\n\nWorking paper\n\n\n\nHistory of financial economics\n\n\n\n\n\n\n2024\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\nThe Oral Histories of Economics\n\n\nDatabase\n\n\n\nHistory of french economics\n\n\n\n\n\n\n2024\n\n\nFrancesco Sergi, Pierrick Dechaux, Dorian Jullien, Thomas Delcey, and Romain Plassard\n\n\n\n\n\n\n\n\n\n\n\n\nBecoming an economist: a database of french economic theses (1900-2024)\n\n\nDatabase\n\n\n\nHistory of french economics\n\n\ndata\n\n\n\n\n\n\n2024\n\n\nAurelien Goutsmedt, Thomas Delcey, Alexandre Truc\n\n\n\n\n\n\n\n\n\n\n\n\nLa Revue Economique (1954-2024)\n\n\nWorking paper\n\n\n\nHistory of french economics\n\n\n\n\n\n\n2024\n\n\nLoïc Charles, Thomas Delcey, Yann Giraud, Ivan Ledezema\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Projects"
     ]
@@ -81,6 +81,13 @@
     "title": "Becoming an economist: a database of french economic theses (1900-2024)",
     "section": "",
     "text": "This project aims to build a database on Ph.D. in economics in France from 1900 to 2024. The database is based on the information provided by sudoc.fr, these.fr and idref.fr. The database includes information on the Ph.D. title, the date of the defense, the name of the Ph.D. student and the university. The most recent periods also include information on the supervisors and the jury members. The database would be available in csv format and can be used for further research on the history of economics."
+  },
+  {
+    "objectID": "projects/FAMA_WP_2024/index.html#abstract",
+    "href": "projects/FAMA_WP_2024/index.html#abstract",
+    "title": "Spreading the financial approach: the impact of Fama",
+    "section": "Abstract",
+    "text": "Abstract\nThis paper examines the impact of Fama’s 1970 review that introduces the efficient market hypothesis. I utilize an original database that combines a citation index of Fama’s review from 1970 to 2000 with the specific paragraphs in which Fama is cited. The analysis reveals Fama’s influence beyond financial economics, showing that his work was widely cited in other research programs, including economics, management, marketing, and law. By analyzing the paragraphs that cite Fama, I demonstrate that the efficient market hypothesis was more frequently critically discussed within core finance research, while it was uncritically used by peripheral research programs."
   },
   {
     "objectID": "index.html",
@@ -111,11 +118,11 @@
     "text": "Education\nPh.D. Economics | Université Paris I Pantheon-Sorbonne | 2021\nMaster Economics | Université Paris I Pantheon-Sorbonne | 2016"
   },
   {
-    "objectID": "projects/FAMA_WP_2024/index.html#abstract",
-    "href": "projects/FAMA_WP_2024/index.html#abstract",
-    "title": "Spreading the financial approach: the impact of Fama",
+    "objectID": "projects/ORAL_HISTORY/index.html#abstract",
+    "href": "projects/ORAL_HISTORY/index.html#abstract",
+    "title": "The Oral Histories of Economics",
     "section": "Abstract",
-    "text": "Abstract\nThis paper examines the impact of Fama’s 1970 review that introduces the efficient market hypothesis. I utilize an original database that combines a citation index of Fama’s review from 1970 to 2000 with the specific paragraphs in which Fama is cited. The analysis reveals Fama’s influence beyond financial economics, showing that his work was widely cited in other research programs, including economics, management, marketing, and law. By analyzing the paragraphs that cite Fama, I demonstrate that the efficient market hypothesis was more frequently critically discussed within core finance research, while it was uncritically used by peripheral research programs."
+    "text": "Abstract\nOral Histories of Economics is a research project gathering and disseminating oral sources about the history and philosophy of economics.\nThe sources gathered by the project are open-access data. They can be freely used by researchers interested in the evolution of economics and economists’ practices.\nThe collections are available on the Oral histories of Economics website."
   },
   {
     "objectID": "projects/RE_WP_2024/index.html",

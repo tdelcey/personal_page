@@ -4,7 +4,9 @@ subtitle: Database
 author: Aurelien Goutsmedt, Thomas Delcey, Alexandre Truc 
 date: "2024"
 date-format: "YYYY"
-categories: "History of french economics"
+categories: 
+  - "History of french economics"
+  - "data" 
 ---
 
 <!-- ![](picture.jpg) -->
