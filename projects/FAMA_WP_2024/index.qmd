@@ -1,5 +1,5 @@
 ---
-title: "Spreading the financial approach: the impact of Fama"
+title: "The impact of Fama (1970) : bibliometric analysis with textual context"
 subtitle: Working paper
 author: Thomas Delcey
 date: "2024"
