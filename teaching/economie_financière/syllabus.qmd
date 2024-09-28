@@ -64,7 +64,7 @@ Trois notes :
 - Evaluation de mi-parcours: QCM (40%)
 - Evaluation finale: devoir sur table (60%)
 
-## Références bibliographiques :
+## Références principales :
 
 - Monnaie, banques, finance, Jézabel Couppey-Soubeyran, Thomas Renault, Edition PUF. 
 - Monnaie, banque et marchés financiers, Frederic Mishkin, Edition Pearson. 

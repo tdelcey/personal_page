@@ -22,33 +22,25 @@ format:
 3. Distinguer les enjeux de répartition entre capital et travail et ceux dans le travail. 
 4. Présenter les principales politiques de lutte contre les inégalités.
 
-## PLAN
+## Plan et calendrier 
 
-### Chapitre 1 : Introduction 
-- Sujet 1.1. Pourquoi lutter contre les inégalités ? 
-- Sujet 1.2. Les différentes formes des inégalités.  
+Chaque chapitre pose une question générale et propose des éléments de réponse: 
 
-### Chapitre 2 : Mesurer les inégalités 
-- Sujet 2.1. Introduction aux outils statistiques. 
-- Sujet 2.2. Etats des lieux des inégalités économiques
+- Chapitre 1: Pourquoi réduire les inégalités ? 
+- Chapitre 2: C’est quoi une inégalité ? 
+- Chapitre 3: Comment mesurer les inégalités. 
+- Chapitre 4: Quel est le niveau des inégalités dans le monde et en France ? 
+- Chapitre 5: Quelles sont les principales causes des inégalités ?
+- Chapitre 6: Comment réduire les inégalités ? 
 
-### Chapitre 3 : Inégalités dans la valeur ajoutée 
-- Sujet 3.1. La répartition de la valeur entre travail et capital
-- Sujet 3.2. Pourquoi les profits augmentent-ils ?
-
-### Chapitre 4 : Inégalités dans le travail 
-- Sujet 4.1. Les inégalités hommes-femmes.
-- Sujet 4.2. Le numérique et la polarisation du travail 
-
-### Chapitre 5 : Lutter contre les inégalités  
-- Sujet 4.1 : Taxer dans une économie mondialisée.
-- Sujet 4.2 : Les politiques éducatives en France.  
 
 ## Évaluation :
+
 1. Examen de mi-parcours - QCM (séance 5)
 2. Examen final : 100% - devoir sur table (séance 9)
 
-## Ressources recommandées :
+## Ressources principales :
+
 1. Piketty, T. (2013). "L’économie des inégalités". Edition : La découverte.
 2. Milanovic, B. (2016). "Inégalités mondiales". Edition : La découverte.
 
