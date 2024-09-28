@@ -1,6 +1,13 @@
 ---
 title: "Syllabus : Economie financière"
-format: pdf
+author:
+  - name: Thomas Delcey
+    email: thomdelcey@gmail.com
+    affiliations:
+      - name: Université de Bourgogne
+format:
+  html: default 
+  pdf: default
 ---
 
 ## Cible

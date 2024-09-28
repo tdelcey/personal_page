@@ -1,0 +1,164 @@
+---
+title: "Syllabus: Economistes et politique"
+author:
+  - name: Thomas Delcey
+    email: thomdelcey@gmail.com
+    affiliations:
+      - name: Université de Bourgogne
+engine: knitr
+format:
+  html: default 
+  pdf: default
+---
+
+
+> _The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood._
+
+::: {.justifyright}
+John Maynard Keynes, _The General Theory of Employment, Interest and Money_ (1935)
+:::
+
+> _ECONOMISTS ARE EVERYWHERE. They manage monetary policy, measure the value of government programs to the last dollar, and routinely offer expert testimony in political hearings and in the courts. They also consult for companies, divining the future of industrial competition, calculating the costs and benefits associated with different courses of action, designing legal standards or the nuts and bolts of financial markets. From their vantage point in the media, they comment authoritatively on economic ups and downs, housing booms and dot-com busts, global competition and exchange rate movements. And they can be found on best-seller lists, too, arguing that the subject matter of economics and the applicability of its analytical toolkit reach much further into everyday life than we ever imagined._
+
+::: {.justifyright}
+Marion Fourcade,  _Economists and Societies_ (2009)
+::: 
+
+
+# Présentation 
+
+Les économistes occupent aujourd'hui une place centrale dans le champ politique. Cette centralité est multidimensionnelle. Elle résulte à la fois de la proximité entre les économistes et les sphères de décision, par exemple via leur capacité à conseiller directement les gouvernements. Mais elle résulte aussi plus globalement de leur capacité à exporter leur outils et diffuser leur manière de pensée dans d'autres champs sociaux. Ce cours-séminaire propose d'analyser cette relation étroite entre les économistes et la politique.
+
+La première partie du cours adopte une perspective historique et propose de retracer sur une histoire longue la relation entre les économistes et la politique. L'introduction générale propose une réflexion générale sur le rôle des idées dans les changements politiques et institutionnelles (chapitre 1). Nous nous intéressons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un deuxième temps, nous analysons la montée en puissance des économistes au sein des administrations et des Etats au 20<sup>ème</sup> siècle, en prenant les cas des États-Unis et de la France (chapitres 3 et 4). Enfin, le dernier chapitre se penche sur situation actuelle, et la place dominante qu'occupe aujourd'hui la discipline économique au sein des autres sciences sociales (chapitre 5). 
+
+La deuxième partie présentera des études de cas plus précise qui se baseront sur des travaux de recherche récents. Cette partie sera notamment animée par des chercheurs invités qui viendront présenter leurs problématiques de recherche. 
+
+Enfin une troisième partie sera dédiée aux exposés des étudiant.es qui présenteront un article de recherche sur des sujets relatifs à la thématique du cours.  
+
+# Objectif 
+
+Ce cours introduit les étudiant.es aux principaux concepts et aux idées économiques. L'objectif est à la fois de présenter de manière précise ces idées et de discuter les implications politiques que ces idées véhiculent. A travers cet enseignement, l'objectif est également de présenter un programme de recherche multidisciplinaire qui prend comme objet les idées économiques et étudie leurs influences sur le monde social. Ce programme de recherche regroupe des recherches en sciences politiques, en sociologie et en économie. L'objectif de ce cours est également de familiariser les étudiant.es avec le milieu de la recherche. Les étudiant.es seront amenés à interagir avec des chercheurs et devront lire des articles récents et principalement en langue anglaise.
+
+
+# Evaluation 
+
+- 1 exposé oral dans la troisième partie du cours (50%). Les étudiant.es devront discuter un article de recherche récent en relation avec la problématique du cours. Il est attendu que l'exposé présente (1) l'auteur et la littérature dans laquelle s'inscrit cette recherche, (2) la présentation de la thèse de l'auteur et ces arguments, (3) une discussion critique de cette thèse. Une liste de sujets et d'articles se trouvent à la fin de ce syllabus. Il est possible de choisir un texte sur un sujet de votre choix si ce dernier est en relation avec le cours. Ce choix devra faire l'objet d'une discussion avec moi. La date butoir pour le choix des exposés est le 8 novembre 2024. L'ordre de passage des étudiant.es sera donné le 15 novembre 2024. 
+
+- 1 projet écrit à rendre à la fin du semestre (50%). Le projet écrit approfondira l'exposé oral en prenant en compte les retours des exposés et en faisant le lien entre cet article et le reste du cours. La date butoir de rendu est fixé au 15 janvier 2024. 
+
+# Bibliographie principale   
+
+Chaque chapitre de la première partie s'appuie sur une lecture principale indiquée dans le plan ci-dessous. Le cours s'appuie plus globalement sur quatre ouvrages principaux: 
+
+- Hall, Peter A. 1992. _The Political Power of Economic Ideas - Keynesianism across Nations_. Princeton, N.J: Princeton University Press.
+- Blyth, Mark. 2002. _Great Transformations: Economic Ideas and Institutional Change in the Twentieth Century_. Cambridge: Cambridge University Press.
+- Fourcade, Marion. 2009. _Economists and Societies: Discipline and Profession in the United States_, Britain, and France, 1890s to 1990s. Princeton University Press. 
+- Popp Berman, Elizabeth. 2022. _Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy_. Princeton University Press.
+
+Ces lectures ne sont pas obligatoires mais vivement conseillées si vous voulez approfondir ce sujet. 
+
+# Plan et calendrier 
+
+## Partie 1: Les économistes et la politique dans l'histoire
+
+Séances: 
+
+- Vendredi 20/09/2024
+- Vendredi 27/09/2024
+- Vendredi 04/10/2024
+- Vendredi 11/10/2024
+- Vendredi 18/10/2024
+- Vendredi 25/10/2024
+
+
+### Chapitre 1: Introduction générale
+
+### Chapitre 2: L'autonomisation des économistes du politique
+
+- Lecture principale: Ferey Samuel, "L’économie, la politique et l’État – XVIIe-XIXe siècles". _Histoire de la pensée économique_, Pearson, Paris, pp. 17-42.
+
+### Chapitre 3: Les économistes dans la cité au XXe siècles: les Etats-Unis
+
+- Lecture principale: Cherrier Béatrice. 2019. "Les économistes dans la cité au XXe siècle". _Histoire de la pensée économique_, Pearson, Paris, pp. 217-227.
+
+### Chapitre 4: Les économistes dans la cité au XXe siècle: la France 
+
+- Lecture principale: Fourcade, M. (2009). _Economists and Societies: Discipline and Profession in the United States_, Britain, and France, 1890s to 1990s. Princeton University Press. Chapitre 4.
+
+### Chapitre 5: La supériorité des économistes aujourd'hui 
+
+- Lecture principale: Fourcade, M., Ollion, E., & Algan, Y. (2015). The superiority of economists. _Journal of economic perspectives_, 29(1), 89-114.
+
+
+## Partie 2: Etude de cas 
+
+
+### Intervention 1: "Définir le néolibéralisme" 
+
+- Séance: Vendredi 08/11/2024
+- Intervenants invités:  Nathanaël Colin
+
+### Invervention 2: "Les sanctions économiques occidentales contre la Russie"
+
+- Séance: Vendredi 15/11/2024
+- Intervenants invités: Maksym Filatov
+
+### Intervention 3: "La scientisation des banques centrales" "
+
+- Séance: Vendredi 22/11/2024
+- Intervenants invités: Aurélien Goutsmedt 
+
+### Intervention 4: "Économistes, argent et ... pouvoir. La Société pour le développement de l’économie suisse (SDES), 1942-2000" 
+
+- Séance: Vendredi 29/11/2024
+- Intervenants invités: Pierre Eichenberger
+
+
+## Partie 3: Exposés des étudiant.es
+
+Ordre de passage définit au plus tard le 15 novembre 2024 ;
+
+- Séance: Vendredi 06/12/2024
+- Séance: Vendredi 13/12/2024
+- Séance: Vendredi 20/12/2024
+
+### Sujets 1: Les économistes font-ils les marchés ? 
+
+- Lectures:
+  - Garcia, M. F. (1986). La construction sociale d'un marché parfait. Actes de la recherche en sciences sociales, 65(1), 2-13.
+  - MacKenzie, D., Leung-Sea, S., & Muniesa, F. (2008). _Do Economists Make Markets?: On the Performativity of Economics_. Princeton University Press. Chapter 3: "Is Economics Performative? Option Theory and the Construction of Derivatives Markets"
+  - Brisset, N. (2016). Economics is not always performative: some limits for performativity. _Journal of Economic Methodology_, 23(2), 160-184.
+  
+
+### Sujets 2: Les économistes font-ils la politique ? 
+
+- Lectures:
+  - Peter A. Hall (1989). The Political Power of Economic Ideas: Keynesianism across Nations. Introduction.
+  - Hirschman, D., & Berman, E. P. (2014). Do economists make policies? On the political effects of economics. _Socio-economic review_, 12(4), 779-811.
+  - Carstensen, M. B., & Schmidt, V. A. (2016). Power through, over and in ideas: conceptualizing ideational power in discursive institutionalism. _Journal of European public policy_, 23(3), 318-337.
+  - Farrell, H., & Quiggin, J. (2017). Consensus, dissensus, and economic ideas: economic crisis and the rise and fall of Keynesianism. _International studies quarterly_, 61(2), 269-283.
+  - Goutsmedt, A. (2022). How the Phillips curve shaped full employment policy in the 1970s: The debates on the Humphrey-Hawkins Act. _History of Political Economy_, 54(4), 619-653.
+  - Duflo, E. (2017). _The economist as plumber_. American Economic Review, 107(5), 1-26.
+  - Blyth, M. (2002). Great transformations: Economic ideas and institutional change in the twentieth century. Johns Hopkins University. Chapitre 2: "A Theory of Institutional Change" 
+  
+  
+  
+### Sujets 3: Les économistes, la quantification et l’État.
+
+
+- Lectures: 
+  - Desrosières Alain. Chapitre 1. Le gouvernement de la cité néolibérale: quand la quantification rétroagit sur les acteurs. In : _Prouver et gouverner Une analyse politique des statistiques publiques._ Paris, La Découverte. Sciences humaines, p.31-59.
+  - Fourcade, M. (2011). Cents and sensibility: Economic valuation and the nature of “nature”. _American journal of sociology_, 116(6), 1721-1777.
+  - Chassonnery-Zaïgouche, C. (2020). How economists entered the ‘numbers game’: Measuring discrimination in the us courtrooms, 1971–1989. _Journal of the History of Economic Thought_, 42(2), 229-259.
+  - Banzhaf, H. S. (2014). Retrospectives: the Cold-War origins of the value of statistical life. Journal of Economic Perspectives, 28(4), 213-226.
+
+
+### Sujet 4: Les économistes et la finance 
+
+- Lectures: 
+  - Fourcade, M., & Khurana, R. (2013). From social control to financial economics: The linked ecologies of economics and business in twentieth century America. Theory and Society, 42, 121-159.
+  - Gindis, D. (2020). On the origins, meaning and influence of Jensen and Meckling’s definition of the firm. Oxford Economic Papers, 72(4), 966-984.
+
+  
+
+

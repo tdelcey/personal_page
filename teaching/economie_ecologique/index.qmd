@@ -1,7 +1,11 @@
 ---
 title: "Economie Ecologique"
-author: Thomas Delcey
-categories: "IUT deuxième année"
+author:
+  - name: Thomas Delcey
+    email: thomdelcey@gmail.com
+    affiliations:
+      - name: Université de Bourgogne
+categories: "IUT"
 sidebar: false
 ---
 
@@ -9,7 +13,7 @@ sidebar: false
 
 ### Description
 
-Un enseignement de deuxième année qui vulgarise les principaux points clefs du sixième rapport du GIEC et du Haut Conseil pour le Climat, ainsi que les concepts clefs de l'économie de l'environnement. Le cours est intégré dans un projet de groupe où les étudiant.es analysent l'empreinte carbone d'une entreprise et proposent une solution d'atténuation à travers le cadre de la société à mission.  
+Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui vulgarise les principaux points clefs du sixième rapport du GIEC et du Haut Conseil pour le Climat, ainsi que les concepts clefs de l'économie de l'environnement. Le cours est intégré dans un projet de groupe où les étudiant.es analysent l'empreinte carbone d'une entreprise et proposent une solution d'atténuation à travers le cadre de la société à mission.  
 
-  - Syllabus: [pdf](syllabus.pdf)
+  - Syllabus: [html](syllabus.html) ou [pdf](syllabus.pdf)
   - Slides: [html](slides.html)

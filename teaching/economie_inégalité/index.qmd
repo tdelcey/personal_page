@@ -1,0 +1,22 @@
+---
+title: "Economie des inégalités"
+author: 
+  - name: Thomas Delcey
+    email: thomdelcey@gmail.com
+    affiliations:
+      - name: Université de Bourgogne
+categories: "IUT"
+sidebar: false
+---
+
+
+![Credit: [Hélène Périvier (2017)](https://sciencespo.hal.science/hal-03458937)](picture.jpg)
+
+
+
+### Description
+
+Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui présente les recherches récentes en économie sur la montée des inégalités. Le cours commence par une discussion des arguments (philosophiques et économiques) qui justifient de lutter contre les inégalités économiques. Il présente ensuite les principaux indicateurs des inégalités économiques et les grandes évolutions dans le monde et en France. Après cette présentation des faits stylisés, le cours discute les causes des inégalités économiques en abordant deux thématiques: la répartition de la valeur ajoutée et les inégalités hommes-femmes. Il aborde enfin les politiques de lutte contre les inégalités en insistant sur la distinction entre les politiques préventives comme l'éducation et les politiques de redistribution.
+
+  - Syllabus: [html](syllabus.html) ou [pdf](syllabus.pdf)
+

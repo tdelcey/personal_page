@@ -1,7 +1,7 @@
 ---
 title: "Text as Data"
 author: Thomas Delcey, Aurelien Goutsmedt
-categories: "Master 2 Economie"
+categories: "Master"
 sidebar: false
 ---
 

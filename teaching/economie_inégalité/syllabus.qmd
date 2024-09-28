@@ -1,6 +1,13 @@
 ---
 title: "Syllabus : Économie des inégalités"
-format: pdf
+author:
+  - name: Thomas Delcey
+    email: thomdelcey@gmail.com
+    affiliations:
+      - name: Université de Bourgogne
+format:
+  html: default 
+  pdf: default
 ---
 
 
