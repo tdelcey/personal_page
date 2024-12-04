@@ -23,7 +23,7 @@ website:
    - id: research
      title: "Research" 
      background: light
-     style: docked
+     style: "floating"
      collapse-level: 2
      contents: 
       - publications.qmd  
@@ -36,11 +36,11 @@ website:
       
 format:
   html:
-    # grid:
-    #   sidebar-width: 200px
-    #   body-width: 900px
-    #   margin-width: 300px
-    #   gutter-width: 1.5rem
+    grid:
+      sidebar-width: 200px
+      body-width: 1200px
+      margin-width: 300px
+      gutter-width: 1.5rem
     theme: spacelab
     css: styles.css
 
