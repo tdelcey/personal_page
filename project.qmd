@@ -1,0 +1,12 @@
+---
+title: "Work in progress"
+listing: 
+  type: default
+  contents: 
+    - "projects/*/index.qmd"
+  fields: [image, date, title, author, categories]  
+  sort: "date desc"
+  date-format: "YYYY"
+---
+
+

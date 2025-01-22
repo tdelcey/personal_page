@@ -1,0 +1,12 @@
+---
+title: "Data"
+listing: 
+  type: table
+  contents: 
+    - "data"
+  fields: [date, title, author]  
+  sort: "date desc"
+  date-format: "YYYY"
+---
+
+

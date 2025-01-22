@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  site-url: "https://thomasdelcey.com/"
   navbar:
     tools:
       - icon: github
@@ -17,6 +18,7 @@ website:
       - text: "Home"
         file: index.qmd
       - sidebar:research
+      - file: data.qmd
       - file: teaching.qmd
 
   sidebar: 
@@ -27,7 +29,7 @@ website:
      collapse-level: 2
      contents: 
       - publications.qmd  
-      - projects.qmd
+      - project.qmd
 
   page-footer:
    right: 

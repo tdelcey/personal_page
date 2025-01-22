@@ -1,0 +1,24 @@
+---
+title: "Becoming Economists: Bibliometric Data on Economics Ph.D."
+subtitle: Database  
+author: 
+  - name: "Thomas Delcey"
+    affiliation: "Université de Bourgogne"
+    email: "Thomas.delcey@u-bourgogne.fr"
+  - name: "Aurelien Goutsmedt"
+    affiliation: "UC Louvain; ICHEC"
+    email: "aurelien.goutsmedt[at]uclouvain.be" 
+date: "2024"
+date-format: "YYYY"
+categories: 
+  - "History of french economics"
+  - "data" 
+---
+
+![](picture.png){width=200 fig-align="center"}
+
+## Description
+
+This project is dedicated to the collection and analysis of bibliometric data on theses in economics in the 20th and 21st centuries across different countries.
+
+All data are freely accessible. Visit the [companion website](https://tdelcey.github.io/becoming_economists_page/) for more information. 
