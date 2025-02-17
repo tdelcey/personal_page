@@ -36,13 +36,13 @@ Ce cours vise à comprendre l'interaction entre l'économie et le changement cli
 
 #### Chapitre 0 : Présentation du projet de groupe
 
-- Directives pour le projet
-- Formation des groupes et choix du sujet
+- Directives pour le projet.
+- Formation des groupes et choix du sujet.
 
 #### Chapitre 1 : La crise climatique
 
-- Sujet 1.1: Les fondements scientifiques du changement climatique
-- Sujet 2.1: Impact du changement climatique sur l'environnement global
+- Sujet 1.1: Frontières planétaires. 
+- Sujet 1.2: Les fondements scientifiques du changement climatique.
 
 #### Chapitre 2 : L’économie et le climat
 
@@ -51,8 +51,8 @@ Ce cours vise à comprendre l'interaction entre l'économie et le changement cli
 
 #### Chapitre 3 : L’analyse économique de la crise climatique
 
-- Sujet 3.1: Les externalités. 
-- Sujet 3.2: La tragédie des communs. 
+- Sujet 3.1: La tragédie des communs.
+- Sujet 3.2: Les instruments politiques (taxe, tarification, etc.)
 
 
 ## Ressources bibliographiques
