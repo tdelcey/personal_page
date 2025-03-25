@@ -7,7 +7,7 @@ date-format: "YYYY"
 categories: "History of financial economics"
 ---
 
-![](picture.jpg)
+![](picture.jpg){width=700 fig-align="center"}
 
 ## Abstract
 

@@ -1,17 +1,31 @@
 ---
 title: "La Revue Economique (1950-2025)"
 subtitle: Working paper   
-author: Loïc Charles, Thomas Delcey, Yann Giraud, Ivan Ledezema 
-date: "2024"
+authors: 
+  - name: "Thomas Delcey"
+    affiliation: "Université de Bourgogne Europe"
+    email: "thomas.delcey@ebe.fr"
+  - name: "Ivan Ledzema"
+    affiliation: "Université de Bourgogne Europe" 
+  - name: "Yann Giraud"
+    affiliation: "CY Cergy Paris Université, Agora"
+  - name: "Loïc Charles"
+    affiliation: "Université de Paris 8, Led (EA 3391)"
+date: "2025"
 date-format: "YYYY"
 categories: "History of french economics"
----
+aliases: 
+  - "test/RE_WP_2024/index.html" 
+  
+--- 
 
-<!-- ![](picture.jpg) -->
+![](picture.png){width=700 fig-align="center"}
 
-## Abstract
+## Abstract 
 
-The project is a retrospective of one of the leading french journal in economics, _La Revue Economique_. We use both bibliometric and textual data to analyze the evolution of the journal over the last 75 years.
+This article analyzes the evolution of the _Revue économique_ from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the _Revue économique_. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline.
+
+The R code and data used in this article are available on the [Zenoto repository](https://doi.org/10.5281/zenodo.15083220) and on this website [here](annexe.html). 
 
 <!-- ## Published In -->
 

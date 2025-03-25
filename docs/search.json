@@ -206,25 +206,18 @@
     "text": "Published In\nThis article is published in the Journal of Economic Methodology, 27(2). Link"
   },
   {
-    "objectID": "projects/RE_WP_2024/index.html",
-    "href": "projects/RE_WP_2024/index.html",
-    "title": "La Revue Economique (1950-2025)",
-    "section": "",
-    "text": "The project is a retrospective of one of the leading french journal in economics, La Revue Economique. We use both bibliometric and textual data to analyze the evolution of the journal over the last 75 years."
-  },
-  {
     "objectID": "projects/RE_WP_2024/index.html#abstract",
     "href": "projects/RE_WP_2024/index.html#abstract",
     "title": "La Revue Economique (1950-2025)",
-    "section": "",
-    "text": "The project is a retrospective of one of the leading french journal in economics, La Revue Economique. We use both bibliometric and textual data to analyze the evolution of the journal over the last 75 years."
+    "section": "Abstract",
+    "text": "Abstract\nThis article analyzes the evolution of the Revue économique from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the Revue économique. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline.\nThe R code and data used in this article are available on the Zenoto repository and on this website here."
   },
   {
     "objectID": "project.html",
     "href": "project.html",
     "title": "Work in progress",
     "section": "",
-    "text": "The impact of Fama (1970) : bibliometric analysis with textual context\n\n\nWorking paper\n\n\n\nHistory of financial economics\n\n\n\n\n\n\n2024\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\nLa Revue Economique (1950-2025)\n\n\nWorking paper\n\n\n\nHistory of french economics\n\n\n\n\n\n\n2024\n\n\nLoïc Charles, Thomas Delcey, Yann Giraud, Ivan Ledezema\n\n\n\n\n\n\nNo matching items",
+    "text": "La Revue Economique (1950-2025)\n\n\nWorking paper\n\n\n\nHistory of french economics\n\n\n\n\n\n\n2025\n\n\n\n\n\n\n\n\n\n\n\n\nThe impact of Fama (1970) : bibliometric analysis with textual context\n\n\nWorking paper\n\n\n\nHistory of financial economics\n\n\n\n\n\n\n2024\n\n\nThomas Delcey\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Work in progress"
     ]
