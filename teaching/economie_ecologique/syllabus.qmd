@@ -35,22 +35,22 @@ Après ce cours, les étudiant.es auront:
 
 ### Fresque pour le climat (en TP)
 
-#### Chapitre 0 : Présentation du projet de groupe
+#### Chapitre 0 : Présentation du projet de groupe.
 
 - Directives pour le projet.
 - Formation des groupes et choix du sujet.
 
-#### Chapitre 1 : La crise climatique
+#### Chapitre 1 : La crise climatique.
 
 - Sujet 1.1: Frontières planétaires. 
 - Sujet 1.2: Les fondements scientifiques du changement climatique.
 
-#### Chapitre 2 : L’économie et le climat
+#### Chapitre 2 : Qui réchauffe le climat ?
 
 - Sujet 2.1: Quel pays réchauffe le climat ? 
 - Sujet 2.2: Quel secteur réchauffe le climat ? 
 
-#### Chapitre 3 : L’analyse économique de la crise climatique
+#### Chapitre 3 : Actions et politiques de transitions.
 
 - Sujet 3.1: La tragédie des communs.
 - Sujet 3.2: Les instruments politiques (taxe, tarification, etc.)

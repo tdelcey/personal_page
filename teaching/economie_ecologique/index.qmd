@@ -17,7 +17,7 @@ Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui v
 
   - Syllabus: [html](syllabus.html) ou [pdf](syllabus.pdf)
   - Slides: 
-    - [Chapitre 0](chapitre_0_slides.html)
-    - [Chapitre 1](chapitre_1_slides.html)
-    - [Chapitre 2](chapitre_2_slides.html)
-    - [Chapitre 3](chapitre_3_slides.html)
+    - [Chapitre 0: présentation du projet.](chapitre_0_slides.html)
+    - [Chapitre 1: la crise écologique.](chapitre_1_slides.html)
+    - [Chapitre 2: qui réchauffe le climat ?](chapitre_2_slides.html)
+    - [Chapitre 3: actions et politiques de transitions.](chapitre_3_slides.html)
