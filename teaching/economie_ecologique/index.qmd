@@ -5,7 +5,9 @@ author:
     email: thomdelcey@gmail.com
     affiliations:
       - name: Université de Bourgogne
-categories: "IUT"
+categories: "Teaching"
+date: "2025-02-01"
+date-format: "YYYY-MM-DD"
 sidebar: false
 ---
 

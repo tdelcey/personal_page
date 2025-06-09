@@ -33,14 +33,14 @@ website:
 
   page-footer:
    right: 
-    - text: "Powered by Quarto / Licence CC0 1.0 Universal"
+    - text: "© Thomas Delcey"
       
       
 format:
   html:
     grid:
       sidebar-width: 200px
-      body-width: 1200px
+      body-width: 2000px
       margin-width: 300px
       gutter-width: 1.5rem
     theme: spacelab

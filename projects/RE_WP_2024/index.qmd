@@ -13,7 +13,7 @@ authors:
     affiliation: "Université de Paris 8, Led (EA 3391)"
 date: "2025"
 date-format: "YYYY"
-categories: "History of french economics"
+categories: "Working paper"
 aliases: 
   - "test/RE_WP_2024/index.html" 
   

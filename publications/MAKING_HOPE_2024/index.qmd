@@ -1,9 +1,9 @@
 ---
 title: "The Making of Informational Efficiency: Information Policy and Theory in Interwar Agricultural Economics"
 author: Thomas Delcey, Guillaume Noblet
-date: "2024"
-date-format: "YYYY"
-categories: "History of financial economics"
+date: "2024-08-01"
+date-format: "YYYY-MM-DD"
+categories: "Peer-reviewed article"
 ---
 
 ![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png)

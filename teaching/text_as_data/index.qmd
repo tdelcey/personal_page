@@ -2,6 +2,8 @@
 title: "Text as Data"
 author: Thomas Delcey, Aurelien Goutsmedt
 categories: "Master"
+date: "2023-11-01"
+date-format: "YYYY-MM-DD"
 sidebar: false
 ---
 

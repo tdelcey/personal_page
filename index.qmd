@@ -6,24 +6,49 @@ about:
   template: trestles
   image: assets/images/thomas-delcey.jpg
   image-width: 15em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/thomas-delcey
+    - icon: github
+      text: Github
+      href: https://github.com/tdelcey
+listing: 
+  - id: research
+    contents: 
+      - "publications/*/index.qmd"
+      - "projects/*/index.qmd"
+      - "data/*/index.qmd"
+      - "teaching/*/index.qmd" 
+    type: table
+    fields: 
+      - date
+      - title
+      - categories
+    max-items: 4
+    sort: "date desc"
+  # - id: teaching
+  #   contents: "teaching"
+  #   type: table
 ---
 
 ## Bio 
 
-I am an economist specializing in the history of economics. 
+I am an economist specializing in the history of economic thought, with a particular focus on the origins and development of financial economics. More recently, I have also begun exploring the history of economic thought in France.
 
-My research focuses on the origins and development of financial economics, employing both qualitative data (including private and administrative archives, as well as oral history) and quantitative data (through bibliometric analysis and textual analysis).
+My research interests include the evolution of methodologies in the history of economics. I contribute to several projects aimed at making historical economic data—such as oral archives and bibliometric datasets—more accessible. I am also involved in the development of new quantitative methods and software tools designed for research in the history of economics.
 
-[Download](assets/documents/cv.pdf) my C.V.
+[Download](assets/documents/cv.pdf) my full C.V.
 
-## Experiences
 
-**Tenured assistant professor** | Université de Bourgogne, Dijon | since 2022
+::::: {.columns}
 
-**Managing editor** | Œconomia | since 2022
+## Last news
 
-## Education
+:::{#research}
+:::
 
-**Ph.D. Economics** | Université Paris I Pantheon-Sorbonne | 2021
 
-**Master Economics** | Université Paris I Pantheon-Sorbonne | 2016
+
+
+

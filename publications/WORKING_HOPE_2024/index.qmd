@@ -1,9 +1,9 @@
 ---
 title: "Holbrook Working and the early financial economics."
 author: Thomas Delcey
-date: "2025"
-date-format: "YYYY"
-categories: "History of financial economics"
+date: "2025-04-01"
+date-format: "YYYY-MM-DD"
+categories: "Peer-reviewed article"
 ---
 
 ![Credit: [Working (1922)](https://hdl.handle.net/11299/203943)](picture.png)
@@ -14,7 +14,7 @@ Where does financial economics come from? This paper studies the origins of foun
 
 ## Published In
 
-This article is forthcoming in the *History of Political Economy*.
+This article is published in the *History of Political Economy*.
 
-<!-- [Link](https://doi.org/10.1215/00182702-11242749) -->
+[Link](https://doi.org/10.1215/00182702-11642388)
 

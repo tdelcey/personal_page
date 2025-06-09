@@ -29,8 +29,27 @@
   {
     "listing": "/data.html",
     "items": [
+      "/data/PHD_2024/index.html",
+      "/data/ORAL_HISTORY/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/publications/WORKING_HOPE_2024/index.html",
+      "/teaching/economie_ecologique/index.html",
+      "/data/PHD_2024/index.html",
+      "/projects/RE_WP_2024/index.html",
+      "/teaching/economie_politique/index.html",
       "/data/ORAL_HISTORY/index.html",
-      "/data/PHD_2024/index.html"
+      "/teaching/economie_financière/index.html",
+      "/teaching/economie_inégalité/index.html",
+      "/publications/MAKING_HOPE_2024/index.html",
+      "/projects/FAMA_WP_2024/index.html",
+      "/teaching/text_as_data/index.html",
+      "/publications/EFFICIENT_EJHET_2023/index.html",
+      "/publications/EFFICIENT_JEM_2021/index.html",
+      "/publications/EFFICIENT_OE_19/index.html"
     ]
   }
 ]

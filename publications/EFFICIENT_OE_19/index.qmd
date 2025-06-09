@@ -1,9 +1,9 @@
 ---
 title: "Samuelson vs Fama on the Efficient Market Hypothesis, The Point of View of Expertise"
 author: Thomas Delcey
-date: "2019"
-date-format: "YYYY"
-categories: "History of financial economics"
+date: "2019-03-01"
+date-format: "YYYY-MM-DD"
+categories: "Peer-reviewed article"
 ---
 
 

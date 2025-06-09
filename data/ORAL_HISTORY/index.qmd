@@ -2,9 +2,9 @@
 title: "The Oral Histories of Economics"
 subtitle: Database  
 author: Francesco Sergi, Pierrick Dechaux, Dorian Jullien, Thomas Delcey, and Romain Plassard
-date: "2024"
+date: "2024-09-02"
 date-format: "YYYY"
-categories: "Data"
+categories: "Data and software"
 ---
 
 ![](picture.jpg)

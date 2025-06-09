@@ -4,7 +4,7 @@ subtitle: Working paper
 author: Thomas Delcey
 date: "2024"
 date-format: "YYYY"
-categories: "History of financial economics"
+categories: "Working paper"
 ---
 
 ![](picture.jpg){width=700 fig-align="center"}
