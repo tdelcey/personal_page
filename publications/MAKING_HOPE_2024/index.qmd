@@ -6,7 +6,7 @@ date-format: "YYYY-MM-DD"
 categories: "Peer-reviewed article"
 ---
 
-![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png)
+![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png){width=700 fig-align="center"}
 
 ## Abstract
 

@@ -12,7 +12,7 @@ sidebar: false
 ---
 
 
-![Credit: [Hélène Périvier (2017)](https://sciencespo.hal.science/hal-03458937)](picture.jpg)
+![Credit: [Hélène Périvier (2017)](https://sciencespo.hal.science/hal-03458937)](picture.jpg){width=700 fig-align="center"}
 
 
 

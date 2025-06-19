@@ -11,7 +11,7 @@ date-format: "YYYY-MM-DD"
 sidebar: false
 ---
 
-![](picture.png)
+![](picture.png){width=700 fig-align="center"}
 
 ### Description
 

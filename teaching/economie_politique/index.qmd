@@ -12,7 +12,7 @@ sidebar: false
 ---
 
 
-![Reproduction supposée de la courbe originale par Laffer. Source: [New York Times](https://www.nytimes.com/2017/10/13/us/politics/arthur-laffer-napkin-tax-curve.html)](picture.jpg){width=50%}
+![Reproduction supposée de la courbe originale par Laffer. Source: [New York Times](https://www.nytimes.com/2017/10/13/us/politics/arthur-laffer-napkin-tax-curve.html)](picture.jpg){width=700 fig-align="center"}
 
 ### Description
 

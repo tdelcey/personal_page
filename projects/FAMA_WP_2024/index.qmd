@@ -1,8 +1,8 @@
 ---
-title: "The impact of Fama (1970) : bibliometric analysis with textual context"
+title: "The Dissemination of Fama (1970): A Bibliometric Analysis"
 subtitle: Working paper
 author: Thomas Delcey
-date: "2024"
+date: "2025-06-19"
 date-format: "YYYY"
 categories: "Working paper"
 ---
@@ -11,7 +11,7 @@ categories: "Working paper"
 
 ## Abstract
 
-This paper examines the impact of Fama’s 1970 review that introduces the efficient market hypothesis. I utilize an original database that combines a citation index of Fama’s review from 1970 to 2000 with the specific paragraphs in which Fama is cited. The analysis reveals Fama’s influence beyond financial economics, showing that his work was widely cited in other research programs, including economics, management, marketing, and law. By analyzing the paragraphs that cite Fama, I demonstrate that the efficient market hypothesis was more frequently critically discussed within core finance research, while it was uncritically used by peripheral research programs. 
+What is the life of a seminal paper? This article addresses this question by studying the dissemination of Fama (1970), which introduced the efficient market hypothesis. Using network analysis, I study the various groups of research that cite Fama (1970) and how they evolve over time. I show that the paper was not only a canonical article in economics but also a reference in other fields such as law, management, and marketing. Market efficiency was interpreted in various ways, from a testable hypothesis about the behavior of prices to a useful assumption for evaluating policies. By tracing the various pathways through which this seminal article was exported and translated, the analysis shows the rising influence of finance across the social sciences in the second half of the twentieth century. The article also contributes to the development of quantitative methods applied to the history of economics by providing an interactive, open-source platform that allows users to explore networks and clusters.
 
 <!-- ## Published In -->
 
