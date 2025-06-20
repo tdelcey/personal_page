@@ -13,6 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/tdelcey
+    - icon: book
+      text: HAL
+      href: https://cv.hal.science/thomas-delcey
 listing: 
   - id: research
     contents: 
