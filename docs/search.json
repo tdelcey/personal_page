@@ -293,13 +293,6 @@
     "text": "Abstract\nThis paper offers a concrete, method-driven account of how quantitative techniques can illuminate the history of a capacious concept in economics—rationality. We assemble a large full-text corpus (nearly 300,000 economics articles since 1900) and pair it with structured citation data. On the textual side, we use large language models (LLMs) to trace semantic shifts over more than a century and to identify a corpus of texts centered on rationality, which we then analyze with bibliometrics and network methods. Our objectives are twofold: first, to provide a concrete methodological account that foregrounds the practical choices—from data collection to interpretation—that shape corpus construction and the reading of results; second, to show that unsupervised models, when combined with robustness checks and close reading, can serve as powerful tools for both confirmation and discovery in the history of economics. To ensure transparency and reuse, we release a Shiny application that exposes the indicators we rely on for qualitative interpretation and makes the workflow auditable and replicable."
   },
   {
-    "objectID": "projects/RATIONALITY_WP_2025/index.html#published-in",
-    "href": "projects/RATIONALITY_WP_2025/index.html#published-in",
-    "title": "A history of rationality in economics: a computational approach",
-    "section": "Published In",
-    "text": "Published In\nThis article is forthcoming in the Revue Economique"
-  },
-  {
     "objectID": "publications/EFFICIENT_JEM_2021/index.html",
     "href": "publications/EFFICIENT_JEM_2021/index.html",
     "title": "When Efficient Market Hypothesis Meets Hayek on Information: Beyond a Methodological Reading",
@@ -326,6 +319,13 @@
     "title": "La Revue Economique (1950-2025)",
     "section": "Abstract",
     "text": "Abstract\nThis article analyzes the evolution of the Revue économique from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the Revue économique. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline.\nThe R code and data used in this article are available on the Zenoto repository and on this website here."
+  },
+  {
+    "objectID": "publications/HISTOIRE_RE_2024/index.html#published-in",
+    "href": "publications/HISTOIRE_RE_2024/index.html#published-in",
+    "title": "La Revue Economique (1950-2025)",
+    "section": "Published In",
+    "text": "Published In\nThis article is forthcoming in the Revue Economique."
   },
   {
     "objectID": "publications/WORKING_HOPE_2024/index.html",

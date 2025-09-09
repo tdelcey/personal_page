@@ -23,7 +23,6 @@ This article analyzes the evolution of the _Revue économique_ from its creation
 
 The R code and data used in this article are available on the [Zenoto repository](https://doi.org/10.5281/zenodo.15083220) and on this website [here](annexe.html). 
 
-<!-- ## Published In -->
+## Published In
 
-<!-- This article is forthcoming in the *History of Political Economy*. [Link](https://doi.org/10.1215/00182702-11242749) -->
-
+This article is forthcoming in the _Revue Economique_. 
