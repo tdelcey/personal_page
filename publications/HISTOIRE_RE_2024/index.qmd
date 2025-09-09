@@ -1,6 +1,5 @@
 ---
 title: "La Revue Economique (1950-2025)"
-subtitle: Working paper   
 authors: 
   - name: "Thomas Delcey"
     affiliation: "Université de Bourgogne Europe"
@@ -11,12 +10,9 @@ authors:
     affiliation: "CY Cergy Paris Université, Agora"
   - name: "Loïc Charles"
     affiliation: "Université de Paris 8, Led (EA 3391)"
-date: "2025"
+date: "2025-09-09"
 date-format: "YYYY"
-categories: "Working paper"
-aliases: 
-  - "test/RE_WP_2024/index.html" 
-  
+categories: "Peer-reviewed article"
 --- 
 
 ![](picture.png){width=700 fig-align="center"}
