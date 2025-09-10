@@ -1,5 +1,5 @@
 ---
-title: "A history of rationality in economics: a computational approach"
+title: "A History of Rationality in Economics: a Computational Approach"
 subtitle: Working paper   
 authors: 
 author: 

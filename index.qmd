@@ -37,9 +37,10 @@ listing:
 
 ## Bio 
 
-I am an economist specializing in the history of economic thought, with a particular focus on the origins and development of financial economics. More recently, I have also begun exploring the history of economic thought in France.
+I am an economist specializing in the history of economic thought, with a particular focus on the 20\textsupertranscript{th} century. I hold a Ph.D. in Economics from the University of Paris 1 Panthéon-Sorbonne and I am currently an Assistant Professor at the University of Bourgogne Europe in Dijon, France. I am managing editor of the [Œconomia](https://journals.openedition.org/oeconomia/) and a member of the network REHPERE (Réseau en Épistémologie et en Histoire de la Pensée Économique Récente).
 
-My research interests include the evolution of methodologies in the history of economics. I contribute to several projects aimed at making historical economic data—such as oral archives and bibliometric datasets—more accessible. I am also involved in the development of new quantitative methods and software tools designed for research in the history of economics.
+My research interests include the evolution of methodologies in the history of economics. I contribute to several projects aimed at making historical economic data—such as oral archives and bibliometric and textual datasets—more accessible. I am also involved in the development of new quantitative methods and software tools designed for research in the history of economics. 
+
 
 [Download](assets/documents/cv.pdf) my full C.V.
 
@@ -50,6 +51,8 @@ My research interests include the evolution of methodologies in the history of e
 
 :::{#research}
 :::
+
+:::::
 
 
 

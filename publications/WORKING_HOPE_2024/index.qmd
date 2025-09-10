@@ -1,5 +1,5 @@
 ---
-title: "Holbrook Working and the early financial economics."
+title: "Holbrook Working and the Early Financial Economics."
 author: Thomas Delcey
 date: "2025-04-01"
 date-format: "YYYY-MM-DD"
