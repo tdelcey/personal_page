@@ -11,16 +11,20 @@ date-format: "YYYY-MM-DD"
 sidebar: false
 
 ---
-
-
-![Credit: [Hélène Périvier (2017)](https://sciencespo.hal.science/hal-03458937)](picture.jpg){width=700 fig-align="center"}
-
-
+::: {.columns}
+::: {.column width="50%"}
+![Source: [Hélène Périvier (2017)](https://sciencespo.hal.science/hal-03458937)](picture.jpg){width=700}
+::: 
+::: {.column width="50%"}
+![Distribution des revenus en France avant redistribution en 2023](revenus_centiles.gif){width=700}
+::: 
+:::: 
 
 ### Description
 
-Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui présente les recherches récentes en économie sur la montée des inégalités. Consulté le [syllabus](syllabus.html) pour plus de détails. Les slides sont disponibles ci-dessous :
+Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui présente les recherches récentes en économie sur la montée des inégalités. Consulté le [syllabus](syllabus.html) pour plus de détails. 
 
+### Slides 
 
 ```{=html}
 
@@ -56,10 +60,10 @@ Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui 
   <div class="slide-controls">
     <label for="slides-select">Choisir un chapitre :</label>
     <select id="slides-select">
-      <option value="CM1_slides.html#/">Chapitre 1 — Pourquoi réduire les inégalités ?</option>
-      <option value="CM2_slides.html#/">Chapitre 2 — Définir une inégalité</option>
-      <option value="CM3_slides.html#/">Chapitre 3 — Mesurer les inégalités</option>
-      <option value="CM4_slides.html#/">Chapitre 4 — État des inégalités</option>
+      <option value="CM1_slides.html#/">Chapitre 1 — Introduction</option>
+      <option value="CM2_slides.html#/">Chapitre 2 — Pourquoi réduire les inégalités ?</option>
+      <option value="CM3_slides.html#/">Chapitre 3 — Definir les inégalités</option>
+      <option value="CM4_slides.html#/">Chapitre 4 — Mesurer les inégalités</option>
     </select>
     <a id="open-full" href="CM1_slides.html#/" target="_blank" rel="noopener">Plein écran ↗</a>
   </div>
