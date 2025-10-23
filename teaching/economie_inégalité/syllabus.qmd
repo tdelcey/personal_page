@@ -8,7 +8,6 @@ author:
       - name: Université de Bourgogne
 format:
   html: default
-  pdf: default
 lang: fr
 toc: true
 toc-depth: 2
