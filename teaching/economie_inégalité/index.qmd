@@ -16,7 +16,7 @@ sidebar: false
 ![Source: [Hélène Périvier (2017)](https://sciencespo.hal.science/hal-03458937)](picture.jpg){width=700}
 ::: 
 ::: {.column width="50%"}
-![Distribution des revenus en France avant redistribution en 2023](revenus_centiles.gif){width=700}
+![Distribution des revenus annuels en France avant redistribution en 2023](revenus_centiles.gif){width=700}
 ::: 
 :::: 
 
