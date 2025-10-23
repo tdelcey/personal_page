@@ -1,46 +1,60 @@
 ---
 title: "Syllabus : Économie des inégalités"
+subtitle: "BUT3 — Introduction et approfondissements"
 author:
   - name: Thomas Delcey
     email: thomdelcey@gmail.com
     affiliations:
       - name: Université de Bourgogne
 format:
-  html: default 
+  html: default
   pdf: default
+lang: fr
+toc: true
+toc-depth: 2
+number-sections: false
 ---
 
+# Public visé
 
-# Cible
+Étudiant·es BUT3 GEA.
 
-Étudiant.es BUT3
+# Finalité du cours
 
-## Objectifs :
+Comprendre l’**environnement économique** dans lequel vous allez évoluer et acquérir les bases pour analyser les **inégalités** (mesure, causes, conséquences, politiques publiques).
 
-1. Maîtriser les concepts fondamentaux liés aux inégalités sociales et économiques.
-2. Dresser un état des inégalités économiques dans le monde et en France.
-3. Distinguer les enjeux de répartition entre capital et travail et ceux dans le travail. 
-4. Présenter les principales politiques de lutte contre les inégalités.
+# Objectifs d’apprentissage 
 
-## Plan et calendrier 
+À l’issue du cours, vous serez en capacité de :
 
-Chaque chapitre pose une question générale et propose des éléments de réponse: 
+1. **Identifier** les principales formes d’inégalités économiques et sociales. 
+2. **Distinguer et justifier** quelles inégalités peuvent être jugées souhaitables (incitation, mérite) et lesquelles ne le sont pas. 
+3. **Décrire et interpréter** l’état des inégalités dans le monde et en France, avant et après redistribution. 
+4. **Expliquer** les mécanismes et causes des inégalités (facteurs de production, institutions, technologie, marché du travail, capital/travail). 
+5. **Évaluer** les politiques publiques de réduction des inégalités (fiscales, sociales, marché du travail) et en discuter les arbitrages. 
+6. **Mobiliser** des données (WID, séries nationales) pour produire des graphiques et arguments chiffrés. 
 
-- Chapitre 1: Pourquoi réduire les inégalités ? 
-- Chapitre 2: C’est quoi une inégalité ? 
-- Chapitre 3: Comment mesurer les inégalités. 
-- Chapitre 4: Quel est le niveau des inégalités dans le monde et en France ? 
-- Chapitre 5: Quelles sont les principales causes des inégalités ?
-- Chapitre 6: Comment réduire les inégalités ? 
+# Organisation et formats d’apprentissage
+
+- **CM (cours magistral)** : 12.5h CM (+ 1.5h evaluation TD)
 
 
-## Évaluation :
+# Plan du cours 
 
-1. Examen de mi-parcours:  devoir sur table 
-2. Examen final: devoir sur table 
+Chaque chapitre pose une question centrale: 
 
-## Ressources principales :
+1. **Pourquoi (et faut-il) réduire les inégalités ?** (théorie de la justice, économie normative).
+2. **Définir une inégalité** (revenu, patrimoine, redistribution, capital culturel/social).
+3. **Mesurer les inégalités** (indicateurs, Gini, parts top/bas, avant/après redistribution).  
+4. **Quel est l’état des inégalités dans le monde et en France ?** (évolution en France, comparaisons internationales).
+5. **Quelles sont les principales causes des inégalités ?** (capital humain, technologie, capital/travail)
+6. **Quelles politiques pour réduire les inégalités ?** (politique préventive vs corrective) 
 
-1. Piketty, T. (2013). "L’économie des inégalités". Edition : La découverte.
-2. Milanovic, B. (2016). "Inégalités mondiales". Edition : La découverte.
+# Évaluation
+
+- **QCM en CM (40 %)**  
+  - Portée : chapitres 1–3, définitions, interprétation de graphiques.
+
+- **Examen final en TD (60 %)**  
+  - Portée : ensemble du cours, questions de réflexion et analyse de données courtes.
 
