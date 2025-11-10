@@ -25,4 +25,4 @@ The R code and data used in this article are available on the [Zenoto repository
 
 ## Published In
 
-This article is forthcoming in the _Revue Economique_. 
+This article is published in the _Revue Economique_. [Link](https://doi.org/10.3917/reco.763.0363)
