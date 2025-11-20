@@ -188,17 +188,122 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="columns">
+<div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="picture.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="700"></p>
 </figure>
 </div>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="hyperinflation_allemande.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="700"></p>
+</figure>
+</div>
+</div>
+</div>
 <section id="description" class="level3">
 <h3 class="anchored" data-anchor-id="description">Description</h3>
-<p>Un enseignement de deuxième année à l’IUT de l’université de Bourgogne qui présente les principaux concepts relatifs au financement de l’économie. Le cours introduit le système financier, ces principaux acteurs et son évolution depuis les années 1970. Le cours aborde ensuite les crises financières à travers des exemples historiques et en discutant les mécanismes communs à ces différentes crises. La dernière partie de l’enseignement présente le rôle de la monnaie dans l’économie et les enjeux contemporains de la politique monétaire.</p>
-<ul>
-<li>Syllabus: <a href="syllabus.html">html</a> ou <a href="syllabus.pdf">pdf</a></li>
-</ul>
+<p>Un enseignement de deuxième année à l’IUT de l’université de Bourgogne qui présente les principaux concepts relatifs au financement de l’économie. Consulter le <a href="syllabus.html">syllabus</a> pour plus de détails.</p>
+</section>
+<section id="slides" class="level3">
+<h3 class="anchored" data-anchor-id="slides">Slides</h3>
+
+<style>
+  .slide-viewer {
+    max-width: 1000px; 
+    margin: 1rem auto;
+  }
+  .slide-controls {
+    display: flex; gap: .5rem; align-items: center; margin-bottom: .75rem;
+  }
+  .slide-controls label { font-weight: 600; }
+  .slide-square {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16/9 ; 
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #fff;
+  }
+  .slide-square iframe {
+    position: absolute; inset: 0; width: 100%; height: 100%; border: 0;
+  }
+  /* Fallback si aspect-ratio pas supporté (vieux navigateurs) */
+  @supports not (aspect-ratio: 16/9) {
+    .slide-square { padding-top: 100%; }
+    .slide-square iframe { position: absolute; inset: 0; }
+  }
+</style>
+
+<div class="slide-viewer">
+  <div class="slide-controls">
+    <label for="slides-select">Choisir un chapitre :</label>
+    <select id="slides-select">
+      <option value="CM1_slides.html#/">Chapitre 1 — Les mécanismes de financement</option>
+      <option value="CM2_slides.html#/">Chapitre 2 — La finance et ses acteurs</option>
+      <option value="CM3_slides.html#/">Chapitre 3 — Les crises financières</option>
+    </select>
+    <a id="open-full" href="CM1_slides.html#/" target="_blank" rel="noopener">Plein écran ↗</a>
+  </div>
+
+  <div class="slide-square">
+    <iframe id="slide-frame" src="CM1_slides.html#/" title="Slides"></iframe>
+  </div>
+
+  <noscript>
+    <p>JavaScript est requis pour changer de slide ici.
+      Accédez directement :
+      <a href="CM1_slides.html">CM1</a>, <a href="CM2_slides.html">CM2</a>,
+      <a href="CM3_slides.html">CM3</a>.
+    </p>
+  </noscript>
+</div>
+
+<script>
+  (function() {
+    const select = document.getElementById('slides-select');
+    const frame  = document.getElementById('slide-frame');
+    const full   = document.getElementById('open-full');
+
+    // Pré-sélection via paramètre d’URL ?slide=CM2 (optionnel)
+    const params = new URLSearchParams(window.location.search);
+    const wanted = params.get('slide'); // ex: ?slide=CM3
+    if (wanted) {
+      for (const opt of select.options) {
+        if (opt.value.toLowerCase().startsWith(wanted.toLowerCase())) {
+          select.value = opt.value;
+          break;
+        }
+      }
+    }
+
+    // Applique la sélection initiale
+    frame.src = select.value;
+    full.href = select.value;
+
+    // Met à jour l'iframe et le lien "Plein écran" au changement
+    select.addEventListener('change', () => {
+      frame.src = select.value;
+      full.href = select.value;
+      // Optionnel: mémoriser le dernier choix
+      try { localStorage.setItem('lastSlideSrc', select.value); } catch(e) {}
+    });
+
+    // Recharge le dernier choix si dispo
+    try {
+      const last = localStorage.getItem('lastSlideSrc');
+      if (last) {
+        select.value = last;
+        frame.src = last;
+        full.href = last;
+      }
+    } catch(e) {}
+  })();
+</script>
+
 
 
 </section>
