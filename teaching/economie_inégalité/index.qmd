@@ -22,7 +22,7 @@ sidebar: false
 
 ### Description
 
-Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui présente les recherches récentes en économie sur la montée des inégalités. Consulté le [syllabus](syllabus.html) pour plus de détails. 
+Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui présente les recherches récentes en économie sur la montée des inégalités. Consulter le [syllabus](syllabus.html) pour plus de détails. Une carte interactive du revenu médian par commune en France - discuté dans le chapitre 5 - est aussi disponible 👉 [ici](map_french_income.html).
 
 ### Slides 
 
@@ -64,6 +64,7 @@ Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui 
       <option value="CM2_slides.html#/">Chapitre 2 — Pourquoi réduire les inégalités ?</option>
       <option value="CM3_slides.html#/">Chapitre 3 — Definir les inégalités</option>
       <option value="CM4_slides.html#/">Chapitre 4 — Mesurer les inégalités</option>
+      <option value="CM5_slides.html#/">Chapitre 5 — État des inégalités dans le monde et en France</option>
     </select>
     <a id="open-full" href="CM1_slides.html#/" target="_blank" rel="noopener">Plein écran ↗</a>
   </div>
@@ -76,7 +77,8 @@ Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui 
     <p>JavaScript est requis pour changer de slide ici.
       Accédez directement :
       <a href="CM1_slides.html">CM1</a>, <a href="CM2_slides.html">CM2</a>,
-      <a href="CM3_slides.html">CM3</a>, <a href="CM4_slides.html">CM4</a>.
+      <a href="CM3_slides.html">CM3</a>, <a href="CM4_slides.html">CM4</a>,
+      <a href="CM5_slides.html">CM5</a>.
     </p>
   </noscript>
 </div>
