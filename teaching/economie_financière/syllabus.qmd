@@ -12,58 +12,40 @@ format:
 
 ## Cible
 
-Étudiant.es BUT3
+Étudiant.es BUT2
+—
+
+# Finalité du cours
+
+Comprendre l’**environnement économique** dans lequel vous allez évoluer et acquérir les bases pour analyser les **inégalités** (mesure, causes, conséquences, politiques publiques).
+
+# Objectifs d’apprentissage 
+
+Ce cours introduit les concepts fondamentaux de l'économie monétaire et financière. 
+
+À l’issue de ce cours, les étudiant.es seront capables de :
+1. Expliquer les mécanismes de financement des organisations et le rôle de l’intermédiation financière ;  
+2. Comprendre le fonctionnement des principaux marchés financiers et identifier leurs acteurs clés ;  
+3. Expliquer les causes et les effets des grandes crises financières, passées et récentes ;  
+4. Analyser le rôle de la monnaie et des banques dans le système économique.  
+
+# Organisation et formats d’apprentissage
+
+- **CM (cours magistral)** : 6 heures CM 
+- **TD (travaux dirigés)** : 7.5 heures TD
 
 
-## Objectifs
+# Plan du cours 
 
-Ce cours introduit les concepts fondamentaux de l'économie monétaire et financière. Les objectifs spécifiques sont les suivants :
+Chaque thématique est abordée à la fois en CM et en TD. Le CM introduit les concepts clefs et le TD se concentre sur les sujets les plus difficiles à appréhender, à travers des études de cas et des exemples pratiques. 
 
-1. Familiariser les étudiants avec les principaux marchés financiers et leur rôle dans le système économique.
-2. Analyser les crises financières passées et actuelles pour comprendre leurs causes, leurs effets et les mécanismes de propagation.
-3. Expliquer le rôle et les fonctions de la monnaie dans l'économie et le mécanisme de création monétaire.
-
-Les notions clefs du cours seront introduites en CM et seront ensuite approfondies en séances de TD par groupe. 
-
-
-## Plan
-
-#### Chapitre 1 : Les marchés financiers
-
-- Sujet 1.1. Le système financier et ses acteurs
-
-- Sujet 1.2. Les marchés financiers
-
-#### Chapitre 2 : Les crises financières
-
-- Sujet 2.1. Les crises financières dans l'histoire
-  
-- Sujet 2.2. Les mécanismes théoriques des crises
-
-
-#### Chapitre 3 : La monnaie
-
-- Sujet 3.1. Nature et fonctions de la monnaie
-
-- Sujet 3.2. La création monétaire 
-
-- Sujet 3.3. Monnaie et prix
-
-
-#### Chapitre 4 : La politique monétaire
-
-- Sujet 4.1. Objectifs et instruments de la politique monétaire
-
-- Sujet 4.2. Défis contemporains de la politique monétaire
-
+- **Chapitre 1 & 2 :** La finance et ses acteurs (CM) 
+  - Le TD associé revient sur les différents titres financiers et marchés associés.
+- **Chapitre 3 :** Les crises financières (CM) 
+  - Le TD associé propose une explication détaillée de la crise des Subprimes. 
+- **Chapitre 4 :** La monnaie et la politique monétaire (CM) 
+  - Le TD associé porte sur la création monétaire par les banques commerciales. 
   
 ## Evaluation
 
-- 1 devoir sur table (100%)
-
-## Références principales :
-
-- Monnaie, banques, finance, Jézabel Couppey-Soubeyran, Thomas Renault, Edition PUF. 
-- Monnaie, banque et marchés financiers, Frederic Mishkin, Edition Pearson. 
-- Macroéconomie financière, Michel Aglietta et Natacha Valla, Edition La découverte. 
-- Economie ; l'essentiel du cours, IUT GEA et TC ; 1ère et 2ème années, Éric Maurus, David Calmels, Edition Nathan.
+- 1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes.

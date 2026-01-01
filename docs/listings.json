@@ -11,14 +11,17 @@
     ]
   },
   {
-    "listing": "/publications.html",
+    "listing": "/project.html",
     "items": [
-      "/publications/HISTOIRE_RE_2024/index.html",
-      "/publications/WORKING_HOPE_2024/index.html",
-      "/publications/MAKING_HOPE_2024/index.html",
-      "/publications/EFFICIENT_EJHET_2023/index.html",
-      "/publications/EFFICIENT_JEM_2021/index.html",
-      "/publications/EFFICIENT_OE_19/index.html"
+      "/projects/RATIONALITY_WP_2025/index.html",
+      "/projects/FAMA_WP_2024/index.html"
+    ]
+  },
+  {
+    "listing": "/data.html",
+    "items": [
+      "/data/PHD_2024/index.html",
+      "/data/ORAL_HISTORY/index.html"
     ]
   },
   {
@@ -43,17 +46,14 @@
     ]
   },
   {
-    "listing": "/data.html",
+    "listing": "/publications.html",
     "items": [
-      "/data/PHD_2024/index.html",
-      "/data/ORAL_HISTORY/index.html"
-    ]
-  },
-  {
-    "listing": "/project.html",
-    "items": [
-      "/projects/RATIONALITY_WP_2025/index.html",
-      "/projects/FAMA_WP_2024/index.html"
+      "/publications/HISTOIRE_RE_2024/index.html",
+      "/publications/WORKING_HOPE_2024/index.html",
+      "/publications/MAKING_HOPE_2024/index.html",
+      "/publications/EFFICIENT_EJHET_2023/index.html",
+      "/publications/EFFICIENT_JEM_2021/index.html",
+      "/publications/EFFICIENT_OE_19/index.html"
     ]
   }
 ]

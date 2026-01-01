@@ -1,0 +1,13 @@
+---
+title: "Carte du revenu médian par commune"
+subtitle: "France métropole (Insee, base filosophy 2021)"
+format: html
+sidebar: false
+---
+
+<iframe src="../../assets/static/map_french_income.html" 
+        width="100%" 
+        height="700" 
+        style="border:none;">
+</iframe>
+

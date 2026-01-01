@@ -9,7 +9,6 @@ categories: "Teaching"
 date: "2024-09-01"
 date-format: "YYYY-MM-DD"
 sidebar: false
-
 ---
 
 ### Description
