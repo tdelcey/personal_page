@@ -11,7 +11,7 @@ abstract: 'This article contributes to the study of the historical relationship 
 
 ## Published In
 
-This article is published in the *European Journal of History of Economic Thought, 30(1)*. [Link](https://doi.org/10.1080/09672567.2022.2108869)
+This article is published in the *European Journal of History of Economic Thought, 30(1)*, [https://doi.org/10.1080/09672567.2022.2108869](https://doi.org/10.1080/09672567.2022.2108869)
 
 
 

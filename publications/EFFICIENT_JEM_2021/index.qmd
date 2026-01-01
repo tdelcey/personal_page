@@ -6,7 +6,7 @@ date-format: "YYYY-MM-DD"
 categories: "Peer-reviewed article"
 abstract: 'Hayek and the Efficient Market Hypothesis are often seen as proposing a similar theory of prices. Hayek is seen as proposing to understand prices as information conveyer, incorporating information during the process of competition, while EMH is defined as the fact that all information in a market is integrated into assets prices. This paper explains how a lineage between Hayek and the EMH can be illustrated while taking into account these differences. We particularly want to shed light on the homogeneous shift that can be identified in the epistemology of Hayek and the EMH. We conclude that this shift fleshes out the understanding that some authors have of neoliberalism.'
 ---
-![Credit: [Summers (1985)](https://www.jstor.org/stable/2327785)](picture.png)
+
 
 ## Published In
 
