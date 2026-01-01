@@ -1,0 +1,68 @@
+---
+title: "Histoire de la pensée économique: les économistes et la politique"
+author: "Thomas Delcey"
+engine: knitr
+format: 
+  html: 
+    embed-resources: true
+    toc: true
+    toc-float: true
+    toc-title: "Sommaire"
+---
+
+
+> _The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood._
+
+::: {.justifyright}
+John Maynard Keynes, _The General Theory of Employment, Interest and Money_ (1935)
+:::
+
+> _ECONOMISTS ARE EVERYWHERE. They manage monetary policy, measure the value of government programs to the last dollar, and routinely offer expert testimony in political hearings and in the courts. They also consult for companies, divining the future of industrial competition, calculating the costs and benefits associated with different courses of action, designing legal standards or the nuts and bolts of financial markets. From their vantage point in the media, they comment authoritatively on economic ups and downs, housing booms and dot-com busts, global competition and exchange rate movements. And they can be found on best-seller lists, too, arguing that the subject matter of economics and the applicability of its analytical toolkit reach much further into everyday life than we ever imagined._
+
+::: {.justifyright}
+Marion Fourcade,  _Economists and Societies_ (2009)
+::: 
+
+
+\newpage 
+
+# Présentation 
+
+Les économistes occupent aujourd'hui une place centrale dans le champ politique. Cette centralité est multidimensionnelle. Elle résulte à la fois de la proximité entre les économistes et les sphères de décision, par exemple via leur capacité à conseiller directement les gouvernements. Mais elle résulte aussi plus globalement de leur capacité à exporter leur outils et diffuser leur manière de pensée dans d'autres champs sociaux. Ce cours-séminaire propose d'analyser cette relation étroite entre les économistes et la politique.
+
+La première partie du cours adopte une perspective historique et propose de retracer sur une histoire longue la relation entre les économistes et la politique. L'introduction générale proposera une introduction aux principaux concepts de l'économie et une réflexion générale sur le rôle des idées dans les changements politiques et institutionnelles (chapitre 1). Nous nous intéresserons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un deuxième temps, nous analyserons la montée en puissance des économistes au sein des administrations et des Etats au 20<sup>ème</sup> siècle, en prenant les cas des États-Unis et de la France (chapitres 3).
+
+
+# Objectif 
+
+Ce cours introduit les étudiant.es aux principaux concepts et aux idées économiques. L'objectif est à la fois de présenter de manière précise ces idées et de discuter les implications politiques que ces idées véhiculent. A travers cet enseignement, l'objectif est également de présenter un programme de recherche multidisciplinaire qui prend comme objet les idées économiques et étudie leurs influences sur le monde social. Ce programme de recherche regroupe des recherches en sciences politiques, en sociologie et en économie. L'objectif de ce cours est également de familiariser les étudiant.es avec le milieu de la recherche. Les étudiant.es seront amenés à interagir avec des chercheurs et devront lire des articles récents et principalement en langue anglaise.
+
+
+# Evaluation 
+
+- 1 projet écrit à réaliser à la dernière séance (100%). 
+
+# Bibliographie principale   
+
+Chaque chapitre de la première partie s'appuie sur une lecture principale indiquée dans le plan ci-dessous. Le cours s'appuie plus globalement sur quatre ouvrages principaux: 
+
+- Hall, Peter A. 1992. _The Political Power of Economic Ideas - Keynesianism across Nations_. Princeton, N.J: Princeton University Press.
+- Blyth, Mark. 2002. _Great Transformations: Economic Ideas and Institutional Change in the Twentieth Century_. Cambridge: Cambridge University Press.
+- Fourcade, Marion. 2009. _Economists and Societies: Discipline and Profession in the United States_, Britain, and France, 1890s to 1990s. Princeton University Press. 
+- Popp Berman, Elizabeth. 2022. _Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy_. Princeton University Press.
+
+Ces lectures ne sont pas obligatoires mais vivement conseillées si vous voulez approfondir ce sujet. 
+
+# Plan et calendrier 
+
+
+### Chapitre 1: Introduction générale (séance 1): l'économie est-elle neutre ? 
+
+### Chapitre 2: L'autonomisation des économistes du politique (séance 2)
+
+- Lecture principale: Ferey Samuel. (2019). "L’économie, la politique et l’État – XVIIe-XIXe siècles". _Histoire de la pensée économique_, Pearson, Paris, pp. 17-42.
+
+### Chapitre 3: Les économistes dans la cité au XXe siècles: les Etats-Unis (séance 3)
+
+- Lecture principale: Cherrier Béatrice. (2019). "Les économistes dans la cité au XXe siècle". _Histoire de la pensée économique_, Pearson, Paris, pp. 217-227.
+

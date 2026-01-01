@@ -44,5 +44,8 @@ format:
       margin-width: 300px
       gutter-width: 1.5rem
     theme: spacelab
-    css: styles.css
+    css:
+      - styles.css
+      - assets/slide-viewer.css
+    include-after-body: assets/slide-viewer.html
 

@@ -1,18 +1,20 @@
----
+﻿---
 title: "When Efficient Market Hypothesis Meets Hayek on Information: Beyond a Methodological Reading"
 author: Thomas Delcey, Nathanaël Colin
 date: "2021-10-15"
 date-format: "YYYY-MM-DD"
 categories: "Peer-reviewed article"
+abstract: 'Hayek and the Efficient Market Hypothesis are often seen as proposing a similar theory of prices. Hayek is seen as proposing to understand prices as information conveyer, incorporating information during the process of competition, while EMH is defined as the fact that all information in a market is integrated into assets prices. This paper explains how a lineage between Hayek and the EMH can be illustrated while taking into account these differences. We particularly want to shed light on the homogeneous shift that can be identified in the epistemology of Hayek and the EMH. We conclude that this shift fleshes out the understanding that some authors have of neoliberalism.'
 ---
-
 <!-- ![Credit: [Summers (1985)](https://www.jstor.org/stable/2327785)](picture.png) -->
-
-## Abstract
-
-Hayek and the Efficient Market Hypothesis are often seen as proposing a similar theory of prices. Hayek is seen as proposing to understand prices as information conveyer, incorporating information during the process of competition, while EMH is defined as the fact that all information in a market is integrated into assets prices. This paper explains how a lineage between Hayek and the EMH can be illustrated while taking into account these differences. We particularly want to shed light on the homogeneous shift that can be identified in the epistemology of Hayek and the EMH. We conclude that this shift fleshes out the understanding that some authors have of neoliberalism.
 
 ## Published In
 
-This article is published in the *Journal of Economic Methodology, 27(2)*. [Link](https://doi.org/10.1080/1350178X.2019.1675896)
+This article is published in the *Journal of Economic Methodology, 27(2)*, [https://doi.org/10.1080/1350178X.2019.1675896](https://doi.org/10.1080/1350178X.2019.1675896)
+
+
+
+
+
+
 

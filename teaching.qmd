@@ -1,9 +1,30 @@
 ---
 title: "Enseignements"
 sidebar: false
-listing: 
-  type: grid
-  contents: 
-    - "teaching/*/index.qmd"
-  fields: [title, author, image]  
+listing:
+  - id: actifs
+    type: grid
+    contents:
+      - "teaching/economie_inégalité/index.qmd"
+      - "teaching/economie_financière/index.qmd"
+      - "teaching/economie_ecologique/index.qmd"
+      - "teaching/histoire_pensee_economique/index.qmd"
+    fields: [title, author, image]
+  - id: passes
+    type: table
+    contents:
+      - "teaching/economie_politique/index.qmd"
+      - "teaching/text_as_data/index.qmd"
 ---
+
+::::: {.columns}
+
+## Enseignements en cours
+:::{#actifs}
+:::
+
+## Enseignements passés
+:::{#passes}
+:::
+
+:::: 

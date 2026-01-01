@@ -1,0 +1,56 @@
+﻿---
+title: "Histoire de la pensée économique"
+author:
+  - name: Thomas Delcey
+    email: thomdelcey@gmail.com
+    affiliations:
+      - name: Université de Bourgogne
+categories: "Teaching"
+date: "2025-09-01"
+date-format: "YYYY-MM-DD"
+sidebar: false
+---
+
+### Description
+
+:::: {.columns}
+::: {.column width="60%"}
+Ce cours propose une perspective historique sur l'émergence de la discipline économique en mettant l'accent sur sa relation avec les politiques publiques. Nous explorerons d'abord l'autonomisation progressive vis-à-vis des autorités politiques et morales, puis la montée en puissance des économistes au sein des administrations au XXe siècle. Consulter le [syllabus](syllabus.html) pour plus de détails et les slides ci-dessous.
+
+
+```{=html}
+<div id="slides-hpe"></div>
+<noscript>
+  <p>JavaScript est requis pour changer de slide ici.
+    Accédez directement :
+    <a href="CM1_slides.html">Chapitre 1</a>, <a href="CM2_slides.html">Chapitre 2</a>, <a href="CM3_slides.html">Chapitre 3</a>.
+  </p>
+</noscript>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    initSlideViewer('#slides-hpe', [
+      { file: 'CM1_slides.html#/', label: 'Chapitre 1 - Introduction générale' },
+      { file: 'CM2_slides.html#/', label: 'Chapitre 2 - L\'autonomisation des économistes' },
+      { file: 'CM3_slides.html#/', label: 'Chapitre 3 - Les économistes dans la cité' },
+    ], { storageKey: 'lastSlideHPE' });
+  });
+</script>
+```
+
+
+:::
+
+::: {.column width="40%"}
+![Première page du _Traité de l'Economie Politique_ d'Antoine de Montchretien (1615)](picture.jpg){height=320 fig-align="center"}
+:::
+
+::::
+
+
+
+
+
+
+
+
+

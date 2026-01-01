@@ -1,1 +1,25 @@
 /* css styles */
+
+.columns {
+  gap: 2rem;
+}
+
+.columns img {
+  max-width: 100%;
+  height: auto;
+}
+
+.quarto-listing .listing-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #fff;
+}
+
+.quarto-listing .listing-abstract {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-clamp: 3;
+}

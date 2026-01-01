@@ -1,6 +1,6 @@
----
-title: "La Revue Economique (1950-2025)"
-authors: 
+﻿---
+title: "La Revue Economique (1950-2025), une perspective quantitative"
+author: 
   - name: "Thomas Delcey"
     affiliation: "Université de Bourgogne Europe"
     email: "thomas.delcey@ebe.fr"
@@ -13,16 +13,16 @@ authors:
 date: "2025-09-09"
 date-format: "YYYY"
 categories: "Peer-reviewed article"
---- 
-
+abstract: 'This article analyzes the evolution of the _Revue économique_ from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the _Revue économique_. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline. The R code and data used in this article are available on the [Zenoto repository](https://doi.org/10.5281/zenodo.15083220) and on this website [here](annexe.html).'
+---
 ![](picture.png){width=700 fig-align="center"}
-
-## Abstract 
-
-This article analyzes the evolution of the _Revue économique_ from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the _Revue économique_. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline.
-
-The R code and data used in this article are available on the [Zenoto repository](https://doi.org/10.5281/zenodo.15083220) and on this website [here](annexe.html). 
 
 ## Published In
 
-This article is forthcoming in the _Revue Economique_. 
+This article is published in the _Revue Economique_, [https://doi.org/10.3917/reco.763.0363](https://doi.org/10.3917/reco.763.0363).
+
+
+
+
+
+

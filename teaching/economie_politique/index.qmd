@@ -1,4 +1,4 @@
----
+﻿---
 title: "Les économistes et la politique"
 author:
   - name: Thomas Delcey
@@ -11,12 +11,17 @@ date-format: "YYYY-MM-DD"
 sidebar: false
 ---
 
-
-![Reproduction supposée de la courbe originale par Laffer. Source: [New York Times](https://www.nytimes.com/2017/10/13/us/politics/arthur-laffer-napkin-tax-curve.html)](picture.jpg){width=700 fig-align="center"}
-
 ### Description
 
-Un enseignement de master en sciences politiques à l'université de Lausanne sur l'influence des économistes sur la politique. L'introduction générale propose une réflexion générale sur le rôle des idées dans les changements politiques et institutionnelles (chapitre 1). Nous nous intéressons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un troisième temps, nous analysons la montée en puissance des économistes au sein des administrations et des Etats au 20<sup>ème</sup> siècle, en prenant les cas des États-Unis et de la France (chapitres 3 et 4). Enfin, le dernier chapitre se penche sur situation actuelle, et la place dominante qu'occupe aujourd'hui la discipline économique au sein des autres sciences sociales (chapitre 5). 
+:::: {.columns}
+::: {.column width="60%"}
+Un enseignement de master en sciences politiques à l'université de Lausanne sur l'influence des économistes sur la politique. L'introduction générale propose une réflexion générale sur le rôle des idées dans les changements politiques et institutionnelles (chapitre 1). Nous nous intéressons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un troisième temps, nous analysons la montée en puissance des économistes au sein des administrations et des Etats au 20<sup>ème</sup> siècle, en prenant les cas des États-Unis et de la France (chapitres 3 et 4). Enfin, le dernier chapitre se penche sur situation actuelle, et la place dominante qu'occupe aujourd'hui la discipline économique au sein des autres sciences sociales (chapitre 5). Consultez le [syllabus](syllabus.html) pour plus de détails. 
+:::
 
-  - Syllabus: [html](syllabus.html) ou [pdf](syllabus.pdf)
+::: {.column width="40%"}
+![Reproduction supposée de la courbe originale par Laffer. Source: [New York Times](https://www.nytimes.com/2017/10/13/us/politics/arthur-laffer-napkin-tax-curve.html)](picture.jpg){height=320 fig-align="center"}
+:::
+::::
+
+
 

@@ -1,19 +1,25 @@
----
+﻿---
 title: "The Making of Informational Efficiency: Information Policy and Theory in Interwar Agricultural Economics"
 author: Thomas Delcey, Guillaume Noblet
 date: "2024-08-01"
 date-format: "YYYY-MM-DD"
 categories: "Peer-reviewed article"
+abstract: 'This article offers a historical analysis of American interwar agricultural economists and their interest in information. Believing that the main problem facing farmers was a lack of information, agricultural economists designed an information policy aiming to produce, format, and disseminate information. Using administrative archives, we analyze the motivations of these economists and the implementation of this policy. We show that the policy was a prerequisite for theoretical discussions on information, and established institutional tools that are still active today, such as the USDA market news service.'
 ---
 
-![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png){width=700 fig-align="center"}
 
-## Abstract
 
-This article offers a historical analysis of American interwar agricultural economists and their interest in information. Believing that the main problem facing farmers was a lack of information, agricultural economists designed an information policy aiming to produce, format, and disseminate information. Using administrative archives, we analyze the motivations of these economists and the implementation of this policy. We show that the policy was a prerequisite for theoretical discussions on information, and established institutional tools that are still active today, such as the USDA market news service.
+![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)
 
 ## Published In
 
-This article is published in the *History of Political Economy*. [Link](https://doi.org/10.1215/00182702-11242749)
+This article is published in the *History of Political Economy*. [https://doi.org/10.1215/00182702-11242749](https://doi.org/10.1215/00182702-11242749)
+
+
+
+
+
+
+
 
 

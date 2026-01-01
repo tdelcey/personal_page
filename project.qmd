@@ -4,9 +4,8 @@ listing:
   type: default
   contents: 
     - "projects/*/index.qmd"
-  fields: [image, date, title, author, categories]  
+  fields: [image, date, title, author, categories, abstract]  
   sort: "date desc"
   date-format: "YYYY"
+  image-height: "120px"
 ---
-
-

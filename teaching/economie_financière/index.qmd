@@ -1,4 +1,4 @@
----
+﻿---
 title: "Economie Financière"
 author:
   - name: Thomas Delcey
@@ -12,13 +12,17 @@ sidebar: false
 
 ---
 
-
-![](picture.png){width=700 fig-align="center"}
-
-
 ### Description
 
-Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui présente les principaux concepts relatifs au financement de l'économie. Le cours introduit le système financier, ces principaux acteurs et son évolution depuis les années 1970. Le cours aborde ensuite les crises financières à travers des exemples historiques et en discutant les mécanismes communs à ces différentes crises. La dernière partie de l'enseignement présente le rôle de la monnaie dans l'économie et les enjeux contemporains de la politique monétaire. 
+:::: {.columns}
+::: {.column width="60%"}
+Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui présente les principaux concepts relatifs au financement de l'économie. Le cours introduit le système financier, ces principaux acteurs et son évolution depuis les années 1970. Le cours aborde ensuite les crises financières à travers des exemples historiques et en discutant les mécanismes communs à ces différentes crises. La dernière partie de l'enseignement présente le rôle de la monnaie dans l'économie et les enjeux contemporains de la politique monétaire. Consulter le [syllabus](syllabus.html) pour plus de détails
+:::
 
-  - Syllabus: [html](syllabus.html) ou [pdf](syllabus.pdf)
+::: {.column width="40%"}
+![](picture.png){height=320 fig-align="center"}
+:::
+::::
+
+
 

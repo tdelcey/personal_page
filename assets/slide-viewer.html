@@ -1,0 +1,88 @@
+<script>
+  (function() {
+    function initSlideViewer(target, slides, options) {
+      if (!target || !slides || !slides.length) return;
+
+      var el = typeof target === 'string' ? document.querySelector(target) : target;
+      if (!el) return;
+
+      var opts = options || {};
+      var labelText = opts.label || 'Choisir un chapitre :';
+      var storageKey = opts.storageKey || null;
+
+      el.innerHTML = '';
+      el.classList.add('slide-viewer');
+
+      var controls = document.createElement('div');
+      controls.className = 'slide-controls';
+
+      var label = document.createElement('label');
+      label.textContent = labelText;
+      label.setAttribute('for', el.id ? (el.id + '-select') : '');
+
+      var select = document.createElement('select');
+      if (el.id) select.id = el.id + '-select';
+
+      slides.forEach(function(item) {
+        var opt = document.createElement('option');
+        opt.value = item.file;
+        opt.textContent = item.label || item.file;
+        select.appendChild(opt);
+      });
+
+      var full = document.createElement('a');
+      full.className = 'open-full';
+      full.target = '_blank';
+      full.rel = 'noopener';
+      full.textContent = 'Plein ecran';
+
+      controls.appendChild(label);
+      controls.appendChild(select);
+      controls.appendChild(full);
+
+      var square = document.createElement('div');
+      square.className = 'slide-square';
+
+      var frame = document.createElement('iframe');
+      frame.title = 'Slides';
+      square.appendChild(frame);
+
+      el.appendChild(controls);
+      el.appendChild(square);
+
+      var selected = slides[0].file;
+
+      var params = new URLSearchParams(window.location.search);
+      var wanted = params.get('slide');
+      if (wanted) {
+        for (var i = 0; i < slides.length; i += 1) {
+          if (slides[i].file.toLowerCase().indexOf(wanted.toLowerCase()) === 0) {
+            selected = slides[i].file;
+            break;
+          }
+        }
+      }
+
+      if (storageKey) {
+        try {
+          var stored = localStorage.getItem(storageKey);
+          if (stored) selected = stored;
+        } catch (e) {}
+      }
+
+      select.value = selected;
+      frame.src = selected;
+      full.href = selected;
+
+      select.addEventListener('change', function() {
+        frame.src = select.value;
+        full.href = select.value;
+        if (storageKey) {
+          try { localStorage.setItem(storageKey, select.value); } catch (e) {}
+        }
+      });
+    }
+
+    window.initSlideViewer = initSlideViewer;
+  })();
+</script>

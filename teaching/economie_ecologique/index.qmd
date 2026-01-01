@@ -1,4 +1,4 @@
----
+﻿---
 title: "Economie Ecologique"
 author:
   - name: Thomas Delcey
@@ -11,118 +11,48 @@ date-format: "YYYY-MM-DD"
 sidebar: false
 ---
 
-::: {.columns}
-::: {.column width="50%"}
-![](temperature_anomaly.png){width=700px}
-::: 
-
-::: {.column width="50%"}
-![](picture.png){width=700px}
-::: 
-
-::::
-
 ### Description
 
-Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui vulgarise les principaux points clefs du sixième rapport du GIEC et du Haut Conseil pour le Climat, ainsi que les concepts clefs de l'économie de l'environnement. Le cours est intégré dans un projet de groupe où les étudiant.es analysent l'empreinte carbone d'une entreprise et proposent une solution d'atténuation à travers le cadre de la société à mission. Consulter le [syllabus](syllabus.html) pour plus de détails.
+:::: {.columns}
+::: {.column width="60%"}
+Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui vulgarise les principaux points clefs du sixième rapport du GIEC et du Haut Conseil pour le Climat, ainsi que les concepts clefs de l'économie de l'environnement. Le cours est intégré dans un projet de groupe où les étudiant.es analysent l'empreinte carbone d'une entreprise et proposent une solution d'atténuation à travers le cadre de la société à mission. Consulter le [syllabus](syllabus.html) pour plus de détails et les slides ci-dessous.
 
-
-### Slides 
 
 ```{=html}
-
-<style>
-  .slide-viewer {
-    max-width: 1000px; 
-    margin: 1rem auto;
-  }
-  .slide-controls {
-    display: flex; gap: .5rem; align-items: center; margin-bottom: .75rem;
-  }
-  .slide-controls label { font-weight: 600; }
-  .slide-square {
-    position: relative;
-    width: 100%;
-    aspect-ratio: 16/9; 
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    overflow: hidden;
-    background: #fff;
-  }
-  .slide-square iframe {
-    position: absolute; inset: 0; width: 100%; height: 100%; border: 0;
-  }
-  @supports not (aspect-ratio: 16/9) {
-    .slide-square { padding-top: 100%; }
-    .slide-square iframe { position: absolute; inset: 0; }
-  }
-</style>
-
-<div class="slide-viewer">
-  <div class="slide-controls">
-    <label for="slides-select">Choisir un chapitre :</label>
-    <select id="slides-select">
-      <option value="chapitre_0_slides.html#/">Chapitre 0 — Présentation du projet</option>
-      <option value="chapitre_1_slides.html#/">Chapitre 1 — La crise écologique</option>
-      <option value="chapitre_2_slides.html#/">Chapitre 2 — Qui réchauffe le climat ?</option>
-      <option value="chapitre_3_slides.html#/">Chapitre 3 — Actions et politiques de transitions</option>
-    </select>
-    <a id="open-full" href="chapitre_0_slides.html#/" target="_blank" rel="noopener">Plein écran ↗</a>
-  </div>
-
-  <div class="slide-square">
-    <iframe id="slide-frame" src="chapitre_0_slides.html#/" title="Slides"></iframe>
-  </div>
-
-  <noscript>
-    <p>JavaScript est requis pour changer de slide ici.
-      Accédez directement :
-      <a href="chapitre_0_slides.html">Chapitre 0</a>,
-      <a href="chapitre_1_slides.html">Chapitre 1</a>,
-      <a href="chapitre_2_slides.html">Chapitre 2</a>,
-      <a href="chapitre_3_slides.html">Chapitre 3</a>.
-    </p>
-  </noscript>
-</div>
-
+<div id="slides-eco"></div>
+<noscript>
+  <p>JavaScript est requis pour changer de slide ici.
+    Accédez directement :
+    <a href="chapitre_0_slides.html">Chapitre 0</a>, <a href="chapitre_1_slides.html">Chapitre 1</a>, <a href="chapitre_2_slides.html">Chapitre 2</a>, <a href="chapitre_3_slides.html">Chapitre 3</a>.
+  </p>
+</noscript>
 <script>
-  (function() {
-    const select = document.getElementById('slides-select');
-    const frame  = document.getElementById('slide-frame');
-    const full   = document.getElementById('open-full');
-
-    // Pré-sélection via paramètre d’URL ?slide=chapitre_2 (optionnel)
-    const params = new URLSearchParams(window.location.search);
-    const wanted = params.get('slide');
-    if (wanted) {
-      for (const opt of select.options) {
-        if (opt.value.toLowerCase().startsWith(wanted.toLowerCase())) {
-          select.value = opt.value;
-          break;
-        }
-      }
-    }
-
-    // Applique la sélection initiale
-    frame.src = select.value;
-    full.href = select.value;
-
-    // Met à jour l'iframe et le lien "Plein écran"
-    select.addEventListener('change', () => {
-      frame.src = select.value;
-      full.href = select.value;
-      try { localStorage.setItem('lastSlideEco', select.value); } catch(e) {}
-    });
-
-    // Recharge le dernier choix si dispo
-    try {
-      const last = localStorage.getItem('lastSlideEco');
-      if (last) {
-        select.value = last;
-        frame.src = last;
-        full.href = last;
-      }
-    } catch(e) {}
-  })();
+  window.addEventListener('DOMContentLoaded', function() {
+    initSlideViewer('#slides-eco', [
+      { file: 'chapitre_0_slides.html#/', label: 'Chapitre 0 - Présentation du projet' },
+      { file: 'chapitre_1_slides.html#/', label: 'Chapitre 1 - La crise écologique' },
+      { file: 'chapitre_2_slides.html#/', label: 'Chapitre 2 - Qui réchauffe le climat ?' },
+      { file: 'chapitre_3_slides.html#/', label: 'Chapitre 3 - Actions et politiques de transitions' },
+    ], { storageKey: 'lastSlideEco' });
+  });
 </script>
 ```
+
+
+:::
+
+::: {.column width="40%"}
+![](temperature_anomaly.png){height=320 fig-align="center"}
+
+
+:::
+::::
+
+
+
+
+
+
+
+
+
