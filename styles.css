@@ -1,4 +1,4 @@
-/* css styles */
+﻿/* css styles */
 
 .columns {
   gap: 2rem;
@@ -9,6 +9,7 @@
   height: auto;
 }
 
+/* Ensure listing thumbnails keep aspect ratio inside the grid tiles. */
 .quarto-listing .listing-image img {
   width: 100%;
   height: 100%;
@@ -16,6 +17,7 @@
   background: #fff;
 }
 
+/* Clamp listing abstracts to a few lines for tidy cards. */
 .quarto-listing .listing-abstract {
   display: -webkit-box;
   -webkit-line-clamp: 3;
@@ -23,3 +25,49 @@
   overflow: hidden;
   line-clamp: 3;
 }
+
+/* Course page hero: description + image in a compact band. */
+.course-hero {
+  display: grid;
+  grid-template-columns: 1.6fr 0.9fr;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+/* Center the image block within the hero column. */
+.course-hero-image {
+  text-align: center;
+}
+
+/* Keep hero images responsive and proportional. */
+.course-hero-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Stack hero content on small screens and show image first. */
+@media (max-width: 800px) {
+  .course-hero {
+    grid-template-columns: 1fr;
+  }
+
+  .course-hero-image {
+    order: -1;
+  }
+}
+
+/* Soft frame around slide viewer */
+.slide-frame {
+  border: 1px solid #e6e6e6;
+  background: #fafafa;
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+}
+
+/* Narrow, centered slide viewer without a frame. */
+.slide-narrow {
+  max-width: 900px;
+  margin: 0 auto;
+}
+

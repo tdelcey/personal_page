@@ -4,7 +4,7 @@ author:
   - name: Thomas Delcey
     email: thomdelcey@gmail.com
     affiliations:
-      - name: Université de Bourgogne
+      - name: Université de Bourgogne Europe
 categories: "Teaching"
 date: "2025-09-01"
 date-format: "YYYY-MM-DD"
@@ -13,10 +13,19 @@ sidebar: false
 
 ### Description
 
-:::: {.columns}
-::: {.column width="60%"}
-Ce cours propose une perspective historique sur l'émergence de la discipline économique en mettant l'accent sur sa relation avec les politiques publiques. Nous explorerons d'abord l'autonomisation progressive vis-à-vis des autorités politiques et morales, puis la montée en puissance des économistes au sein des administrations au XXe siècle. Consulter le [syllabus](syllabus.html) pour plus de détails et les slides ci-dessous.
+::: {.course-hero}
+::: {.course-hero-text}
+Cet enseignement de master porte sur l'histoire de la pensée économique. Partant du constat que la discipline économique est aujourd'hui largement investie et mobilisée dans les politiques publiques, ce cours adopte une approche historique pour comprendre comment cette situation s'est construite au fil du temps. Cette histoire de la pensée économique interroge les relations entre la pensée économique et la politique au sens large (autorités politiques, morales, administratives). Nous explorons d'abord l'autonomisation progressive vis-à-vis des autorités politiques et morales jusqu'à la révolution marginaliste à la fin du XIXe siècle. Nous analysons ensuite la montée en puissance des économistes au sein des administrations au XXe siècle. Consulter le [syllabus](syllabus.html) pour plus de détails et les slides ci-dessous.
+:::
 
+::: {.course-hero-image}
+![Première page du _Traité de l'Economie Politique_ d'Antoine de Montchretien (1615)](picture.jpg){height=320 fig-align="center"}
+:::
+:::
+
+---
+
+### Slides
 
 ```{=html}
 <div id="slides-hpe"></div>
@@ -36,20 +45,6 @@ Ce cours propose une perspective historique sur l'émergence de la discipline é
   });
 </script>
 ```
-
-
-:::
-
-::: {.column width="40%"}
-![Première page du _Traité de l'Economie Politique_ d'Antoine de Montchretien (1615)](picture.jpg){height=320 fig-align="center"}
-:::
-
-::::
-
-
-
-
-
 
 
 

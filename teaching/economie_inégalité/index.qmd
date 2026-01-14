@@ -1,5 +1,5 @@
 ﻿---
-title: "Economie des inégalités"
+title: "Économie des inégalités"
 author:
   - name: Thomas Delcey
     email: thomdelcey@gmail.com
@@ -14,9 +14,28 @@ sidebar: false
 
 ### Description
 
-:::: {.columns}
-::: {.column width="60%"}
-Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui présente les recherches récentes en économie sur la montée des inégalités. Consultez le [syllabus](syllabus.html) pour plus de détails et les slides ci-dessous.
+::: {.course-hero}
+::: {.course-hero-text}
+Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui introduit les concepts économiques liées aux inégalités économiques et sociales. Chaque chapitre soulève une question centrale discutée avec les étudiant.es en début de séance puis est développé à travers des concepts économiques clés et des données empiriques récentes (construites à partir du _World Inequality Database_): 
+
+
+Chaque chapitre pose une question centrale:  
+  - Chapite 1: Pourquoi (et faut-il) réduire les inégalités ? (théorie de la justice, économie normative)  
+  - Chapite 2: Définir une inégalité (revenu, patrimoine, redistribution, capital culturel/social)  
+  - Chapite 3: Mesurer les inégalités (indicateurs, Gini, parts top/bas, avant/après redistribution)  
+  - Chapite 4: Quel est l’état des inégalités dans le monde et en France ? (évolution en France, comparaisons internationales)  
+  - Chapite 5: Quelles sont les principales causes des inégalités ? (capital humain, technologie, capital/travail)  
+  - Chapite 6: Quelles politiques pour réduire les inégalités ? (politique préventive vs corrective)  
+
+Consultez le [syllabus](syllabus.html) pour plus de détails et les slides ci-dessous.
+:::
+
+::: {.course-hero-image}
+![Source: [Hélène Périvier (2017)](https://sciencespo.hal.science/hal-03458937)](picture.jpg){height=320 fig-align="center"}
+:::
+:::
+
+---
 
 ### Slides
 
@@ -39,23 +58,4 @@ Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui 
   });
 </script>
 ```
-
-
-:::
-
-::: {.column width="40%"}
-![Source: [Hélène Périvier (2017)](https://sciencespo.hal.science/hal-03458937)](picture.jpg){height=320 fig-align="center"}
-
-
-:::
-::::
-
-
-
-
-
-
-
-
-
 

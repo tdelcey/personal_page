@@ -13,10 +13,19 @@ sidebar: false
 
 ### Description
 
-:::: {.columns}
-::: {.column width="60%"}
+::: {.course-hero}
+::: {.course-hero-text}
 Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui vulgarise les principaux points clefs du sixième rapport du GIEC et du Haut Conseil pour le Climat, ainsi que les concepts clefs de l'économie de l'environnement. Le cours est intégré dans un projet de groupe où les étudiant.es analysent l'empreinte carbone d'une entreprise et proposent une solution d'atténuation à travers le cadre de la société à mission. Consulter le [syllabus](syllabus.html) pour plus de détails et les slides ci-dessous.
+:::
 
+::: {.course-hero-image}
+![](temperature_anomaly.png){height=320 fig-align="center"}
+:::
+:::
+
+---
+
+### Slides
 
 ```{=html}
 <div id="slides-eco"></div>
@@ -37,22 +46,3 @@ Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui v
   });
 </script>
 ```
-
-
-:::
-
-::: {.column width="40%"}
-![](temperature_anomaly.png){height=320 fig-align="center"}
-
-
-:::
-::::
-
-
-
-
-
-
-
-
-

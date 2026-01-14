@@ -9,15 +9,13 @@ sidebar: false
 
 ### Description
 
-:::: {.columns}
-::: {.column width="60%"}
+::: {.course-hero}
+::: {.course-hero-text}
 Une intervention de 4 heures pour des étudiants de master 2 sur l'analyse textuelle et ses applications à l'histoire de l'économie. L'enseignement introduit les étapes clefs de l'analyse: la création du corpus, la représentation et tokenization, et l'analyse. Pour chaque étape, une application est proposée sur `R`. Consulter les [slides](text_as_data_slides.html).
 :::
 
-::: {.column width="40%"}
+::: {.course-hero-image}
 ![](picture.png){height=320 fig-align="center"}
 :::
-::::
-
-
+:::
 
