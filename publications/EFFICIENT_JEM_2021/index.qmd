@@ -1,6 +1,6 @@
 ---
 title: "When Efficient Market Hypothesis Meets Hayek on Information: Beyond a Methodological Reading"
-author: Thomas Delcey, Nathana�l Colin
+author: Thomas Delcey, Nathanaël Colin
 date: "2021-10-15"
 date-format: "YYYY-MM-DD"
 categories: "Peer-reviewed article"

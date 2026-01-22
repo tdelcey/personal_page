@@ -3,15 +3,15 @@ title: "One Sentence at a Time: A Quantitative History of Rationality in Economi
 authors: 
 author: 
   - name: "Thomas Delcey"
-    affiliation: "Universit� de Bourgogne"
+    affiliation: "Université de Bourgogne"
   - name: "Aurelien Goutsmedt"
     affiliation: "UC Louvain; ICHEC"
   - name: "Alexandre Truc"
-    affiliation: "Universit� du CNRS"
+    affiliation: "Université du CNRS"
 date: "2025-09-09"
 date-format: "YYYY"
 categories: "Working paper"
-abstract: 'This article demonstrates how unsupervised quantitative methods can enrich the history of economic thought. Using the largest English-language corpus ever assembled for the field�nearly 290,000 economics journal articles from 1900 to 2009 with citation data�we analyze the evolution of the concept of rationality. Combining large language model�based semantic analysis with bibliometric and network methods, we identify and cluster discussions of rationality across time and scales, such as the circulation of bounded rationality and the emergence of behavioral economics. We provide an open-source interactive tool to support transparency and reuse.'
+abstract: 'This article demonstrates how unsupervised quantitative methods can enrich the history of economic thought. Using the largest English-language corpus ever assembled for the field---nearly 290,000 economics journal articles from 1900 to 2009 with citation data---we analyze the evolution of the concept of rationality. Combining large language model-based semantic analysis with bibliometric and network methods, we identify and cluster discussions of rationality across time and scales, such as the circulation of bounded rationality and the emergence of behavioral economics. We provide an open-source interactive tool to support transparency and reuse.'
 ---
 ::: columns
 ::: column
