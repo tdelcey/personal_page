@@ -9,6 +9,13 @@
   height: auto;
 }
 
+/* Allow tiny logos inside column lists. */
+.inline-icon {
+  height: 20px !important;
+  width: auto !important;
+  vertical-align: text-bottom;
+}
+
 /* Ensure listing thumbnails keep aspect ratio inside the grid tiles. */
 .quarto-listing .listing-image img {
   width: 100%;

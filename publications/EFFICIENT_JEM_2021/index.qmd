@@ -1,6 +1,6 @@
-﻿---
+---
 title: "When Efficient Market Hypothesis Meets Hayek on Information: Beyond a Methodological Reading"
-author: Thomas Delcey, Nathanaël Colin
+author: Thomas Delcey, Nathana�l Colin
 date: "2021-10-15"
 date-format: "YYYY-MM-DD"
 categories: "Peer-reviewed article"
@@ -8,9 +8,13 @@ abstract: 'Hayek and the Efficient Market Hypothesis are often seen as proposing
 ---
 
 
-## Published In
+### Article details
 
-This article is published in the *Journal of Economic Methodology, 27(2)*, [https://doi.org/10.1080/1350178X.2019.1675896](https://doi.org/10.1080/1350178X.2019.1675896)
+- ![](/assets/images/book-logo.webp){.inline-icon} Published in: *Journal of Economic Methodology, 27(2)*
+- ![](/assets/images/doi_logo.png){.inline-icon} [10.1080/1350178X.2019.1675896](https://doi.org/10.1080/1350178X.2019.1675896)
+- Search in ![](/assets/images/google_scholar_logo.png){.inline-icon} [Google Scholar](https://scholar.google.com/scholar?q=When%20Efficient%20Market%20Hypothesis%20Meets%20Hayek%20on%20Information%3A%20Beyond%20a%20Methodological%20Reading)
+- Preprint available: ![](/assets/images/hal-logo.png){.inline-icon} [HAL](https://hal.science/hal-01933895v1)
+
 
 
 

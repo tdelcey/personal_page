@@ -1,25 +1,39 @@
-﻿---
+---
 title: "La Revue Economique (1950-2025), une perspective quantitative"
 author: 
   - name: "Thomas Delcey"
-    affiliation: "Université de Bourgogne Europe"
+    affiliation: "Universit� de Bourgogne Europe"
     email: "thomas.delcey@ebe.fr"
   - name: "Ivan Ledzema"
-    affiliation: "Université de Bourgogne Europe" 
+    affiliation: "Universit� de Bourgogne Europe" 
   - name: "Yann Giraud"
-    affiliation: "CY Cergy Paris Université, Agora"
-  - name: "Loïc Charles"
-    affiliation: "Université de Paris 8, Led (EA 3391)"
+    affiliation: "CY Cergy Paris Universit�, Agora"
+  - name: "Lo�c Charles"
+    affiliation: "Universit� de Paris 8, Led (EA 3391)"
 date: "2025-09-09"
 date-format: "YYYY"
 categories: "Peer-reviewed article"
-abstract: 'This article analyzes the evolution of the _Revue économique_ from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the _Revue économique_. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline. The R code and data used in this article are available on the [Zenoto repository](https://doi.org/10.5281/zenodo.15083220) and on this website [here](annexe.html).'
+abstract: "This article analyzes the evolution of the _Revue �conomique_ from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the _Revue �conomique_. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline."
 ---
-![](picture.png){width=700 fig-align="center"}
 
-## Published In
+::: columns
+::: column
+![](picture.png){fig-align="center"}
+:::
 
-This article is published in the _Revue Economique_, [https://doi.org/10.3917/reco.763.0363](https://doi.org/10.3917/reco.763.0363).
+::: column
+### Article details
+
+- ![](/assets/images/book-logo.webp){.inline-icon} Published in: _Revue Economique_
+- ![](/assets/images/doi_logo.png){.inline-icon} [10.3917/reco.763.0363](https://doi.org/10.3917/reco.763.0363)
+- Search in ![](/assets/images/google_scholar_logo.png){.inline-icon} [Google Scholar](https://scholar.google.com/scholar?q=La%20Revue%20Economique%20%281950-2025%29%2C%20une%20perspective%20quantitative)
+- Preprint available: ![](/assets/images/hal-logo.png){.inline-icon} [HAL](https://shs.hal.science/halshs-05360642v1)
+- ![](/assets/images/code_logo.jpg){.inline-icon} Annexe: 
+  - Quarto page: [download](https://doi.org/10.5281/zenodo.15083220) or [visit](annexe.html) directly
+  - ![](/assets/images/github-logo.svg){.inline-icon} Github: [code and data](https://github.com/tdelcey/research/tree/main/revue_economique)
+:::
+:::
+
 
 
 

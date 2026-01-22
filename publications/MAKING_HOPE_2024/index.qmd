@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Making of Informational Efficiency: Information Policy and Theory in Interwar Agricultural Economics"
 author: Thomas Delcey, Guillaume Noblet
 date: "2024-08-01"
@@ -9,11 +9,21 @@ abstract: 'This article offers a historical analysis of American interwar agricu
 
 
 
-![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png)
+::: columns
+::: column
+![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png){fig-align="center"}
+:::
 
-## Published In
+::: column
+### Article details
 
-This article is published in the *History of Political Economy*. [https://doi.org/10.1215/00182702-11242749](https://doi.org/10.1215/00182702-11242749)
+- ![](/assets/images/book-logo.webp){.inline-icon} Published in: *History of Political Economy*
+- ![](/assets/images/doi_logo.png){.inline-icon} [10.1215/00182702-11242749](https://doi.org/10.1215/00182702-11242749)
+- Search in ![](/assets/images/google_scholar_logo.png){.inline-icon} [Google Scholar](https://scholar.google.com/scholar?q=The%20Making%20of%20Informational%20Efficiency%3A%20Information%20Policy%20and%20Theory%20in%20Interwar%20Agricultural%20Economics)
+- Preprint available: ![](/assets/images/hal-logo.png){.inline-icon} [HAL](https://hal.science/hal-03227973v3)
+:::
+:::
+
 
 
 
