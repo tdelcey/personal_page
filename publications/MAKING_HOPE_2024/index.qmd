@@ -9,12 +9,12 @@ abstract: 'This article offers a historical analysis of American interwar agricu
 
 
 
-::: columns
-::: column
-![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png){fig-align="center"}
+::: {.columns .article-hero}
+::: {.column}
+![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png){fig-align="center" .article-hero-image}
 :::
 
-::: column
+::: {.column}
 ### Article details
 
 - ![](/assets/images/book-logo.webp){.inline-icon} Published in: *History of Political Economy*

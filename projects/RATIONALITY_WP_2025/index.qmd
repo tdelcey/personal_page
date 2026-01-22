@@ -13,15 +13,15 @@ date-format: "YYYY"
 categories: "Working paper"
 abstract: 'This article demonstrates how unsupervised quantitative methods can enrich the history of economic thought. Using the largest English-language corpus ever assembled for the field---nearly 290,000 economics journal articles from 1900 to 2009 with citation data---we analyze the evolution of the concept of rationality. Combining large language model-based semantic analysis with bibliometric and network methods, we identify and cluster discussions of rationality across time and scales, such as the circulation of bounded rationality and the emergence of behavioral economics. We provide an open-source interactive tool to support transparency and reuse.'
 ---
-::: columns
-::: column
-![](picture.png){fig-align="center"}
+::: {.columns .article-hero}
+::: {.column}
+![](picture.png){fig-align="center" .article-hero-image}
 :::
 
-::: column
+::: {.column}
 ### Article details
 
-- ![](/assets/images/hal-logo.png){.inline-icon} [HAL](https://hal.science/hal-05431080)
+- Preprint available: ![](/assets/images/hal-logo.png){.inline-icon}  [HAL](https://hal.science/hal-05431080)
 - Search in ![](/assets/images/google_scholar_logo.png){.inline-icon} [Google Scholar](https://scholar.google.com/scholar?q=One%20Sentence%20at%20a%20Time%3A%20A%20Quantitative%20History%20of%20Rationality%20in%20Economic%20Thought)
 - ![](/assets/images/code_logo.jpg){.inline-icon} Annexe: 
   - Shiny app: [visit](https://019adac8-81d4-aa0e-808c-08861c261fd2.share.connect.posit.cloud/)

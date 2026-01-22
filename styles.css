@@ -9,6 +9,26 @@
   height: auto;
 }
 
+/* Consistent research article hero layout and imagery. */
+.article-hero .column + .column {
+  border-left: 1px solid #e6e6e6;
+  padding-left: 1.5rem;
+}
+
+img.article-hero-image {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 800px) {
+  .article-hero .column + .column {
+    border-left: none;
+    padding-left: 0;
+  }
+}
+
 /* Allow tiny logos inside column lists. */
 .inline-icon {
   height: 20px !important;

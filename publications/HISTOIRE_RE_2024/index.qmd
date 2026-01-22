@@ -16,12 +16,12 @@ categories: "Peer-reviewed article"
 abstract: "This article analyzes the evolution of the _Revue Economique_ from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the _Revue Economique_. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline."
 ---
 
-::: columns
-::: column
-![](picture.png){fig-align="center"}
+::: {.columns .article-hero}
+::: {.column}
+![](picture.png){fig-align="center" .article-hero-image}
 :::
 
-::: column
+::: {.column}
 ### Article details
 
 - ![](/assets/images/book-logo.webp){.inline-icon} Published in: _Revue Economique_
