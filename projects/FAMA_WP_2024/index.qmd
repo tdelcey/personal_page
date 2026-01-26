@@ -14,7 +14,7 @@ abstract: 'What is the life of a seminal paper? This article addresses this ques
 ::: column
 ### Article details
 
-- Preprint available: ![](/assets/images/hal-logo.png){.inline-icon} [HAL](https://hal.science/)
+- Preprint available: ![](/assets/images/hal-logo.png){.inline-icon} [HAL](https://hal.science/hal-05121997/)
 - Search in ![](/assets/images/google_scholar_logo.png){.inline-icon} [Google Scholar](https://scholar.google.com/scholar?q=The%20Dissemination%20of%20Fama%20%281970%29%3A%20A%20Bibliometric%20Analysis)
 - ![](/assets/images/code_logo.jpg){.inline-icon} Annexe: 
   - Shiny app: [visit](https://0199b9c1-2d4f-0e97-851e-0d8342873b00.share.connect.posit.cloud)
