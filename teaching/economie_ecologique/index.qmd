@@ -41,7 +41,7 @@ Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui v
       { file: 'chapitre_0_slides.html#/', label: 'Chapitre 0 - Présentation du projet' },
       { file: 'chapitre_1_slides.html#/', label: 'Chapitre 1 - La crise écologique' },
       { file: 'chapitre_2_slides.html#/', label: 'Chapitre 2 - Qui réchauffe le climat ?' },
-      { file: 'chapitre_3_slides.html#/', label: 'Chapitre 3 - Actions et politiques de transitions' },
+      { file: 'chapitre_3_slides.html#/', label: 'Chapitre 3 - La tragédie des communs' },
     ], { storageKey: 'lastSlideEco' });
   });
 </script>
