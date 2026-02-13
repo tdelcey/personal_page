@@ -4,7 +4,7 @@ author:
   - name: Thomas Delcey
     email: thomdelcey@gmail.com
     affiliations:
-      - name: Université de Bourgogne
+      - name: Université de Bourgogne Europe
 categories: "Teaching"
 date: "2024-09-01"
 date-format: "YYYY-MM-DD"
@@ -19,7 +19,31 @@ Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui p
 :::
 
 ::: {.course-hero-image}
-![](picture.png){height=320 fig-align="center"}
+![](picture.jpg){height=320 fig-align="center"}
 :::
 :::
+
+---
+
+### Slides
+
+```{=html}
+<div id="slides-finance"></div>
+<noscript>
+  <p>JavaScript est requis pour changer de slide ici.
+    Accédez directement :
+    <a href="CM1_slides.html">CM1</a>, <a href="CM2_slides.html">CM2</a>, <a href="CM3_slides.html">CM3</a>, <a href="CM4_slides.html">CM4</a>.
+  </p>
+</noscript>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    initSlideViewer('#slides-finance', [
+      { file: 'CM1_slides.html#/', label: 'Chapitre 1 - Finance et acteurs' },
+      { file: 'CM2_slides.html#/', label: 'Chapitre 2 - Marchés et titres financiers' },
+      { file: 'CM3_slides.html#/', label: 'Chapitre 3 - Crises financières' },
+      { file: 'CM4_slides.html#/', label: 'Chapitre 4 - Monnaie et politique monétaire' },
+    ], { storageKey: 'lastSlideSrc' });
+  });
+</script>
+```
 

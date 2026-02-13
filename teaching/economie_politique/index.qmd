@@ -4,7 +4,7 @@ author:
   - name: Thomas Delcey
     email: thomdelcey@gmail.com
     affiliations:
-      - name: Université de Bourgogne
+      - name: Université de Bourgogne Europe
 categories: "Teaching"
 date: "2024-11-01"
 date-format: "YYYY-MM-DD"

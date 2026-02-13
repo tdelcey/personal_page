@@ -1,0 +1,50 @@
+---
+title: "Syllabus : Économie internationale"
+author:
+  - name: Thomas Delcey
+    email: thomdelcey@gmail.com
+    affiliations:
+      - name: Université de Bourgogne Europe
+format:
+  html: default
+  pdf: default
+---
+
+## Cible
+
+Étudiant.es BUT2
+---
+
+# Finalité du cours
+
+Comprendre les principaux enjeux de l'économie internationale, des dynamiques de mondialisation aux politiques commerciales, et être capable d'analyser les effets des échanges internationaux sur les pays, les secteurs et les inégalités.
+
+# Objectifs d'apprentissage
+
+Ce cours introduit les concepts fondamentaux du commerce international et de la mondialisation.
+
+À l'issue de ce cours, les étudiant.es seront capables de :
+1. Décrire les grandes phases de la mondialisation et les faits stylisés du commerce international ;
+2. Expliquer les modèles classiques du commerce international et leurs prédictions ;
+3. Analyser les politiques commerciales et leurs effets économiques ;
+4. Identifier le rôle des institutions internationales et les débats contemporains (protectionnisme, régionalisation, inégalités).
+
+# Organisation et formats d'apprentissage
+
+- **CM (cours magistral)** : 4.5 heures CM
+- **TD (travaux dirigés)** : 6 heures TD
+
+# Plan du cours
+
+Chaque thématique est abordée à la fois en CM et en TD. Le CM introduit les concepts clefs et le TD se concentre sur un approfondissement (interprétation de données, étude des textes fondateurs, exercices d'application).
+
+- **Chapitre 1 :** Mondialisations et faits stylisés (CM)
+  - Le TD associé revient sur les grands indicateurs du commerce international et leurs évolutions depuis le 19e siècle.
+- **Chapitre 2 :** Théories du commerce international (CM)
+  - Le TD associé revient sur les textes fondateurs (Ibn Khaldun, Adam Smith) et sur les exercices d'application des modèles classiques (avantage absolu, avantage comparatif).
+- **Chapitre 3 :** Politiques commerciales et accords (CM)
+  - Le TD associé porte sur des études de cas (Corée du Sud) et sur l'analyse de l'actualité (guerre commerciale).
+
+## Evaluation
+
+- 1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes.

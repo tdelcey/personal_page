@@ -5,7 +5,7 @@ author:
   - name: Thomas Delcey
     email: thomdelcey@gmail.com
     affiliations:
-      - name: Université de Bourgogne
+      - name: Université de Bourgogne Europe
 format:
   html: default
 lang: fr

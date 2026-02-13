@@ -1,0 +1,48 @@
+---
+title: "Economie internationale"
+author:
+  - name: Thomas Delcey
+    email: thomdelcey@gmail.com
+    affiliations:
+      - name: Université de Bourgogne Europe
+categories: "Teaching"
+date: "2025-13-02"
+date-format: "YYYY-MM-DD"
+sidebar: false
+---
+
+### Description
+
+::: {.course-hero}
+::: {.course-hero-text}
+Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui introduit les étudiant.es aux enjeux de l'économie internationale. Le cours aborde dans un premier temps l'histoire des mondialisations et les faits stylisés contemporains, avant d'introduire les étudiant.es à la théorie du commerce international. Dans un troisième temps, le cours aborde la mise en oeuvre concrète du commerce international, en étudiant les politiques commerciales et les institutions internationales. L'un des objectifs de ce cours est d'éclairer les débats contemporains sur le protectionnisme, la mondialisation et les inégalités internationales.
+
+Consulter le [syllabus](syllabus.html) pour plus de détails
+:::
+
+::: {.course-hero-image}
+![](picture.png){height=320 fig-align="center"}
+:::
+:::
+
+---
+
+### Slides
+
+```{=html}
+<div id="slides-inter"></div>
+<noscript>
+  <p>JavaScript est requis pour changer de slide ici.
+    Accédez directement :
+    <a href="CM1_slides.html">CM1</a>, <a href="CM2_slides.html">CM2</a>.
+  </p>
+</noscript>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    initSlideViewer('#slides-inter', [
+      { file: 'CM1_slides.html#/', label: 'Chapitre 1 - Introduction et histoire de la mondialisation' },
+      { file: 'CM2_slides.html#/', label: 'Chapitre 2 - Théorie du commerce international' }
+    ], { storageKey: 'lastSlideSrc' });
+  });
+</script>
+```

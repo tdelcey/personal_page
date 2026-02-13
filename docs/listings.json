@@ -4,6 +4,7 @@
     "items": [
       "/teaching/economie_ecologique/index.html",
       "/teaching/economie_financière/index.html",
+      "/teaching/economie_internationale/index.html",
       "/teaching/histoire_pensee_economique/index.html",
       "/teaching/economie_inégalité/index.html",
       "/teaching/economie_politique/index.html",
@@ -27,6 +28,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/teaching/economie_internationale/index.html",
       "/publications/HISTOIRE_RE_2024/index.html",
       "/projects/RATIONALITY_WP_2025/index.html",
       "/teaching/histoire_pensee_economique/index.html",
