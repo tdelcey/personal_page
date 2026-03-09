@@ -19,12 +19,10 @@ format:
 
 Le cours introduit les étudiant.es aux enjeux de la crise écologique. Il vulgarise les points clefs concernant le changement climatique,  les principaux facteurs d'émissions et les enjeux socio-économiques associés à la transition écologique. Le cours est intégré dans un projet de groupe où les étudiant.es analysent l'empreinte carbone d'une entreprise et proposent une solution d'atténuation à travers le cadre de la société à mission. Les étudiant.es sont accompagnés par des intervenants extérieurs spécialistes de l'empreinte carbone et de la RSE. 
 
-
 Après ce cours, les étudiant.es auront:
-
-1. Une vision globale des enjeux écologiques. 
-2. Ils seront capables de comprendre les politiques publiques associées.
-3. Ils seront capables de comprendre les enjeux de la transition écologique à l'échelle du consommateur et de l'entreprise.
+1. Comprendre les interactions entre activité économique et enjeux climatiques 
+2. Analyser et diagnostiquer l'empreinte environnementale d'un produit 
+3. Découvrir les démarches de transition bas carbone dans l'entreprise
 
 
 ## Évaluation
@@ -32,17 +30,13 @@ Après ce cours, les étudiant.es auront:
 - Devoir sur table (chapitres 1 à 5).
 - Soutenance orale (projets de groupe).
 
-## Plan et calendrier 
+## Plan du cours 
 
-#### Chapitre 0 : Présentation du projet de groupe.
+- Chapitre 0 : Présentation du projet de groupe (1h).
+- Chapitre 1 : La crise climatique (2h).
+- Chapitre 2 : Qui réchauffe le climat ? (2h).
+- Chapitre 3 : La tragédie des communs (2h).
+- Chapitre 4 : Les politiques climatiques (2h).
+- Chapitre 5 : Transition juste et inégalités (2h).
 
-#### Chapitre 1 : La crise climatique.
-
-#### Chapitre 2 : Qui réchauffe le climat ?
-
-#### Chapitre 3 : La tragédie des communs. 
-
-#### Chapitre 4 : Les politiques climatiques
-
-#### Chapitre 5 : Transition juste et inégalités
 

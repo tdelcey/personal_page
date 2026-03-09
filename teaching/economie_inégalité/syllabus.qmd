@@ -14,17 +14,13 @@ toc-depth: 2
 number-sections: false
 ---
 
-# Public visé
+## Cible
 
-Étudiant·es BUT3 GEA.
+Étudiant.es BUT3 
 
-# Finalité du cours
+## Description et objectifs
 
-Comprendre l’**environnement économique** dans lequel vous allez évoluer et acquérir les bases pour analyser les **inégalités** (mesure, causes, conséquences, politiques publiques).
-
-# Objectifs d’apprentissage 
-
-À l’issue du cours, vous serez en capacité de :
+Acquérir les bases pour analyser les inégalités économiques et sociales (mesure, causes, conséquences, politiques publiques). À l’issue du cours, vous serez en capacité de :
 
 1. **Identifier** les principales formes d’inégalités économiques et sociales. 
 2. **Distinguer et justifier** quelles inégalités peuvent être jugées souhaitables (incitation, mérite) et lesquelles ne le sont pas. 
@@ -33,27 +29,24 @@ Comprendre l’**environnement économique** dans lequel vous allez évoluer et 
 5. **Évaluer** les politiques publiques de réduction des inégalités (fiscales, sociales, marché du travail) et en discuter les arbitrages. 
 6. **Mobiliser** des données (WID, séries nationales) pour produire des graphiques et arguments chiffrés. 
 
-# Organisation et formats d’apprentissage
+Une carte interactive des inégalités de revenus en France - discutée dans le chapitre 4 - est disponible [ici](CM5_carte_france.html).
 
-- **CM (cours magistral)** : 12.5h CM (+ 1.5h evaluation TD)
-
-
-# Plan du cours 
-
-Chaque chapitre pose une question centrale: 
-
-1. **Pourquoi (et faut-il) réduire les inégalités ?** (théorie de la justice, économie normative).
-2. **Définir une inégalité** (revenu, patrimoine, redistribution, capital culturel/social).
-3. **Mesurer les inégalités** (indicateurs, Gini, parts top/bas, avant/après redistribution).  
-4. **Quel est l’état des inégalités dans le monde et en France ?** (évolution en France, comparaisons internationales).
-5. **Quelles sont les principales causes des inégalités ?** (capital humain, technologie, capital/travail)
-6. **Quelles politiques pour réduire les inégalités ?** (politique préventive vs corrective) 
-
-# Évaluation
+## Évaluation
 
 - **QCM en CM (40 %)**  
-  - Portée : chapitres 1–3, définitions, interprétation de graphiques.
-
+  - Portée : chapitres 1–3, définitions, interprétation de graphiques.  
 - **Examen final en TD (60 %)**  
   - Portée : ensemble du cours, questions de réflexion et analyse de données courtes.
+
+
+
+## Plan du cours 
+
+Chaque chapitre pose une question centrale:  
+  1. **Pourquoi (et faut-il) réduire les inégalités ?** (théorie de la justice, économie normative).  
+  2. **Définir une inégalité** (revenu, patrimoine, redistribution, capital culturel/social).  
+  3. **Mesurer les inégalités** (indicateurs, Gini, parts top/bas, avant/après redistribution).   
+  4. **Quel est l’état des inégalités dans le monde et en France ?** (évolution en France, comparaisons internationales).  
+  5. **Quelles sont les principales causes des inégalités ?** (capital humain, technologie, capital/travail).  
+  6. **Quelles politiques pour réduire les inégalités ?** (politique préventive vs corrective).  
 

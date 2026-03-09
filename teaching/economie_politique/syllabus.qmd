@@ -27,11 +27,11 @@ Marion Fourcade,  _Economists and Societies_ (2009)
 
 # Présentation 
 
-Les économistes occupent aujourd'hui une place centrale dans le champ politique. Cette centralité est multidimensionnelle. Elle résulte à la fois de la proximité entre les économistes et les sphères de décision, par exemple via leur capacité à conseiller directement les gouvernements. Mais elle résulte aussi plus globalement de leur capacité à exporter leur outils et diffuser leur manière de pensée dans d'autres champs sociaux. Ce cours-séminaire propose d'analyser cette relation étroite entre les économistes et la politique.
+Les économistes occupent aujourd'hui une place centrale dans le champ politique. Cette centralité est multidimensionnelle. Elle résulte à la fois de la proximité entre les économistes et les sphères de décision, par exemple via leur capacité à conseiller directement les gouvernements. Mais elle résulte aussi plus globalement de leur capacité à exporter leurs outils et diffuser leur manière de pensée dans d'autres champs sociaux. Ce cours-séminaire propose d'analyser cette relation étroite entre les économistes et la politique.
 
-La première partie du cours adopte une perspective historique et propose de retracer sur une histoire longue la relation entre les économistes et la politique. L'introduction générale propose une réflexion générale sur le rôle des idées dans les changements politiques et institutionnelles (chapitre 1). Nous nous intéressons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un troisième temps, nous analysons la montée en puissance des économistes au sein des administrations et des Etats au 20<sup>ème</sup> siècle, en prenant les cas des États-Unis et de la France (chapitres 3 et 4). Enfin, le dernier chapitre se penche sur situation actuelle, et la place dominante qu'occupe aujourd'hui la discipline économique au sein des autres sciences sociales (chapitre 5). 
+La première partie du cours adopte une perspective historique et propose de retracer sur une histoire longue la relation entre les économistes et la politique. L'introduction générale propose une réflexion générale sur le rôle des idées dans les changements politiques et institutionnels (chapitre 1). Nous nous intéressons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un troisième temps, nous analysons la montée en puissance des économistes au sein des administrations et des Etats au 20<sup>ème</sup> siècle, en prenant les cas des États-Unis et de la France (chapitres 3 et 4). Enfin, le dernier chapitre se penche sur la situation actuelle, et la place dominante qu'occupe aujourd'hui la discipline économique au sein des autres sciences sociales (chapitre 5). 
 
-La deuxième partie présentera des études de cas plus précise qui se baseront sur des travaux de recherche récents. Cette partie sera notamment animée par des chercheurs invités qui viendront présenter leur problématique de recherche. 
+La deuxième partie présentera des études de cas plus précises qui se baseront sur des travaux de recherche récents. Cette partie sera notamment animée par des chercheurs invités qui viendront présenter leur problématique de recherche. 
 
 Enfin une troisième partie sera dédiée aux exposés des étudiant.es qui présenteront un article de recherche sur des sujets relatifs à la thématique du cours.  
 
@@ -44,7 +44,7 @@ Ce cours introduit les étudiant.es aux principaux concepts et aux idées écono
 
 - 1 exposé oral dans la troisième partie du cours (50%). Les étudiant.es devront discuter un article de recherche récent en relation avec la problématique du cours. Il est attendu que l'exposé présente (1) l'auteur et la littérature dans laquelle s'inscrit cette recherche, (2) la présentation de la thèse de l'auteur et ces arguments, (3) une discussion critique de cette thèse. Une liste de sujets et d'articles se trouvent à la fin de ce syllabus. Il est possible de choisir un texte sur un sujet de votre choix si ce dernier est en relation avec le cours. Ce choix devra faire l'objet d'une discussion avec moi. La date butoir pour le choix des exposés est le 8 novembre 2024. L'ordre de passage des étudiant.es sera donné le 15 novembre 2024. 
 
-- 1 projet écrit à rendre à la fin du semestre (50%). Le projet écrit approfondira l'exposé oral en prenant en compte les retours des exposés et en faisant le lien entre cet article et le reste du cours. La date butoir de rendu est fixé au 15 janvier 2024. 
+- 1 projet écrit à rendre à la fin du semestre (50%). Le projet écrit approfondira l'exposé oral en prenant en compte les retours des exposés et en faisant le lien entre cet article et le reste du cours. La date butoir de rendu est fixée au 15 janvier 2024. 
 
 # Bibliographie principale   
 
@@ -77,7 +77,7 @@ Séances:
 
 - Lecture principale: Ferey Samuel, "L’économie, la politique et l’État – XVIIe-XIXe siècle". _Histoire de la pensée économique_, Pearson, Paris, pp. 17-42.
 
-### Chapitre 3: Les économistes dans la cité au XXe siècles: les Etats-Unis
+### Chapitre 3: Les économistes dans la cité au XXe siècle: les Etats-Unis
 
 - Lecture principale: Cherrier Béatrice. 2019. "Les économistes dans la cité au XXe siècle". _Histoire de la pensée économique_, Pearson, Paris, pp. 217-227.
 
@@ -98,12 +98,12 @@ Séances:
 - Séance: Vendredi 08/11/2024
 - Intervenants invités:  Nathanaël Colin
 
-### Invervention 2: "Les sanctions économiques occidentales contre la Russie"
+### Intervention 2: "Les sanctions économiques occidentales contre la Russie"
 
 - Séance: Vendredi 15/11/2024
 - Intervenants invités: Maksym Filatov
 
-### Intervention 3: "La scientisation des banques centrales" "
+### Intervention 3: "La scientisation des banques centrales"
 
 - Séance: Vendredi 22/11/2024
 - Intervenants invités: Aurélien Goutsmedt 
@@ -116,13 +116,13 @@ Séances:
 
 ## Partie 3: Exposés des étudiant.es
 
-Ordre de passage définit au plus tard le 15 novembre 2024 ;
+Ordre de passage défini au plus tard le 15 novembre 2024 ;
 
 - Séance: Vendredi 06/12/2024
 - Séance: Vendredi 13/12/2024
 - Séance: Vendredi 20/12/2024
 
-### Sujets 1: Les économistes font-ils les marchés ? 
+### Sujet 1: Les économistes font-ils les marchés ? 
 
 - Lectures:
   - Garcia, M. F. (1986). La construction sociale d'un marché parfait. Actes de la recherche en sciences sociales, 65(1), 2-13.

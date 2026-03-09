@@ -10,12 +10,12 @@ listing:
       - "teaching/economie_financière/index.qmd"
       - "teaching/economie_ecologique/index.qmd"
       - "teaching/histoire_pensee_economique/index.qmd"
+      - "teaching/text_as_data/index.qmd"
     fields: [title, author, image]
   - id: passes
     type: table
     contents:
       - "teaching/economie_politique/index.qmd"
-      - "teaching/text_as_data/index.qmd"
 ---
 
 ::::: {.columns}

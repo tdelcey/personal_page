@@ -15,13 +15,9 @@ format:
 Étudiant.es BUT2
 ---
 
-# Finalité du cours
+## Description et objectifs
 
-Comprendre les principaux enjeux de l'économie internationale, des dynamiques de mondialisation aux politiques commerciales, et être capable d'analyser les effets des échanges internationaux sur les pays, les secteurs et les inégalités.
-
-# Objectifs d'apprentissage
-
-Ce cours introduit les concepts fondamentaux du commerce international et de la mondialisation.
+Comprendre les principaux enjeux de l'économie internationale, des dynamiques de mondialisation aux politiques commerciales, et être capable d'analyser les effets des échanges internationaux sur les pays, les secteurs et les inégalités. Ce cours introduit les concepts fondamentaux du commerce international et de la mondialisation.
 
 À l'issue de ce cours, les étudiant.es seront capables de :
 1. Décrire les grandes phases de la mondialisation et les faits stylisés du commerce international ;
@@ -29,12 +25,7 @@ Ce cours introduit les concepts fondamentaux du commerce international et de la 
 3. Analyser les politiques commerciales et leurs effets économiques ;
 4. Identifier le rôle des institutions internationales et les débats contemporains (protectionnisme, régionalisation, inégalités).
 
-# Organisation et formats d'apprentissage
-
-- **CM (cours magistral)** : 4.5 heures CM
-- **TD (travaux dirigés)** : 6 heures TD
-
-# Plan du cours
+## Plan du cours
 
 Chaque thématique est abordée à la fois en CM et en TD. Le CM introduit les concepts clefs et le TD se concentre sur un approfondissement (interprétation de données, étude des textes fondateurs, exercices d'application).
 

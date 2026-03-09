@@ -6,7 +6,7 @@ author:
     affiliations:
       - name: Université de Bourgogne Europe
 categories: "Teaching"
-date: "2025-13-02"
+date: "2025-02-13"
 date-format: "YYYY-MM-DD"
 sidebar: false
 ---
