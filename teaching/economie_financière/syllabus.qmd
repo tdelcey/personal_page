@@ -22,7 +22,7 @@ Ce cours introduit les concepts fondamentaux de l'économie monétaire et financ
 3. Expliquer les causes et les effets des grandes crises financières, passées et récentes ;   
 4. Analyser le rôle de la monnaie et des banques dans le système économique.  
 
-## Evaluation
+## Évaluation
 
 - 1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes.
 

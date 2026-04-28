@@ -36,6 +36,6 @@ Chaque thématique est abordée à la fois en CM et en TD. Le CM introduit les c
 - **Chapitre 3 :** Politiques commerciales et accords (CM)
   - Le TD associé porte sur des études de cas (Corée du Sud) et sur l'analyse de l'actualité (guerre commerciale).
 
-## Evaluation
+## Évaluation
 
 - 1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes.

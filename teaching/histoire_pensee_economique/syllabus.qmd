@@ -1,9 +1,13 @@
 ---
 title: "Histoire de la pensée économique: les économistes et la politique"
-author: "Thomas Delcey"
+author:
+  - name: Thomas Delcey
+    email: thomdelcey@gmail.com
+    affiliations:
+      - name: Université de Bourgogne Europe
 engine: knitr
-format: 
-  html: 
+format:
+  html:
     embed-resources: true
     toc: true
     toc-float: true
@@ -24,25 +28,23 @@ Marion Fourcade,  _Economists and Societies_ (2009)
 ::: 
 
 
-\newpage 
+\newpage
 
-# Présentation 
+# Cible
 
-Les économistes occupent aujourd'hui une place centrale dans le champ politique. Cette centralité est multidimensionnelle. Elle résulte à la fois de la proximité entre les économistes et les sphères de décision, par exemple via leur capacité à conseiller directement les gouvernements. Mais elle résulte aussi plus globalement de leur capacité à exporter leurs outils et diffuser leur manière de pensée dans d'autres champs sociaux. Ce cours-séminaire propose d'analyser cette relation étroite entre les économistes et la politique.
+Étudiant·e·s M1
 
-La première partie du cours adopte une perspective historique et propose de retracer sur une histoire longue la relation entre les économistes et la politique. L'introduction générale proposera une introduction aux principaux concepts de l'économie et une réflexion générale sur le rôle des idées dans les changements politiques et institutionnels (chapitre 1). Nous nous intéresserons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un deuxième temps, nous analyserons la montée en puissance des économistes au sein des administrations et des Etats au 20<sup>ème</sup> siècle, en prenant les cas des États-Unis et de la France (chapitre 3).
+# Description et objectifs
 
+Les économistes occupent aujourd'hui une place centrale dans le champ politique. Cette centralité est multidimensionnelle. Elle résulte à la fois de la proximité entre les économistes et les sphères de décision, par exemple via leur capacité à conseiller directement les gouvernements. Mais elle résulte aussi plus globalement de leur capacité à exporter leurs outils et diffuser leur manière de pensée dans d'autres champs sociaux. Ce cours propose d'analyser cette relation étroite entre les économistes et la politique à travers une approche historique. Nous proposons une histoire de la pensée économique sur le temps long, en nous concentrant sur les liens entre les idées économiques et les changements politiques et institutionnels. 
 
-# Objectif 
+À l'issue de ce cours, les étudiant·e·s seront capables de : (i) retracer les grandes étapes de l'histoire de la pensée économique en lien avec les transformations politiques et institutionnelles ; (ii) comparer les trajectoires nationales de professionnalisation des économistes, notamment entre les États-Unis et la France ; (iii) porter un regard critique sur la neutralité supposée de la science économique et sur les conditions sociales de sa production.
 
-Ce cours introduit les étudiant.es aux principaux concepts et aux idées économiques. L'objectif est à la fois de présenter de manière précise ces idées et de discuter les implications politiques que ces idées véhiculent. A travers cet enseignement, l'objectif est également de présenter un programme de recherche multidisciplinaire qui prend comme objet les idées économiques et étudie leurs influences sur le monde social. Ce programme de recherche regroupe des recherches en sciences politiques, en sociologie et en économie. L'objectif de ce cours est également de familiariser les étudiant.es avec le milieu de la recherche. Les étudiant.es seront amenés à interagir avec des chercheurs et devront lire des articles récents et principalement en langue anglaise.
+# Évaluation
 
+- 1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes.
 
-# Evaluation 
-
-- 1 projet écrit à réaliser à la dernière séance (100%). 
-
-# Bibliographie principale   
+## Bibliographie principale   
 
 Chaque chapitre de la première partie s'appuie sur une lecture principale indiquée dans le plan ci-dessous. Le cours s'appuie plus globalement sur quatre ouvrages principaux: 
 
@@ -53,7 +55,10 @@ Chaque chapitre de la première partie s'appuie sur une lecture principale indiq
 
 Ces lectures ne sont pas obligatoires mais vivement conseillées si vous voulez approfondir ce sujet. 
 
-# Plan et calendrier 
+## Plan et calendrier 
+
+Le cours est structuré autour de trois chapitre. Le chapitre 1 qui sert d'introduction générale propose un cadre générale pour penser le rôle des idées dans les changements politiques et institutionnels (chapitre 1). Nous nous intéresserons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un deuxième temps, nous analyserons la montée en puissance des économistes au sein des administrations et des Etats au 20<sup>ème</sup> siècle, en prenant les cas des États-Unis et de la France (chapitre 3). 
+
 
 ### Chapitre 1: Introduction générale (séance 1): l'économie est-elle neutre ? 
 
