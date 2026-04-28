@@ -16,7 +16,7 @@ format:
 
 ## Description et objectifs
 
-Ce cours introduit les concepts fondamentaux de l'économie monétaire et financière. À l’issue de ce cours, les étudiant.es seront capables de :
+Ce cours introduit les concepts fondamentaux de l'économie monétaire et financière. À l’issue de ce cours, les étudiant.es seront capables de :  
 1. Expliquer les mécanismes de financement des organisations et le rôle de l’intermédiation financière ;  
 2. Comprendre le fonctionnement des principaux marchés financiers et identifier leurs acteurs clés ;   
 3. Expliquer les causes et les effets des grandes crises financières, passées et récentes ;   
