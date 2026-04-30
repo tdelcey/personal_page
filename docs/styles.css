@@ -136,21 +136,24 @@ img.article-hero-image {
 
 /* Uniform listing thumbnails: fixed 4:3 box, content preserved. */
 p.card-img-top {
-  width: 160px;
-  height: 120px;
+  width: 279px;
+  height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   flex-shrink: 0;
   margin: 0;
   overflow: hidden;
   background: #f8f9fa;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 img.thumbnail-image {
   width: 100% !important;
   height: 100% !important;
-  object-fit: contain;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Clamp listing abstracts to a few lines for tidy cards. */
