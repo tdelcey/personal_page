@@ -7,3 +7,5 @@
 
 **/*.quarto_ipynb
 docs/CNAME
+TODO.md
+AGENTS.md
