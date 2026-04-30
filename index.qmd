@@ -1,56 +1,55 @@
 ---
-title: "Home"
-subtitle: "Assistant Professor in Economics, Université de Bourgogne"
+pagetitle: "Thomas Delcey"
 sidebar: false
-about: 
-  template: trestles
-  image: assets/images/thomas-delcey.jpg
-  image-width: 15em
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/thomas-delcey
-    - icon: github
-      text: Github
-      href: https://github.com/tdelcey
-    - icon: book
-      text: HAL
-      href: https://cv.hal.science/thomas-delcey
-listing: 
+listing:
   - id: research
-    contents: 
+    contents:
       - "publications/*/index.qmd"
       - "projects/*/index.qmd"
       - "data/*/index.qmd"
-      - "teaching/*/index.qmd" 
+      - "teaching/*/index.qmd"
     type: table
-    fields: 
+    fields:
       - date
       - title
       - categories
-    max-items: 4
+    max-items: 5
     sort: "date desc"
-  # - id: teaching
-  #   contents: "teaching"
-  #   type: table
 ---
 
-## Bio 
+::: {.home-header}
 
-I am an historian of economic thought, with a particular focus on the 20\textsuperscript{th} century. I hold a Ph.D. in Economics from the University of Paris 1 Panthéon-Sorbonne and I am currently an Assistant Professor at the University of Bourgogne Europe in Dijon, France. I am managing editor of the [Œconomia](https://journals.openedition.org/oeconomia/) and a member of the network REHPERE (Réseau en Épistémologie et en Histoire de la Pensée Économique Récente).
+::: {.home-left}
+![](assets/images/thomas-delcey.jpg){.home-portrait}
 
-My research focuses on the history of economic thought, with a particular interest in the history of finance and the circulation of economic ideas across the 20th century. I develop a mixed approach combining qualitative text analysis with quantitative methods—bibliometrics, network analysis, topic modeling, and large language models—to study how economic ideas evolve and diffuse. I currently apply them to new research directions, including the conceptions of future and ecology in economics. 
+::: {.home-links}
+<a href="https://linkedin.com/in/thomas-delcey" class="home-link">
+  <i class="bi bi-linkedin"></i> LinkedIn
+</a>
+<a href="https://github.com/tdelcey" class="home-link">
+  <i class="bi bi-github"></i> Github
+</a>
+<a href="https://scholar.google.com/citations?user=BTGediIAAAAJ" class="home-link">
+  <i class="bi bi-mortarboard"></i> Google Scholar
+</a>
+<a href="https://cv.hal.science/thomas-delcey" class="home-link">
+  <i class="bi bi-book"></i> HAL
+</a>
+:::
+:::
 
-::::: {.columns}
+::: {.home-bio}
+**Thomas Delcey**
+Associate Professor in Economics, Université de Bourgogne Europe 
 
-## Last news
+I am an historian of economic thought, with a particular focus on the 20^th^ century. I hold a Ph.D. in Economics from the University of Paris 1 Panthéon-Sorbonne and I am currently an Assistant Professor at the University of Bourgogne Europe in Dijon, France. I am managing editor of the [Œconomia](https://journals.openedition.org/oeconomia/) and a member of the network REHPERE (Réseau en Épistémologie et en Histoire de la Pensée Économique Récente).
+
+My research focuses on the history of economic thought, with a particular interest in the history of finance and the circulation of economic ideas across the 20^th^ century. I develop a mixed approach combining qualitative text analysis with quantitative methods—bibliometrics, network analysis, topic modeling, and large language models—to study how economic ideas evolve and diffuse. I currently apply them to new research directions, including the conceptions of future and ecology in economics.
+:::
+
+:::
+
+## Recent activity
 
 :::{#research}
 :::
-
-:::::
-
-
-
-
-

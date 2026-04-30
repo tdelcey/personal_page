@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+
+// Typography
+$font-family-base:     'Inter', system-ui, -apple-system, sans-serif;
+$headings-font-family: 'EB Garamond', Georgia, serif;
+$font-size-base:       1rem;
+$line-height-base:     1.7;
+$headings-font-weight: 400;
+
+// Color palette
+$primary:          #1d3557;
+$secondary:        #457b9d;
+$body-color:       #2c3e50;
+$body-bg:          #ffffff;
+$link-color:       #457b9d;
+$link-hover-color: darken(#457b9d, 15%);
+
+// Borders
+$border-radius: 6px;
+$border-color:  #dde3eb;
+
+/*-- scss:rules --*/
+
+.navbar {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+.navbar-container {
+  max-width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1, h2, h3 {
+  letter-spacing: 0.01em;
+}

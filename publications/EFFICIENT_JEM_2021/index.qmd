@@ -7,18 +7,13 @@ categories: "Peer-reviewed article"
 abstract: 'Hayek and the Efficient Market Hypothesis are often seen as proposing a similar theory of prices. Hayek is seen as proposing to understand prices as information conveyer, incorporating information during the process of competition, while EMH is defined as the fact that all information in a market is integrated into assets prices. This paper explains how a lineage between Hayek and the EMH can be illustrated while taking into account these differences. We particularly want to shed light on the homogeneous shift that can be identified in the epistemology of Hayek and the EMH. We conclude that this shift fleshes out the understanding that some authors have of neoliberalism.'
 ---
 
-
-### Article details
-
-- ![](/assets/images/book-logo.webp){.inline-icon} Published in: *Journal of Economic Methodology, 27(2)*
-- ![](/assets/images/doi_logo.png){.inline-icon} [10.1080/1350178X.2019.1675896](https://doi.org/10.1080/1350178X.2019.1675896)
-- Search in ![](/assets/images/google_scholar_logo.png){.inline-icon} [Google Scholar](https://scholar.google.com/scholar?q=When%20Efficient%20Market%20Hypothesis%20Meets%20Hayek%20on%20Information%3A%20Beyond%20a%20Methodological%20Reading)
-- Preprint available: ![](/assets/images/hal-logo.png){.inline-icon} [HAL](https://hal.science/hal-01933895v1)
-
-
-
-
-
-
-
-
+::: {.article-links}
+<div class="article-links-row">
+  <span class="article-journal"><i class="bi bi-journal-text"></i> *Journal of Economic Methodology*, 27(2)</span>
+</div>
+<div class="article-links-row">
+  <a href="https://doi.org/10.1080/1350178X.2019.1675896" class="article-btn"><i class="bi bi-link-45deg"></i> DOI</a>
+  <a href="https://scholar.google.com/scholar?q=When%20Efficient%20Market%20Hypothesis%20Meets%20Hayek%20on%20Information%3A%20Beyond%20a%20Methodological%20Reading" class="article-btn"><i class="bi bi-mortarboard"></i> Google Scholar</a>
+  <a href="https://hal.science/hal-01933895v1" class="article-btn"><i class="bi bi-file-earmark-text"></i> HAL</a>
+</div>
+:::

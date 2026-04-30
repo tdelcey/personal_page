@@ -1,11 +1,11 @@
 ---
 title: "La Revue Economique (1950-2025), une perspective quantitative"
-author: 
+author:
   - name: "Thomas Delcey"
     affiliation: "Université de Bourgogne Europe"
     email: "thomas.delcey@ebe.fr"
   - name: "Ivan Ledzema"
-    affiliation: "Université de Bourgogne Europe" 
+    affiliation: "Université de Bourgogne Europe"
   - name: "Yann Giraud"
     affiliation: "CY Cergy Paris Université, Agora"
   - name: "Loïc Charles"
@@ -22,21 +22,20 @@ abstract: "This article analyzes the evolution of the _Revue Economique_ from it
 :::
 
 ::: {.column}
-### Article details
-
-- ![](/assets/images/book-logo.webp){.inline-icon} Published in: _Revue Economique_
-- ![](/assets/images/doi_logo.png){.inline-icon} [10.3917/reco.763.0363](https://doi.org/10.3917/reco.763.0363)
-- Search in ![](/assets/images/google_scholar_logo.png){.inline-icon} [Google Scholar](https://scholar.google.com/scholar?q=La%20Revue%20Economique%20%281950-2025%29%2C%20une%20perspective%20quantitative)
-- Preprint available: ![](/assets/images/hal-logo.png){.inline-icon} [HAL](https://shs.hal.science/halshs-05360642v1)
-- ![](/assets/images/code_logo.jpg){.inline-icon} Annexe: 
-  - Quarto page: [download](https://doi.org/10.5281/zenodo.15083220) or [visit](annexe.html) directly
-  - ![](/assets/images/github-logo.svg){.inline-icon} Github: [code and data](https://github.com/tdelcey/research/tree/main/revue_economique)
+::: {.article-links}
+<div class="article-links-row">
+  <span class="article-journal"><i class="bi bi-journal-text"></i> *Revue Economique*</span>
+</div>
+<div class="article-links-row">
+  <a href="https://doi.org/10.3917/reco.763.0363" class="article-btn"><i class="bi bi-link-45deg"></i> DOI</a>
+  <a href="https://scholar.google.com/scholar?q=La%20Revue%20Economique%20%281950-2025%29%2C%20une%20perspective%20quantitative" class="article-btn"><i class="bi bi-mortarboard"></i> Google Scholar</a>
+  <a href="https://shs.hal.science/halshs-05360642v1" class="article-btn"><i class="bi bi-file-earmark-text"></i> HAL</a>
+</div>
+<div class="article-links-row">
+  <a href="https://doi.org/10.5281/zenodo.15083220" class="article-btn"><i class="bi bi-download"></i> Annexe</a>
+  <a href="annexe.html" class="article-btn"><i class="bi bi-box-arrow-up-right"></i> View annexe</a>
+  <a href="https://github.com/tdelcey/research/tree/main/revue_economique" class="article-btn"><i class="bi bi-github"></i> Code</a>
+</div>
 :::
 :::
-
-
-
-
-
-
-
+:::

@@ -7,29 +7,21 @@ categories: "Peer-reviewed article"
 abstract: 'This article offers a historical analysis of American interwar agricultural economists and their interest in information. Believing that the main problem facing farmers was a lack of information, agricultural economists designed an information policy aiming to produce, format, and disseminate information. Using administrative archives, we analyze the motivations of these economists and the implementation of this policy. We show that the policy was a prerequisite for theoretical discussions on information, and established institutional tools that are still active today, such as the USDA market news service.'
 ---
 
-
-
 ::: {.columns .article-hero}
 ::: {.column}
 ![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png){fig-align="center" .article-hero-image}
 :::
 
 ::: {.column}
-### Article details
-
-- ![](/assets/images/book-logo.webp){.inline-icon} Published in: *History of Political Economy*
-- ![](/assets/images/doi_logo.png){.inline-icon} [10.1215/00182702-11242749](https://doi.org/10.1215/00182702-11242749)
-- Search in ![](/assets/images/google_scholar_logo.png){.inline-icon} [Google Scholar](https://scholar.google.com/scholar?q=The%20Making%20of%20Informational%20Efficiency%3A%20Information%20Policy%20and%20Theory%20in%20Interwar%20Agricultural%20Economics)
-- Preprint available: ![](/assets/images/hal-logo.png){.inline-icon} [HAL](https://hal.science/hal-03227973v3)
+::: {.article-links}
+<div class="article-links-row">
+  <span class="article-journal"><i class="bi bi-journal-text"></i> *History of Political Economy*</span>
+</div>
+<div class="article-links-row">
+  <a href="https://doi.org/10.1215/00182702-11242749" class="article-btn"><i class="bi bi-link-45deg"></i> DOI</a>
+  <a href="https://scholar.google.com/scholar?q=The%20Making%20of%20Informational%20Efficiency%3A%20Information%20Policy%20and%20Theory%20in%20Interwar%20Agricultural%20Economics" class="article-btn"><i class="bi bi-mortarboard"></i> Google Scholar</a>
+  <a href="https://hal.science/hal-03227973v3" class="article-btn"><i class="bi bi-file-earmark-text"></i> HAL</a>
+</div>
 :::
 :::
-
-
-
-
-
-
-
-
-
-
+:::

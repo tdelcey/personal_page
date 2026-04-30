@@ -19,19 +19,14 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - sidebar:research
+      - text: "Research"
+        menu:
+          - text: "Publications"
+            file: publications.qmd
+          - text: "Work in progress"
+            file: project.qmd
       - file: data.qmd
       - file: teaching.qmd
-
-  sidebar: 
-   - id: research
-     title: "Research" 
-     background: light
-     style: "floating"
-     collapse-level: 2
-     contents: 
-      - publications.qmd  
-      - project.qmd
 
   page-footer:
    right: 
@@ -42,12 +37,15 @@ format:
   html:
     grid:
       sidebar-width: 200px
-      body-width: 2000px
+      body-width: 900px
       margin-width: 300px
       gutter-width: 1.5rem
-    theme: spacelab
+    theme:
+      - flatly
+      - custom.scss
     css:
       - styles.css
       - assets/slide-viewer.css
+    include-in-header: assets/google-fonts.html
     include-after-body: assets/slide-viewer.html
 
