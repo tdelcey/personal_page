@@ -14,361 +14,11 @@
     "text": "Commissioned article for the Annual Review of Economics."
   },
   {
-    "objectID": "TODO.html",
-    "href": "TODO.html",
-    "title": "Design To-Do List",
-    "section": "",
-    "text": "Changer le thème (remplacer spacelab par un thème custom via SCSS)\n\n\n\n\n\nCorriger body-width et les marges pour une meilleure lisibilité\nAjouter une paire typographique (serif pour titres, sans-serif pour corps)\nAméliorer les cards de listing (espacement, ombre, hover effect)\nRestructurer la hiérarchie de la page d’accueil (section hero plus marquée)\n\n\n\n\n\nDark mode"
-  },
-  {
-    "objectID": "TODO.html#en-cours",
-    "href": "TODO.html#en-cours",
-    "title": "Design To-Do List",
-    "section": "",
-    "text": "Changer le thème (remplacer spacelab par un thème custom via SCSS)"
-  },
-  {
-    "objectID": "TODO.html#à-faire",
-    "href": "TODO.html#à-faire",
-    "title": "Design To-Do List",
-    "section": "",
-    "text": "Corriger body-width et les marges pour une meilleure lisibilité\nAjouter une paire typographique (serif pour titres, sans-serif pour corps)\nAméliorer les cards de listing (espacement, ombre, hover effect)\nRestructurer la hiérarchie de la page d’accueil (section hero plus marquée)"
-  },
-  {
-    "objectID": "TODO.html#écarté-complexité-trop-élevée-vs.-gain",
-    "href": "TODO.html#écarté-complexité-trop-élevée-vs.-gain",
-    "title": "Design To-Do List",
-    "section": "",
-    "text": "Dark mode"
-  },
-  {
     "objectID": "teaching/text_as_data/index.html",
     "href": "teaching/text_as_data/index.html",
     "title": "Text as Data",
     "section": "",
-    "text": "Description\n\n\nUne intervention pour des étudiants de master sur l’analyse textuelle, structurée autour d’un pipeline complet : création du corpus, représentation et mesure. Le cours couvre la constitution des données (OCR avec Mistral, web scraping, API), la représentation vectorielle et pré-traitement (tokenisation, nettoyage, etc.), puis les principales méthodes d’analyse : mesures directes ou issue d’un modèle d’apprentissage et leur usage pour l’inférence. On illustre ces étapes par la présentation d’un probabilistic topic model (STM). La séance se conclut par les limites du bag-of-words et une ouverture vers des représentations contextuelles (co-occurrence, word embeddings, LLM).\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\n\n\n  JavaScript est requis pour afficher les slides ici.\n    Accédez directement :\n    Text as Data."
-  },
-  {
-    "objectID": "teaching/histoire_pensee_economique/index.html",
-    "href": "teaching/histoire_pensee_economique/index.html",
-    "title": "Histoire de la pensée économique",
-    "section": "",
-    "text": "Description\n\n\nCet enseignement de master porte sur l’histoire de la pensée économique. Partant du constat que la discipline économique est aujourd’hui largement investie et mobilisée dans les politiques publiques, ce cours adopte une approche historique pour comprendre comment cette situation s’est construite au fil du temps. Cette histoire de la pensée économique interroge les relations entre la pensée économique et la politique au sens large (autorités politiques, morales, administratives). Nous explorons d’abord l’autonomisation progressive vis-à-vis des autorités politiques et morales jusqu’à la révolution marginaliste à la fin du XIXe siècle. Nous analysons ensuite la montée en puissance des économistes au sein des administrations au XXe siècle. Consulter le syllabus pour plus de détails et les slides ci-dessous.\n\n\n\n\n\nPremière page du Traité de l’Economie Politique d’Antoine de Montchretien (1615)\n\n\n\n\n\n\n\nSlides\n\n\n  JavaScript est requis pour changer de slide ici.\n    Accédez directement :\n    Chapitre 1, Chapitre 2, Chapitre 3."
-  },
-  {
-    "objectID": "teaching/economie_politique/index.html",
-    "href": "teaching/economie_politique/index.html",
-    "title": "Les économistes et la politique",
-    "section": "",
-    "text": "Description\n\n\nUn enseignement de master en sciences politiques à l’université de Lausanne sur l’influence des économistes sur la politique. L’introduction générale propose une réflexion générale sur le rôle des idées dans les changements politiques et institutionnels (chapitre 1). Nous nous intéressons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un troisième temps, nous analysons la montée en puissance des économistes au sein des administrations et des Etats au 20ème siècle, en prenant les cas des États-Unis et de la France (chapitres 3 et 4). Enfin, le dernier chapitre se penche sur la situation actuelle, et la place dominante qu’occupe aujourd’hui la discipline économique au sein des autres sciences sociales (chapitre 5). Consultez le syllabus pour plus de détails.\n\n\n\n\n\nReproduction supposée de la courbe originale par Laffer. Source: New York Times"
-  },
-  {
-    "objectID": "teaching/economie_internationale/syllabus.html",
-    "href": "teaching/economie_internationale/syllabus.html",
-    "title": "Syllabus : Économie internationale",
-    "section": "",
-    "text": "Étudiant.es BUT2"
-  },
-  {
-    "objectID": "teaching/economie_internationale/syllabus.html#cible",
-    "href": "teaching/economie_internationale/syllabus.html#cible",
-    "title": "Syllabus : Économie internationale",
-    "section": "",
-    "text": "Étudiant.es BUT2"
-  },
-  {
-    "objectID": "teaching/economie_internationale/syllabus.html#description-et-objectifs",
-    "href": "teaching/economie_internationale/syllabus.html#description-et-objectifs",
-    "title": "Syllabus : Économie internationale",
-    "section": "Description et objectifs",
-    "text": "Description et objectifs\nComprendre les principaux enjeux de l’économie internationale, des dynamiques de mondialisation aux politiques commerciales, et être capable d’analyser les effets des échanges internationaux sur les pays, les secteurs et les inégalités. Ce cours introduit les concepts fondamentaux du commerce international et de la mondialisation.\nÀ l’issue de ce cours, les étudiant.es seront capables de : 1. Décrire les grandes phases de la mondialisation et les faits stylisés du commerce international ; 2. Expliquer les modèles classiques du commerce international et leurs prédictions ; 3. Analyser les politiques commerciales et leurs effets économiques ; 4. Identifier le rôle des institutions internationales et les débats contemporains (protectionnisme, régionalisation, inégalités)."
-  },
-  {
-    "objectID": "teaching/economie_internationale/syllabus.html#plan-du-cours",
-    "href": "teaching/economie_internationale/syllabus.html#plan-du-cours",
-    "title": "Syllabus : Économie internationale",
-    "section": "Plan du cours",
-    "text": "Plan du cours\nChaque thématique est abordée à la fois en CM et en TD. Le CM introduit les concepts clefs et le TD se concentre sur un approfondissement (interprétation de données, étude des textes fondateurs, exercices d’application).\n\nChapitre 1 : Mondialisations et faits stylisés (CM)\n\nLe TD associé revient sur les grands indicateurs du commerce international et leurs évolutions depuis le 19e siècle.\n\nChapitre 2 : Théories du commerce international (CM)\n\nLe TD associé revient sur les textes fondateurs (Ibn Khaldun, Adam Smith) et sur les exercices d’application des modèles classiques (avantage absolu, avantage comparatif).\n\nChapitre 3 : Politiques commerciales et accords (CM)\n\nLe TD associé porte sur des études de cas (Corée du Sud) et sur l’analyse de l’actualité (guerre commerciale)."
-  },
-  {
-    "objectID": "teaching/economie_internationale/syllabus.html#évaluation",
-    "href": "teaching/economie_internationale/syllabus.html#évaluation",
-    "title": "Syllabus : Économie internationale",
-    "section": "Évaluation",
-    "text": "Évaluation\n\n1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes."
-  },
-  {
-    "objectID": "teaching/economie_financière/syllabus.html",
-    "href": "teaching/economie_financière/syllabus.html",
-    "title": "Syllabus : Economie financière",
-    "section": "",
-    "text": "Étudiant.es BUT2"
-  },
-  {
-    "objectID": "teaching/economie_financière/syllabus.html#cible",
-    "href": "teaching/economie_financière/syllabus.html#cible",
-    "title": "Syllabus : Economie financière",
-    "section": "",
-    "text": "Étudiant.es BUT2"
-  },
-  {
-    "objectID": "teaching/economie_financière/syllabus.html#description-et-objectifs",
-    "href": "teaching/economie_financière/syllabus.html#description-et-objectifs",
-    "title": "Syllabus : Economie financière",
-    "section": "Description et objectifs",
-    "text": "Description et objectifs\nCe cours introduit les concepts fondamentaux de l’économie monétaire et financière. À l’issue de ce cours, les étudiant.es seront capables de :\n1. Expliquer les mécanismes de financement des organisations et le rôle de l’intermédiation financière ;\n2. Comprendre le fonctionnement des principaux marchés financiers et identifier leurs acteurs clés ;\n3. Expliquer les causes et les effets des grandes crises financières, passées et récentes ;\n4. Analyser le rôle de la monnaie et des banques dans le système économique."
-  },
-  {
-    "objectID": "teaching/economie_financière/syllabus.html#évaluation",
-    "href": "teaching/economie_financière/syllabus.html#évaluation",
-    "title": "Syllabus : Economie financière",
-    "section": "Évaluation",
-    "text": "Évaluation\n\n1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes."
-  },
-  {
-    "objectID": "teaching/economie_financière/syllabus.html#plan-du-cours",
-    "href": "teaching/economie_financière/syllabus.html#plan-du-cours",
-    "title": "Syllabus : Economie financière",
-    "section": "Plan du cours",
-    "text": "Plan du cours\nChaque thématique est abordée à la fois en CM et en TD. Le CM introduit les concepts clefs et le TD se concentre sur les sujets les plus difficiles à appréhender, à travers des études de cas et des exemples pratiques.\n\nChapitre 1 & 2 : La finance et ses acteurs (CM)\n\nLe TD associé revient sur les différents titres financiers et marchés associés.\n\nChapitre 3 : Les crises financières (CM)\n\nLe TD associé propose une explication détaillée de la crise des Subprimes.\n\nChapitre 4 : La monnaie et la politique monétaire (CM)\n\nLe TD associé porte sur la création monétaire par les banques commerciales."
-  },
-  {
-    "objectID": "teaching/economie_ecologique/syllabus.html",
-    "href": "teaching/economie_ecologique/syllabus.html",
-    "title": "Syllabus : Économie Ecologique",
-    "section": "",
-    "text": "Étudiant.es BUT2"
-  },
-  {
-    "objectID": "teaching/economie_ecologique/syllabus.html#cible",
-    "href": "teaching/economie_ecologique/syllabus.html#cible",
-    "title": "Syllabus : Économie Ecologique",
-    "section": "",
-    "text": "Étudiant.es BUT2"
-  },
-  {
-    "objectID": "teaching/economie_ecologique/syllabus.html#description-et-objectifs",
-    "href": "teaching/economie_ecologique/syllabus.html#description-et-objectifs",
-    "title": "Syllabus : Économie Ecologique",
-    "section": "Description et objectifs",
-    "text": "Description et objectifs\nLe cours introduit les étudiant.es aux enjeux de la crise écologique. Il vulgarise les points clefs concernant le changement climatique, les principaux facteurs d’émissions et les enjeux socio-économiques associés à la transition écologique. Le cours est intégré dans un projet de groupe où les étudiant.es analysent l’empreinte carbone d’une entreprise et proposent une solution d’atténuation à travers le cadre de la société à mission. Les étudiant.es sont accompagnés par des intervenants extérieurs spécialistes de l’empreinte carbone et de la RSE.\nAprès ce cours, les étudiant.es devraient être capables de :\n1. Comprendre les interactions entre activité économique et enjeux climatiques\n2. Analyser et diagnostiquer l’empreinte environnementale d’un produit\n3. Découvrir les démarches de transition bas carbone dans l’entreprise"
-  },
-  {
-    "objectID": "teaching/economie_ecologique/syllabus.html#évaluation",
-    "href": "teaching/economie_ecologique/syllabus.html#évaluation",
-    "title": "Syllabus : Économie Ecologique",
-    "section": "Évaluation",
-    "text": "Évaluation\n\nDevoir sur table (chapitres 1 à 5).\nSoutenance orale (projets de groupe)."
-  },
-  {
-    "objectID": "teaching/economie_ecologique/syllabus.html#plan-du-cours",
-    "href": "teaching/economie_ecologique/syllabus.html#plan-du-cours",
-    "title": "Syllabus : Économie Ecologique",
-    "section": "Plan du cours",
-    "text": "Plan du cours\n\nChapitre 0 : Présentation du projet de groupe (1h).\nChapitre 1 : La crise climatique (2h).\nChapitre 2 : Qui réchauffe le climat ? (2h).\nChapitre 3 : La tragédie des communs (2h).\nChapitre 4 : Les politiques climatiques (2h).\nChapitre 5 : Transition juste et inégalités (2h)."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "La Revue Economique (1950-2025), une perspective quantitative\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2025\n\n\nThomas Delcey, Ivan Ledzema, Yann Giraud, Loïc Charles\n\n\nThis article analyzes the evolution of the Revue Economique from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the Revue Economique. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline.\n\n\n\n\n\n\n\n\n\n\n\n\nHolbrook Working and the Early Financial Economics.\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2025\n\n\nThomas Delcey\n\n\nWhere does financial economics come from? This paper studies the origins of foundational ideas of financial economics such as the price spread, the arbitrage, and the interpretation of price as reflecting information. Based on his publications and archival and interview materials, I analyze Holbrook Working’s intellectual journey between the 1920s and 1960s. Working was a leading North American agricultural economist. I show that his pioneering analyzes of futures markets strongly influenced early financial economists, such as Paul Samuelson, Paul Cootner, Hendrick Houthakker, and Lester G. Telser. Working sheds light on a North American view of speculation that contrasted with the British and dominant one.\n\n\n\n\n\n\n\n\n\n\n\n\nThe Making of Informational Efficiency: Information Policy and Theory in Interwar Agricultural Economics\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2024\n\n\nThomas Delcey, Guillaume Noblet\n\n\nThis article offers a historical analysis of American interwar agricultural economists and their interest in information. Believing that the main problem facing farmers was a lack of information, agricultural economists designed an information policy aiming to produce, format, and disseminate information. Using administrative archives, we analyze the motivations of these economists and the implementation of this policy. We show that the policy was a prerequisite for theoretical discussions on information, and established institutional tools that are still active today, such as the USDA market news service.\n\n\n\n\n\n\n\n\n\n\n\n\nThe Efficient Market Hypothesis and Rational Expectations Macroeconomics. How Did They Meet and Live (Happily) Ever After?\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2023\n\n\nThomas Delcey, Francesco Sergi\n\n\nThis article contributes to the study of the historical relationship between macroeconomics and financial economics. We investigate the interactions, in the 1960s and 1970s, between two research programmes—rational expectations macroeconomics (or new classical macroeconomics) and the efficient market hypothesis. We uncover the back-and-forth-dialogue between these two research programmes, which took place along the 1970s. We identify Sargent (1972a)’s contribution on the term structure of interest rates (and ensuing debates) as the starting point of this dialogue. We then highlight how rational expectations models reshaped the definition and assessment of the efficient market hypothesis in financial economics.\n\n\n\n\n\n\n\n\n\n\n\n\nWhen Efficient Market Hypothesis Meets Hayek on Information: Beyond a Methodological Reading\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2021\n\n\nThomas Delcey, Nathanaël Colin\n\n\nHayek and the Efficient Market Hypothesis are often seen as proposing a similar theory of prices. Hayek is seen as proposing to understand prices as information conveyer, incorporating information during the process of competition, while EMH is defined as the fact that all information in a market is integrated into assets prices. This paper explains how a lineage between Hayek and the EMH can be illustrated while taking into account these differences. We particularly want to shed light on the homogeneous shift that can be identified in the epistemology of Hayek and the EMH. We conclude that this shift fleshes out the understanding that some authors have of neoliberalism.\n\n\n\n\n\n\n\n\n\n\n\n\nSamuelson vs Fama on the Efficient Market Hypothesis, The Point of View of Expertise\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2019\n\n\nThomas Delcey\n\n\nThis paper investigates the polysemic character of the Efficient Market Hypothesis through a comparison of the contributions of the two authors who introduced this hypothesis in 1965, Eugene Fama and Paul Samuelson. While both had a normative approach, it is argued that the key point distinguishing the two contributions is the expertise developed by each author. Fama interpreted his model to make practical recommendations for investment strategy. Samuelson interpreted his model to discuss and promote a political expertise that would be useful for policymaking such as the Pareto optimality of speculative price or the social benefit of speculation. The second part investigates the context of paper writing. We suggest that two elements are central to explain Fama and Samuelson’s stance. First, the contrasting viewpoints of their research institutions, respectively Chicago and MIT, and second, the position of each author in early financial economics. Finally, we show how their early contrasted stance is consistent with Fama and Samuelson’s opposite reactions to the Efficient Market Hypothesis controversy in the 1980s. In conclusion, we suggest that this opposition between Fama and Samuelson is useful to discuss the early EMH controversy in the 1980s.\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/MAKING_HOPE_2024/index.html",
-    "href": "publications/MAKING_HOPE_2024/index.html",
-    "title": "The Making of Informational Efficiency: Information Policy and Theory in Interwar Agricultural Economics",
-    "section": "",
-    "text": "Credit: Radio Broadcast\n\n\n\n\n\n History of Political Economy\n\n\n DOI  Google Scholar  HAL"
-  },
-  {
-    "objectID": "publications/EFFICIENT_OE_19/index.html",
-    "href": "publications/EFFICIENT_OE_19/index.html",
-    "title": "Samuelson vs Fama on the Efficient Market Hypothesis, The Point of View of Expertise",
-    "section": "",
-    "text": "OEconomia\n\n\n DOI  Google Scholar  HAL"
-  },
-  {
-    "objectID": "publications/EFFICIENT_EJHET_2023/index.html",
-    "href": "publications/EFFICIENT_EJHET_2023/index.html",
-    "title": "The Efficient Market Hypothesis and Rational Expectations Macroeconomics. How Did They Meet and Live (Happily) Ever After?",
-    "section": "",
-    "text": "Credit: Summers (1985)\n\n\n\n\n\n European Journal of History of Economic Thought, 30(1)\n\n\n DOI  Google Scholar  HAL"
-  },
-  {
-    "objectID": "projects/FAMA_WP_2024/index.html",
-    "href": "projects/FAMA_WP_2024/index.html",
-    "title": "The Dissemination of Fama (1970): A Bibliometric Analysis",
-    "section": "",
-    "text": "HAL  Google Scholar\n\n\n Shiny app  Code"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "LinkedIn    Github    Google Scholar    HAL \n\n\n\nThomas Delcey Associate Professor in Economics, Université de Bourgogne Europe\nI am an historian of economic thought, with a particular focus on the 20th century. I hold a Ph.D. in Economics from the University of Paris 1 Panthéon-Sorbonne and I am currently an Assistant Professor at the University of Bourgogne Europe in Dijon, France. I am managing editor of the Œconomia and a member of the network REHPERE (Réseau en Épistémologie et en Histoire de la Pensée Économique Récente).\nMy research focuses on the history of economic thought, with a particular interest in the history of finance and the circulation of economic ideas across the 20th century. I develop a mixed approach combining qualitative text analysis with quantitative methods—bibliometrics, network analysis, topic modeling, and large language models—to study how economic ideas evolve and diffuse. I currently apply them to new research directions, including the conceptions of future and ecology in economics."
-  },
-  {
-    "objectID": "index.html#recent-activity",
-    "href": "index.html#recent-activity",
-    "title": "",
-    "section": "Recent activity",
-    "text": "Recent activity\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nMar 9, 2026\n\n\nText as Data\n\n\nTeaching\n\n\n\n\nSep 9, 2025\n\n\nLa Revue Economique (1950-2025), une perspective quantitative\n\n\nPeer-reviewed article\n\n\n\n\nSep 9, 2025\n\n\nOne Sentence at a Time: A Quantitative History of Rationality in Economic Thought\n\n\nWorking paper\n\n\n\n\nSep 1, 2025\n\n\nHistoire de la pensée économique\n\n\nTeaching\n\n\n\n\nJun 19, 2025\n\n\nThe Dissemination of Fama (1970): A Bibliometric Analysis\n\n\nWorking paper\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "data/PHD_2024/index.html#description",
-    "href": "data/PHD_2024/index.html#description",
-    "title": "Becoming Economists: Bibliometric Data on Economics Ph.D.",
-    "section": "Description",
-    "text": "Description\nThis project is dedicated to the collection and analysis of bibliometric data on theses in economics in the 20th and 21st centuries across different countries.\nAll data are freely accessible. Visit the companion website for more information."
-  },
-  {
-    "objectID": "AGENTS.html",
-    "href": "AGENTS.html",
-    "title": "AGENTS.md — Instructions projet",
-    "section": "",
-    "text": "Site web personnel d’un chercheur, redige en francais, base sur Quarto (.qmd) avec un dossier teaching/ (cours, syllabus, slides) et une generation statique. Le contenu est majoritairement en francais et contient beaucoup d’accents.\n\n\n\n\nEncodage\n\nNe jamais casser les accents : preserver l’encodage UTF-8.\nInterdit : ecrire des fichiers via Set-Content ou Out-File sans forcer UTF-8.\nAutorise : apply_patch (prefere) ou ecriture explicite en UTF-8 (sans BOM) si necessaire.\n\nModifs de fichiers\n\nPreferer les modifications ciblees plutot que les remplacements globaux.\nToujours relire les caracteres accentues apres modification.\n\nQuarto\n\nNe pas modifier la structure des pages sans raison claire.\nGarder la structure des sections (titres, blocs, HTML embed) identique sauf demande explicite.\n\n\n\n\n\n\nPython 3.12.7 (Conda: base) C:\\Users\\Admin\\anaconda3\\python.exe\nPython 3.10.18 (Conda: pyllm) C:\\Users\\Admin\\anaconda3\\envs\\pyllm\\python.exe\nR 4.4.1 (System) C:\\Program Files\\R\\R-4.4.1\\bin\\x64\\R.exe\n\n\n\n\n\nSi un changement touche plusieurs fichiers texte, demander confirmation avant d’appliquer.\nMentionner clairement chaque fichier modifie et le but de la modification.\nNe pas supprimer/renommer des fichiers sans demande explicite."
-  },
-  {
-    "objectID": "AGENTS.html#contexte-du-projet",
-    "href": "AGENTS.html#contexte-du-projet",
-    "title": "AGENTS.md — Instructions projet",
-    "section": "",
-    "text": "Site web personnel d’un chercheur, redige en francais, base sur Quarto (.qmd) avec un dossier teaching/ (cours, syllabus, slides) et une generation statique. Le contenu est majoritairement en francais et contient beaucoup d’accents."
-  },
-  {
-    "objectID": "AGENTS.html#regles-de-travail-prioritaires",
-    "href": "AGENTS.html#regles-de-travail-prioritaires",
-    "title": "AGENTS.md — Instructions projet",
-    "section": "",
-    "text": "Encodage\n\nNe jamais casser les accents : preserver l’encodage UTF-8.\nInterdit : ecrire des fichiers via Set-Content ou Out-File sans forcer UTF-8.\nAutorise : apply_patch (prefere) ou ecriture explicite en UTF-8 (sans BOM) si necessaire.\n\nModifs de fichiers\n\nPreferer les modifications ciblees plutot que les remplacements globaux.\nToujours relire les caracteres accentues apres modification.\n\nQuarto\n\nNe pas modifier la structure des pages sans raison claire.\nGarder la structure des sections (titres, blocs, HTML embed) identique sauf demande explicite."
-  },
-  {
-    "objectID": "AGENTS.html#environnements-disponibles",
-    "href": "AGENTS.html#environnements-disponibles",
-    "title": "AGENTS.md — Instructions projet",
-    "section": "",
-    "text": "Python 3.12.7 (Conda: base) C:\\Users\\Admin\\anaconda3\\python.exe\nPython 3.10.18 (Conda: pyllm) C:\\Users\\Admin\\anaconda3\\envs\\pyllm\\python.exe\nR 4.4.1 (System) C:\\Program Files\\R\\R-4.4.1\\bin\\x64\\R.exe"
-  },
-  {
-    "objectID": "AGENTS.html#bonnes-pratiques-specifiques",
-    "href": "AGENTS.html#bonnes-pratiques-specifiques",
-    "title": "AGENTS.md — Instructions projet",
-    "section": "",
-    "text": "Si un changement touche plusieurs fichiers texte, demander confirmation avant d’appliquer.\nMentionner clairement chaque fichier modifie et le but de la modification.\nNe pas supprimer/renommer des fichiers sans demande explicite."
-  },
-  {
-    "objectID": "data/ORAL_HISTORY/index.html#description",
-    "href": "data/ORAL_HISTORY/index.html#description",
-    "title": "The Oral Histories of Economics",
-    "section": "Description",
-    "text": "Description\nOral Histories of Economics is a research project gathering and disseminating oral sources about the history and philosophy of economics.\nThe sources gathered by the project are open-access data. They can be freely used by researchers interested in the evolution of economics and economists’ practices.\nThe collections are available on the Oral histories of Economics website."
-  },
-  {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n2025\n\n\nBecoming Economists: Bibliometric Data on Economics Ph.D.\n\n\nThomas Delcey, Aurelien Goutsmedt\n\n\n\n\n2024\n\n\nThe Oral Histories of Economics\n\n\nFrancesco Sergi, Pierrick Dechaux, Dorian Jullien, Thomas Delcey, and Romain Plassard\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "project.html",
-    "href": "project.html",
-    "title": "Work in progress",
-    "section": "",
-    "text": "One Sentence at a Time: A Quantitative History of Rationality in Economic Thought\n\n\n\n\n\n\nWorking paper\n\n\n\n\n\n\n2025\n\n\nThomas Delcey, Aurelien Goutsmedt, Alexandre Truc\n\n\nThis article demonstrates how unsupervised quantitative methods can enrich the history of economic thought. Using the largest English-language corpus ever assembled for the field—nearly 290,000 economics journal articles from 1900 to 2009 with citation data—we analyze the evolution of the concept of rationality. Combining large language model-based semantic analysis with bibliometric and network methods, we identify and cluster discussions of rationality across time and scales, such as the circulation of bounded rationality and the emergence of behavioral economics. We provide an open-source interactive tool to support transparency and reuse.\n\n\n\n\n\n\n\n\n\n\n\n\nThe Dissemination of Fama (1970): A Bibliometric Analysis\n\n\n\n\n\n\nWorking paper\n\n\n\n\n\n\n2025\n\n\nThomas Delcey\n\n\nWhat is the life of a seminal paper? This article addresses this question by studying the dissemination of Fama (1970), which introduced the efficient market hypothesis. Using network analysis, I study the various groups of research that cite Fama (1970) and how they evolve over time. I show that the paper was not only a canonical article in economics but also a reference in other fields such as law, management, and marketing. Market efficiency was interpreted in various ways, from a testable hypothesis about the behavior of prices to a useful assumption for evaluating policies. By tracing the various pathways through which this seminal article was exported and translated, the analysis shows the rising influence of finance across the social sciences in the second half of the twentieth century. The article also contributes to the development of quantitative methods applied to the history of economics by providing an interactive, open-source platform that allows users to explore networks and clusters. The article is available in pdf.\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/RATIONALITY_WP_2025/index.html",
-    "href": "projects/RATIONALITY_WP_2025/index.html",
-    "title": "One Sentence at a Time: A Quantitative History of Rationality in Economic Thought",
-    "section": "",
-    "text": "HAL  Google Scholar\n\n\n Shiny app"
-  },
-  {
-    "objectID": "publications/EFFICIENT_JEM_2021/index.html",
-    "href": "publications/EFFICIENT_JEM_2021/index.html",
-    "title": "When Efficient Market Hypothesis Meets Hayek on Information: Beyond a Methodological Reading",
-    "section": "",
-    "text": "Journal of Economic Methodology, 27(2)\n\n\n DOI  Google Scholar  HAL"
-  },
-  {
-    "objectID": "publications/HISTOIRE_RE_2024/index.html",
-    "href": "publications/HISTOIRE_RE_2024/index.html",
-    "title": "La Revue Economique (1950-2025), une perspective quantitative",
-    "section": "",
-    "text": "Revue Economique\n\n\n DOI  Google Scholar  HAL\n\n\n Annexe  View annexe  Code"
-  },
-  {
-    "objectID": "publications/WORKING_HOPE_2024/index.html",
-    "href": "publications/WORKING_HOPE_2024/index.html",
-    "title": "Holbrook Working and the Early Financial Economics.",
-    "section": "",
-    "text": "Credit: Working (1922)\n\n\n\n\n\n History of Political Economy\n\n\n DOI  Google Scholar  HAL"
-  },
-  {
-    "objectID": "teaching/economie_ecologique/index.html",
-    "href": "teaching/economie_ecologique/index.html",
-    "title": "Economie Ecologique",
-    "section": "",
-    "text": "Description\n\n\nUn enseignement de deuxième année à l’IUT de l’université de Bourgogne qui vulgarise les principaux points clefs du sixième rapport du GIEC et du Haut Conseil pour le Climat, ainsi que les concepts clefs de l’économie de l’environnement. Le cours est intégré dans un projet de groupe où les étudiant.es analysent le bilan carbone d’une entreprise et proposent une solution d’atténuation. Consulter le syllabus pour plus de détails et les slides ci-dessous.\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\n\n\n  JavaScript est requis pour changer de slide ici.\n    Accédez directement :\n    Chapitre 0, Chapitre 1, Chapitre 2, Chapitre 3."
-  },
-  {
-    "objectID": "teaching/economie_financière/index.html",
-    "href": "teaching/economie_financière/index.html",
-    "title": "Economie Financière",
-    "section": "",
-    "text": "Description\n\n\nUn enseignement de deuxième année à l’IUT de l’université de Bourgogne qui présente les principaux concepts relatifs au financement de l’économie. Le cours introduit le système financier, ces principaux acteurs et son évolution depuis les années 1970. Le cours aborde ensuite les crises financières à travers des exemples historiques et en discutant les mécanismes communs à ces différentes crises. La dernière partie de l’enseignement présente le rôle de la monnaie dans l’économie et les enjeux contemporains de la politique monétaire. Consulter le syllabus pour plus de détails\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\n\n\n  JavaScript est requis pour changer de slide ici.\n    Accédez directement :\n    CM1, CM2, CM3, CM4."
-  },
-  {
-    "objectID": "teaching/economie_internationale/index.html",
-    "href": "teaching/economie_internationale/index.html",
-    "title": "Economie internationale",
-    "section": "",
-    "text": "Description\n\n\nUn enseignement de deuxième année à l’IUT de l’université de Bourgogne qui introduit les étudiant.es aux enjeux de l’économie internationale. Le cours aborde dans un premier temps l’histoire des mondialisations et les faits stylisés contemporains, avant d’introduire les étudiant.es à la théorie du commerce international. Dans un troisième temps, le cours aborde la mise en oeuvre concrète du commerce international, en étudiant les politiques commerciales et les institutions internationales. L’un des objectifs de ce cours est d’éclairer les débats contemporains sur le protectionnisme, la mondialisation et les inégalités internationales.\nConsulter le syllabus pour plus de détails\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\n\n\n  JavaScript est requis pour changer de slide ici.\n    Accédez directement :\n    CM1, CM2."
-  },
-  {
-    "objectID": "teaching/economie_inégalité/index.html",
-    "href": "teaching/economie_inégalité/index.html",
-    "title": "Économie des inégalités",
-    "section": "",
-    "text": "Description\n\n\nUn enseignement de troisième année à l’IUT de l’université de Bourgogne qui introduit les concepts économiques liés aux inégalités économiques et sociales. Chaque chapitre soulève une question centrale discutée avec les étudiant.es en début de séance puis est développé à travers des concepts économiques clés et des données empiriques récentes (construites à partir du World Inequality Database). Consultez le syllabus pour plus de détails et les slides ci-dessous.\n\n\n\n\n\nSource: Hélène Périvier (2017)\n\n\n\n\n\n\n\nSlides\n\n\n  JavaScript est requis pour changer de slide ici.\n    Accédez directement :\n    CM1, CM2, CM3, CM4."
-  },
-  {
-    "objectID": "teaching/economie_inégalité/syllabus.html",
-    "href": "teaching/economie_inégalité/syllabus.html",
-    "title": "Syllabus : Économie des inégalités",
-    "section": "",
-    "text": "Étudiant.es BUT3"
-  },
-  {
-    "objectID": "teaching/economie_inégalité/syllabus.html#cible",
-    "href": "teaching/economie_inégalité/syllabus.html#cible",
-    "title": "Syllabus : Économie des inégalités",
-    "section": "",
-    "text": "Étudiant.es BUT3"
-  },
-  {
-    "objectID": "teaching/economie_inégalité/syllabus.html#description-et-objectifs",
-    "href": "teaching/economie_inégalité/syllabus.html#description-et-objectifs",
-    "title": "Syllabus : Économie des inégalités",
-    "section": "Description et objectifs",
-    "text": "Description et objectifs\nAcquérir les bases pour analyser les inégalités économiques et sociales (mesure, causes, conséquences, politiques publiques). À l’issue du cours, vous serez en capacité de :\n\nIdentifier les principales formes d’inégalités économiques et sociales.\nDistinguer et justifier quelles inégalités peuvent être jugées souhaitables (incitation, mérite) et lesquelles ne le sont pas.\nDécrire et interpréter l’état des inégalités dans le monde et en France, avant et après redistribution.\nExpliquer les mécanismes et causes des inégalités (facteurs de production, institutions, technologie, marché du travail, capital/travail).\nÉvaluer les politiques publiques de réduction des inégalités (fiscales, sociales, marché du travail) et en discuter les arbitrages.\nMobiliser des données (WID, séries nationales) pour produire des graphiques et arguments chiffrés.\n\nUne carte interactive des inégalités de revenus en France - discutée dans le chapitre 4 - est disponible ici."
-  },
-  {
-    "objectID": "teaching/economie_inégalité/syllabus.html#évaluation",
-    "href": "teaching/economie_inégalité/syllabus.html#évaluation",
-    "title": "Syllabus : Économie des inégalités",
-    "section": "Évaluation",
-    "text": "Évaluation\n\nQCM en CM (40 %)\n\nPortée : chapitres 1–3, définitions, interprétation de graphiques.\n\n\nExamen final en TD (60 %)\n\nPortée : ensemble du cours, questions de réflexion et analyse de données courtes."
-  },
-  {
-    "objectID": "teaching/economie_inégalité/syllabus.html#plan-du-cours",
-    "href": "teaching/economie_inégalité/syllabus.html#plan-du-cours",
-    "title": "Syllabus : Économie des inégalités",
-    "section": "Plan du cours",
-    "text": "Plan du cours\nChaque chapitre pose une question centrale:\n1. Pourquoi (et faut-il) réduire les inégalités ? (théorie de la justice, économie normative).\n2. Définir une inégalité (revenu, patrimoine, redistribution, capital culturel/social).\n3. Mesurer les inégalités (indicateurs, Gini, parts top/bas, avant/après redistribution).\n4. Quel est l’état des inégalités dans le monde et en France ? (évolution en France, comparaisons internationales).\n5. Quelles sont les principales causes des inégalités ? (capital humain, technologie, capital/travail).\n6. Quelles politiques pour réduire les inégalités ? (politique préventive vs corrective)."
+    "text": "Une intervention pour des étudiants de master sur l’analyse textuelle, structurée autour d’un pipeline complet : création du corpus, représentation et mesure. Le cours couvre la constitution des données (OCR avec Mistral, web scraping, API), la représentation vectorielle et pré-traitement (tokenisation, nettoyage, etc.), puis les principales méthodes d’analyse : mesures directes ou issue d’un modèle d’apprentissage et leur usage pour l’inférence. On illustre ces étapes par la présentation d’un probabilistic topic model (STM). La séance se conclut par les limites du bag-of-words et une ouverture vers des représentations contextuelles (co-occurrence, word embeddings, LLM).\n\n\n\n\n\n\n\n\n\n\nSlides\n\n\n  JavaScript est requis pour afficher les slides ici.\n    Accédez directement :\n    Text as Data."
   },
   {
     "objectID": "teaching/economie_politique/syllabus.html",
@@ -399,39 +49,32 @@
     "text": "Partie 3: Exposés des étudiant.es\nOrdre de passage défini au plus tard le 15 novembre 2024 ;\n\nSéance: Vendredi 06/12/2024\nSéance: Vendredi 13/12/2024\nSéance: Vendredi 20/12/2024\n\n\nSujet 1: Les économistes font-ils les marchés ?\n\nLectures:\n\nGarcia, M. F. (1986). La construction sociale d’un marché parfait. Actes de la recherche en sciences sociales, 65(1), 2-13.\nMacKenzie, D., Leung-Sea, S., & Muniesa, F. (2008). Do Economists Make Markets?: On the Performativity of Economics. Princeton University Press. Chapter 3: “Is Economics Performative? Option Theory and the Construction of Derivatives Markets”\nBrisset, N. (2016). Economics is not always performative: some limits for performativity. Journal of Economic Methodology, 23(2), 160-184.\n\n\n\n\nSujets 2: Les économistes font-ils la politique ?\n\nLectures:\n\nPeter A. Hall (1989). The Political Power of Economic Ideas: Keynesianism across Nations. Introduction.\nHirschman, D., & Berman, E. P. (2014). Do economists make policies? On the political effects of economics. Socio-economic review, 12(4), 779-811.\nCarstensen, M. B., & Schmidt, V. A. (2016). Power through, over and in ideas: conceptualizing ideational power in discursive institutionalism. Journal of European public policy, 23(3), 318-337.\nFarrell, H., & Quiggin, J. (2017). Consensus, dissensus, and economic ideas: economic crisis and the rise and fall of Keynesianism. International studies quarterly, 61(2), 269-283.\nGoutsmedt, A. (2022). How the Phillips curve shaped full employment policy in the 1970s: The debates on the Humphrey-Hawkins Act. History of Political Economy, 54(4), 619-653.\nDuflo, E. (2017). The economist as plumber. American Economic Review, 107(5), 1-26.\nBlyth, M. (2002). Great transformations: Economic ideas and institutional change in the twentieth century. Johns Hopkins University. Chapitre 2: “A Theory of Institutional Change”\n\n\n\n\nSujets 3: Les économistes, la quantification et l’État.\n\nLectures:\n\nDesrosières Alain. Chapitre 1. Le gouvernement de la cité néolibérale: quand la quantification rétroagit sur les acteurs. In : Prouver et gouverner Une analyse politique des statistiques publiques. Paris, La Découverte. Sciences humaines, p.31-59.\nFourcade, M. (2011). Cents and sensibility: Economic valuation and the nature of “nature”. American journal of sociology, 116(6), 1721-1777.\nChassonnery-Zaïgouche, C. (2020). How economists entered the ‘numbers game’: Measuring discrimination in the us courtrooms, 1971–1989. Journal of the History of Economic Thought, 42(2), 229-259.\nBanzhaf, H. S. (2014). Retrospectives: the Cold-War origins of the value of statistical life. Journal of Economic Perspectives, 28(4), 213-226.\n\n\n\n\nSujet 4: Les économistes et la finance\n\nLectures:\n\nFourcade, M., & Khurana, R. (2013). From social control to financial economics: The linked ecologies of economics and business in twentieth century America. Theory and Society, 42, 121-159.\nGindis, D. (2020). On the origins, meaning and influence of Jensen and Meckling’s definition of the firm. Oxford Economic Papers, 72(4), 966-984."
   },
   {
-    "objectID": "teaching/histoire_pensee_economique/syllabus.html",
-    "href": "teaching/histoire_pensee_economique/syllabus.html",
-    "title": "Histoire de la pensée économique: les économistes et la politique",
+    "objectID": "teaching/economie_inégalité/index.html",
+    "href": "teaching/economie_inégalité/index.html",
+    "title": "Économie des inégalités",
     "section": "",
-    "text": "The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood."
+    "text": "Un enseignement de troisième année à l’IUT de l’université de Bourgogne qui introduit les concepts économiques liés aux inégalités économiques et sociales. Chaque chapitre soulève une question centrale discutée avec les étudiant.es en début de séance puis est développé à travers des concepts économiques clés et des données empiriques récentes (construites à partir du World Inequality Database).\n\n\n\n\n\nSource: Hélène Périvier (2017)\n\n\n\n\n\nSlidesSyllabus\n\n\n\n\n  JavaScript est requis pour changer de slide ici.\n    Accédez directement :\n    CM1, CM2, CM3, CM4.\n  \n\n\n\n\n\nCible\nÉtudiant.es BUT3\n\n\nDescription et objectifs\nAcquérir les bases pour analyser les inégalités économiques et sociales (mesure, causes, conséquences, politiques publiques). À l’issue du cours, vous serez en capacité de :\n\nIdentifier les principales formes d’inégalités économiques et sociales.\nDistinguer et justifier quelles inégalités peuvent être jugées souhaitables (incitation, mérite) et lesquelles ne le sont pas.\nDécrire et interpréter l’état des inégalités dans le monde et en France, avant et après redistribution.\nExpliquer les mécanismes et causes des inégalités (facteurs de production, institutions, technologie, marché du travail, capital/travail).\nÉvaluer les politiques publiques de réduction des inégalités (fiscales, sociales, marché du travail) et en discuter les arbitrages.\nMobiliser des données (WID, séries nationales) pour produire des graphiques et arguments chiffrés.\n\n\n\nÉvaluation\n\nQCM en CM (40 %) — Portée : chapitres 1–3, définitions, interprétation de graphiques.\nExamen final en TD (60 %) — Portée : ensemble du cours, questions de réflexion et analyse de données courtes.\n\n\n\nPlan du cours\nChaque chapitre pose une question centrale :\n\nPourquoi (et faut-il) réduire les inégalités ? (théorie de la justice, économie normative).\nDéfinir une inégalité (revenu, patrimoine, redistribution, capital culturel/social).\nMesurer les inégalités (indicateurs, Gini, parts top/bas, avant/après redistribution).\nQuel est l’état des inégalités dans le monde et en France ? (évolution en France, comparaisons internationales).\nQuelles sont les principales causes des inégalités ? (capital humain, technologie, capital/travail).\nQuelles politiques pour réduire les inégalités ? (politique préventive vs corrective)."
   },
   {
-    "objectID": "teaching/histoire_pensee_economique/syllabus.html#bibliographie-principale",
-    "href": "teaching/histoire_pensee_economique/syllabus.html#bibliographie-principale",
-    "title": "Histoire de la pensée économique: les économistes et la politique",
-    "section": "Bibliographie principale",
-    "text": "Bibliographie principale\nChaque chapitre de la première partie s’appuie sur une lecture principale indiquée dans le plan ci-dessous. Le cours s’appuie plus globalement sur quatre ouvrages principaux:\n\nHall, Peter A. 1992. The Political Power of Economic Ideas - Keynesianism across Nations. Princeton, N.J: Princeton University Press.\nBlyth, Mark. 2002. Great Transformations: Economic Ideas and Institutional Change in the Twentieth Century. Cambridge: Cambridge University Press.\nFourcade, Marion. 2009. Economists and Societies: Discipline and Profession in the United States, Britain, and France, 1890s to 1990s. Princeton University Press.\nPopp Berman, Elizabeth. 2022. Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy. Princeton University Press.\n\nCes lectures ne sont pas obligatoires mais vivement conseillées si vous voulez approfondir ce sujet."
-  },
-  {
-    "objectID": "teaching/histoire_pensee_economique/syllabus.html#plan-et-calendrier",
-    "href": "teaching/histoire_pensee_economique/syllabus.html#plan-et-calendrier",
-    "title": "Histoire de la pensée économique: les économistes et la politique",
-    "section": "Plan et calendrier",
-    "text": "Plan et calendrier\nLe cours est structuré autour de trois chapitre. Le chapitre 1 qui sert d’introduction générale propose un cadre générale pour penser le rôle des idées dans les changements politiques et institutionnels (chapitre 1). Nous nous intéresserons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un deuxième temps, nous analyserons la montée en puissance des économistes au sein des administrations et des Etats au 20ème siècle, en prenant les cas des États-Unis et de la France (chapitre 3).\n\nChapitre 1: Introduction générale (séance 1): l’économie est-elle neutre ?\n\n\nChapitre 2: L’autonomisation des économistes du politique (séance 2)\n\nLecture principale: Ferey Samuel. (2019). “L’économie, la politique et l’État – XVIIe-XIXe siècles”. Histoire de la pensée économique, Pearson, Paris, pp. 17-42.\n\n\n\nChapitre 3: Les économistes dans la cité au XXe siècle: les Etats-Unis (séance 3)\n\nLecture principale: Cherrier Béatrice. (2019). “Les économistes dans la cité au XXe siècle”. Histoire de la pensée économique, Pearson, Paris, pp. 217-227."
+    "objectID": "teaching/economie_financière/index.html",
+    "href": "teaching/economie_financière/index.html",
+    "title": "Economie Financière",
+    "section": "",
+    "text": "Un enseignement de deuxième année à l’IUT de l’université de Bourgogne qui présente les principaux concepts relatifs au financement de l’économie. Le cours introduit le système financier, ces principaux acteurs et son évolution depuis les années 1970. Le cours aborde ensuite les crises financières à travers des exemples historiques et en discutant les mécanismes communs à ces différentes crises. La dernière partie de l’enseignement présente le rôle de la monnaie dans l’économie et les enjeux contemporains de la politique monétaire.\n\n\n\n\n\n\n\n\n\n\nSlidesSyllabus\n\n\n\n\n  JavaScript est requis pour changer de slide ici.\n    Accédez directement :\n    CM1, CM2, CM3, CM4.\n  \n\n\n\n\n\nCible\nÉtudiant.es BUT2\n\n\nDescription et objectifs\nCe cours introduit les concepts fondamentaux de l’économie monétaire et financière. À l’issue de ce cours, les étudiant.es seront capables de :\n\nExpliquer les mécanismes de financement des organisations et le rôle de l’intermédiation financière ;\nComprendre le fonctionnement des principaux marchés financiers et identifier leurs acteurs clés ;\nExpliquer les causes et les effets des grandes crises financières, passées et récentes ;\nAnalyser le rôle de la monnaie et des banques dans le système économique.\n\n\n\nÉvaluation\n\n1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes.\n\n\n\nPlan du cours\nChaque thématique est abordée à la fois en CM et en TD. Le CM introduit les concepts clefs et le TD se concentre sur les sujets les plus difficiles à appréhender, à travers des études de cas et des exemples pratiques.\n\nChapitre 1 & 2 : La finance et ses acteurs (CM)\n\nLe TD associé revient sur les différents titres financiers et marchés associés.\n\nChapitre 3 : Les crises financières (CM)\n\nLe TD associé propose une explication détaillée de la crise des Subprimes.\n\nChapitre 4 : La monnaie et la politique monétaire (CM)\n\nLe TD associé porte sur la création monétaire par les banques commerciales."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Enseignements",
     "section": "",
-    "text": "Thomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nNov 1, 2024\n\n\nLes économistes et la politique\n\n\nThomas Delcey\n\n\n\n\n\nNo matching items"
+    "text": "No matching items\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nNov 1, 2024\n\n\nLes économistes et la politique\n\n\nThomas Delcey\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching.html#enseignements-en-cours",
     "href": "teaching.html#enseignements-en-cours",
     "title": "Enseignements",
     "section": "",
-    "text": "Thomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Delcey\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "teaching.html#enseignements-passés",
@@ -439,6 +82,139 @@
     "title": "Enseignements",
     "section": "",
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nNov 1, 2024\n\n\nLes économistes et la politique\n\n\nThomas Delcey\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/MAKING_HOPE_2024/index.html",
+    "href": "publications/MAKING_HOPE_2024/index.html",
+    "title": "The Making of Informational Efficiency: Information Policy and Theory in Interwar Agricultural Economics",
+    "section": "",
+    "text": "Credit: Radio Broadcast\n\n\n\n\nHistory of Political Economy\nDOI · Google Scholar · HAL"
+  },
+  {
+    "objectID": "publications/EFFICIENT_OE_19/index.html",
+    "href": "publications/EFFICIENT_OE_19/index.html",
+    "title": "Samuelson vs Fama on the Efficient Market Hypothesis, The Point of View of Expertise",
+    "section": "",
+    "text": "OEconomia\nDOI · Google Scholar · HAL"
+  },
+  {
+    "objectID": "publications/EFFICIENT_EJHET_2023/index.html",
+    "href": "publications/EFFICIENT_EJHET_2023/index.html",
+    "title": "The Efficient Market Hypothesis and Rational Expectations Macroeconomics. How Did They Meet and Live (Happily) Ever After?",
+    "section": "",
+    "text": "Credit: Summers (1985)\n\n\n\n\nEuropean Journal of History of Economic Thought, 30(1)\nDOI · Google Scholar · HAL"
+  },
+  {
+    "objectID": "projects/RATIONALITY_WP_2025/index.html",
+    "href": "projects/RATIONALITY_WP_2025/index.html",
+    "title": "One Sentence at a Time: A Quantitative History of Rationality in Economic Thought",
+    "section": "",
+    "text": "HAL · Google Scholar\nShiny app"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Work in progress",
+    "section": "",
+    "text": "One Sentence at a Time: A Quantitative History of Rationality in Economic Thought\n\n\n\n\n\n\nWorking paper\n\n\n\n\n\n\n2025\n\n\nThomas Delcey, Aurelien Goutsmedt, Alexandre Truc\n\n\nThis article demonstrates how unsupervised quantitative methods can enrich the history of economic thought. Using the largest English-language corpus ever assembled for the field—nearly 290,000 economics journal articles from 1900 to 2009 with citation data—we analyze the evolution of the concept of rationality. Combining large language model-based semantic analysis with bibliometric and network methods, we identify and cluster discussions of rationality across time and scales, such as the circulation of bounded rationality and the emergence of behavioral economics. We provide an open-source interactive tool to support transparency and reuse.\n\n\n\n\n\n\n\n\n\n\n\n\nThe Dissemination of Fama (1970): A Bibliometric Analysis\n\n\n\n\n\n\nWorking paper\n\n\n\n\n\n\n2025\n\n\nThomas Delcey\n\n\nWhat is the life of a seminal paper? This article addresses this question by studying the dissemination of Fama (1970), which introduced the efficient market hypothesis. Using network analysis, I study the various groups of research that cite Fama (1970) and how they evolve over time. I show that the paper was not only a canonical article in economics but also a reference in other fields such as law, management, and marketing. Market efficiency was interpreted in various ways, from a testable hypothesis about the behavior of prices to a useful assumption for evaluating policies. By tracing the various pathways through which this seminal article was exported and translated, the analysis shows the rising influence of finance across the social sciences in the second half of the twentieth century. The article also contributes to the development of quantitative methods applied to the history of economics by providing an interactive, open-source platform that allows users to explore networks and clusters. The article is available in pdf.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data/PHD_2024/index.html#description",
+    "href": "data/PHD_2024/index.html#description",
+    "title": "Becoming Economists: Bibliometric Data on Economics Ph.D.",
+    "section": "Description",
+    "text": "Description\nThis project is dedicated to the collection and analysis of bibliometric data on theses in economics in the 20th and 21st centuries across different countries.\nAll data are freely accessible. Visit the companion website for more information."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n2025\n\n\nBecoming Economists: Bibliometric Data on Economics Ph.D.\n\n\nThomas Delcey, Aurelien Goutsmedt\n\n\n\n\n2024\n\n\nThe Oral Histories of Economics\n\n\nFrancesco Sergi, Pierrick Dechaux, Dorian Jullien, Thomas Delcey, and Romain Plassard\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data/ORAL_HISTORY/index.html#description",
+    "href": "data/ORAL_HISTORY/index.html#description",
+    "title": "The Oral Histories of Economics",
+    "section": "Description",
+    "text": "Description\nOral Histories of Economics is a research project gathering and disseminating oral sources about the history and philosophy of economics.\nThe sources gathered by the project are open-access data. They can be freely used by researchers interested in the evolution of economics and economists’ practices.\nThe collections are available on the Oral histories of Economics website."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "LinkedIn    Github    Google Scholar    HAL \n\n\n\nThomas Delcey Associate Professor in Economics, Université de Bourgogne Europe\nI am an historian of economic thought, with a particular focus on the 20th century. I hold a Ph.D. in Economics from the University of Paris 1 Panthéon-Sorbonne and I am currently an Assistant Professor at the University of Bourgogne Europe in Dijon, France. I am managing editor of the Œconomia and a member of the network REHPERE (Réseau en Épistémologie et en Histoire de la Pensée Économique Récente).\nMy research focuses on the history of economic thought, with an interest in the history of finance and the circulation of economic ideas across the 20th century. I develop a mixed approach combining qualitative text analysis with quantitative methods—bibliometrics, network analysis, topic modeling, and large language models—to study how economic ideas evolve and diffuse. I currently apply them to new research directions, including the conceptions of future and ecology in economics."
+  },
+  {
+    "objectID": "index.html#recent-activity",
+    "href": "index.html#recent-activity",
+    "title": "",
+    "section": "Recent activity",
+    "text": "Recent activity\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nMar 9, 2026\n\n\nText as Data\n\n\nTeaching\n\n\n\n\nSep 9, 2025\n\n\nLa Revue Economique (1950-2025), une perspective quantitative\n\n\nPeer-reviewed article\n\n\n\n\nSep 9, 2025\n\n\nOne Sentence at a Time: A Quantitative History of Rationality in Economic Thought\n\n\nWorking paper\n\n\n\n\nSep 1, 2025\n\n\nHistoire de la pensée économique\n\n\nTeaching\n\n\n\n\nJun 19, 2025\n\n\nThe Dissemination of Fama (1970): A Bibliometric Analysis\n\n\nWorking paper\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/FAMA_WP_2024/index.html",
+    "href": "projects/FAMA_WP_2024/index.html",
+    "title": "The Dissemination of Fama (1970): A Bibliometric Analysis",
+    "section": "",
+    "text": "HAL · Google Scholar\nShiny app · Code"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "La Revue Economique (1950-2025), une perspective quantitative\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2025\n\n\nThomas Delcey, Ivan Ledzema, Yann Giraud, Loïc Charles\n\n\nThis article analyzes the evolution of the Revue Economique from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the Revue Economique. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline.\n\n\n\n\n\n\n\n\n\n\n\n\nHolbrook Working and the Early Financial Economics.\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2025\n\n\nThomas Delcey\n\n\nWhere does financial economics come from? This paper studies the origins of foundational ideas of financial economics such as the price spread, the arbitrage, and the interpretation of price as reflecting information. Based on his publications and archival and interview materials, I analyze Holbrook Working’s intellectual journey between the 1920s and 1960s. Working was a leading North American agricultural economist. I show that his pioneering analyzes of futures markets strongly influenced early financial economists, such as Paul Samuelson, Paul Cootner, Hendrick Houthakker, and Lester G. Telser. Working sheds light on a North American view of speculation that contrasted with the British and dominant one.\n\n\n\n\n\n\n\n\n\n\n\n\nThe Making of Informational Efficiency: Information Policy and Theory in Interwar Agricultural Economics\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2024\n\n\nThomas Delcey, Guillaume Noblet\n\n\nThis article offers a historical analysis of American interwar agricultural economists and their interest in information. Believing that the main problem facing farmers was a lack of information, agricultural economists designed an information policy aiming to produce, format, and disseminate information. Using administrative archives, we analyze the motivations of these economists and the implementation of this policy. We show that the policy was a prerequisite for theoretical discussions on information, and established institutional tools that are still active today, such as the USDA market news service.\n\n\n\n\n\n\n\n\n\n\n\n\nThe Efficient Market Hypothesis and Rational Expectations Macroeconomics. How Did They Meet and Live (Happily) Ever After?\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2023\n\n\nThomas Delcey, Francesco Sergi\n\n\nThis article contributes to the study of the historical relationship between macroeconomics and financial economics. We investigate the interactions, in the 1960s and 1970s, between two research programmes—rational expectations macroeconomics (or new classical macroeconomics) and the efficient market hypothesis. We uncover the back-and-forth-dialogue between these two research programmes, which took place along the 1970s. We identify Sargent (1972a)’s contribution on the term structure of interest rates (and ensuing debates) as the starting point of this dialogue. We then highlight how rational expectations models reshaped the definition and assessment of the efficient market hypothesis in financial economics.\n\n\n\n\n\n\n\n\n\n\n\n\nWhen Efficient Market Hypothesis Meets Hayek on Information: Beyond a Methodological Reading\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2021\n\n\nThomas Delcey, Nathanaël Colin\n\n\nHayek and the Efficient Market Hypothesis are often seen as proposing a similar theory of prices. Hayek is seen as proposing to understand prices as information conveyer, incorporating information during the process of competition, while EMH is defined as the fact that all information in a market is integrated into assets prices. This paper explains how a lineage between Hayek and the EMH can be illustrated while taking into account these differences. We particularly want to shed light on the homogeneous shift that can be identified in the epistemology of Hayek and the EMH. We conclude that this shift fleshes out the understanding that some authors have of neoliberalism.\n\n\n\n\n\n\n\n\n\n\n\n\nSamuelson vs Fama on the Efficient Market Hypothesis, The Point of View of Expertise\n\n\n\n\n\n\nPeer-reviewed article\n\n\n\n\n\n\n2019\n\n\nThomas Delcey\n\n\nThis paper investigates the polysemic character of the Efficient Market Hypothesis through a comparison of the contributions of the two authors who introduced this hypothesis in 1965, Eugene Fama and Paul Samuelson. While both had a normative approach, it is argued that the key point distinguishing the two contributions is the expertise developed by each author. Fama interpreted his model to make practical recommendations for investment strategy. Samuelson interpreted his model to discuss and promote a political expertise that would be useful for policymaking such as the Pareto optimality of speculative price or the social benefit of speculation. The second part investigates the context of paper writing. We suggest that two elements are central to explain Fama and Samuelson’s stance. First, the contrasting viewpoints of their research institutions, respectively Chicago and MIT, and second, the position of each author in early financial economics. Finally, we show how their early contrasted stance is consistent with Fama and Samuelson’s opposite reactions to the Efficient Market Hypothesis controversy in the 1980s. In conclusion, we suggest that this opposition between Fama and Samuelson is useful to discuss the early EMH controversy in the 1980s.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/EFFICIENT_JEM_2021/index.html",
+    "href": "publications/EFFICIENT_JEM_2021/index.html",
+    "title": "When Efficient Market Hypothesis Meets Hayek on Information: Beyond a Methodological Reading",
+    "section": "",
+    "text": "Journal of Economic Methodology, 27(2)\nDOI · Google Scholar · HAL"
+  },
+  {
+    "objectID": "publications/HISTOIRE_RE_2024/index.html",
+    "href": "publications/HISTOIRE_RE_2024/index.html",
+    "title": "La Revue Economique (1950-2025), une perspective quantitative",
+    "section": "",
+    "text": "Revue Economique\nDOI · Google Scholar · HAL\nAnnexe · View annexe · Code"
+  },
+  {
+    "objectID": "publications/WORKING_HOPE_2024/index.html",
+    "href": "publications/WORKING_HOPE_2024/index.html",
+    "title": "Holbrook Working and the Early Financial Economics.",
+    "section": "",
+    "text": "Credit: Working (1922)\n\n\n\n\nHistory of Political Economy\nDOI · Google Scholar · HAL"
+  },
+  {
+    "objectID": "teaching/economie_ecologique/index.html",
+    "href": "teaching/economie_ecologique/index.html",
+    "title": "Economie Ecologique",
+    "section": "",
+    "text": "Un enseignement de deuxième année à l’IUT de l’université de Bourgogne qui vulgarise les principaux points clefs du sixième rapport du GIEC et du Haut Conseil pour le Climat, ainsi que les concepts clefs de l’économie de l’environnement. Le cours est intégré dans un projet de groupe où les étudiant.es analysent le bilan carbone d’une entreprise et proposent une solution d’atténuation.\n\n\n\n\n\n\n\n\n\n\nSlidesSyllabus\n\n\n\n\n  JavaScript est requis pour changer de slide ici.\n    Accédez directement :\n    Chapitre 0, Chapitre 1, Chapitre 2, Chapitre 3.\n  \n\n\n\n\n\nCible\nÉtudiant.es BUT2\n\n\nDescription et objectifs\nLe cours introduit les étudiant.es aux enjeux de la crise écologique. Il vulgarise les points clefs concernant le changement climatique, les principaux facteurs d’émissions et les enjeux socio-économiques associés à la transition écologique. Le cours est intégré dans un projet de groupe où les étudiant.es analysent l’empreinte carbone d’une entreprise et proposent une solution d’atténuation à travers le cadre de la société à mission. Les étudiant.es sont accompagnés par des intervenants extérieurs spécialistes de l’empreinte carbone et de la RSE.\nAprès ce cours, les étudiant.es devraient être capables de :\n\nComprendre les interactions entre activité économique et enjeux climatiques\nAnalyser et diagnostiquer l’empreinte environnementale d’un produit\nDécouvrir les démarches de transition bas carbone dans l’entreprise\n\n\n\nÉvaluation\n\nDevoir sur table (chapitres 1 à 5).\nSoutenance orale (projets de groupe).\n\n\n\nPlan du cours\n\nChapitre 0 : Présentation du projet de groupe (1h).\nChapitre 1 : La crise climatique (2h).\nChapitre 2 : Qui réchauffe le climat ? (2h).\nChapitre 3 : La tragédie des communs (2h).\nChapitre 4 : Les politiques climatiques (2h).\nChapitre 5 : Transition juste et inégalités (2h)."
+  },
+  {
+    "objectID": "teaching/economie_internationale/index.html",
+    "href": "teaching/economie_internationale/index.html",
+    "title": "Economie internationale",
+    "section": "",
+    "text": "Un enseignement de deuxième année à l’IUT de l’université de Bourgogne qui introduit les étudiant.es aux enjeux de l’économie internationale. Le cours aborde dans un premier temps l’histoire des mondialisations et les faits stylisés contemporains, avant d’introduire les étudiant.es à la théorie du commerce international. Dans un troisième temps, le cours aborde la mise en oeuvre concrète du commerce international, en étudiant les politiques commerciales et les institutions internationales. L’un des objectifs de ce cours est d’éclairer les débats contemporains sur le protectionnisme, la mondialisation et les inégalités internationales.\n\n\n\n\n\n\n\n\n\n\nSlidesSyllabus\n\n\n\n\n  JavaScript est requis pour changer de slide ici.\n    Accédez directement :\n    CM1, CM2.\n  \n\n\n\n\n\nCible\nÉtudiant.es BUT2\n\n\nDescription et objectifs\nComprendre les principaux enjeux de l’économie internationale, des dynamiques de mondialisation aux politiques commerciales, et être capable d’analyser les effets des échanges internationaux sur les pays, les secteurs et les inégalités.\nÀ l’issue de ce cours, les étudiant.es seront capables de :\n\nDécrire les grandes phases de la mondialisation et les faits stylisés du commerce international ;\nExpliquer les modèles classiques du commerce international et leurs prédictions ;\nAnalyser les politiques commerciales et leurs effets économiques ;\nIdentifier le rôle des institutions internationales et les débats contemporains (protectionnisme, régionalisation, inégalités).\n\n\n\nPlan du cours\nChaque thématique est abordée à la fois en CM et en TD. Le CM introduit les concepts clefs et le TD se concentre sur un approfondissement (interprétation de données, étude des textes fondateurs, exercices d’application).\n\nChapitre 1 : Mondialisations et faits stylisés (CM)\n\nLe TD associé revient sur les grands indicateurs du commerce international et leurs évolutions depuis le 19e siècle.\n\nChapitre 2 : Théories du commerce international (CM)\n\nLe TD associé revient sur les textes fondateurs (Ibn Khaldun, Adam Smith) et sur les exercices d’application des modèles classiques (avantage absolu, avantage comparatif).\n\nChapitre 3 : Politiques commerciales et accords (CM)\n\nLe TD associé porte sur des études de cas (Corée du Sud) et sur l’analyse de l’actualité (guerre commerciale).\n\n\n\n\nÉvaluation\n\n1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes."
+  },
+  {
+    "objectID": "teaching/economie_politique/index.html",
+    "href": "teaching/economie_politique/index.html",
+    "title": "Les économistes et la politique",
+    "section": "",
+    "text": "Description\n\n\nUn enseignement de master en sciences politiques à l’université de Lausanne sur l’influence des économistes sur la politique. L’introduction générale propose une réflexion générale sur le rôle des idées dans les changements politiques et institutionnels (chapitre 1). Nous nous intéressons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un troisième temps, nous analysons la montée en puissance des économistes au sein des administrations et des Etats au 20ème siècle, en prenant les cas des États-Unis et de la France (chapitres 3 et 4). Enfin, le dernier chapitre se penche sur la situation actuelle, et la place dominante qu’occupe aujourd’hui la discipline économique au sein des autres sciences sociales (chapitre 5). Consultez le syllabus pour plus de détails.\n\n\n\n\n\nReproduction supposée de la courbe originale par Laffer. Source: New York Times"
+  },
+  {
+    "objectID": "teaching/histoire_pensee_economique/index.html",
+    "href": "teaching/histoire_pensee_economique/index.html",
+    "title": "Histoire de la pensée économique",
+    "section": "",
+    "text": "Cet enseignement de master porte sur l’histoire de la pensée économique. Partant du constat que la discipline économique est aujourd’hui largement investie et mobilisée dans les politiques publiques, ce cours adopte une approche historique pour comprendre comment cette situation s’est construite au fil du temps. Cette histoire de la pensée économique interroge les relations entre la pensée économique et la politique au sens large (autorités politiques, morales, administratives). Nous explorons d’abord l’autonomisation progressive vis-à-vis des autorités politiques et morales jusqu’à la révolution marginaliste à la fin du XIXe siècle. Nous analysons ensuite la montée en puissance des économistes au sein des administrations au XXe siècle.\n\n\n\n\n\nPremière page du Traité de l’Economie Politique d’Antoine de Montchretien (1615)\n\n\n\n\n\nSlidesSyllabus\n\n\n\n\n  JavaScript est requis pour changer de slide ici.\n    Accédez directement :\n    Chapitre 1, Chapitre 2, Chapitre 3.\n  \n\n\n\n\n\nThe ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood.\n\n\nJohn Maynard Keynes, The General Theory of Employment, Interest and Money (1935)\n\n\nCible\nÉtudiant·e·s M1\n\n\nDescription et objectifs\nLes économistes occupent aujourd’hui une place centrale dans le champ politique. Cette centralité est multidimensionnelle. Elle résulte à la fois de la proximité entre les économistes et les sphères de décision, par exemple via leur capacité à conseiller directement les gouvernements. Mais elle résulte aussi plus globalement de leur capacité à exporter leurs outils et diffuser leur manière de pensée dans d’autres champs sociaux. Ce cours propose d’analyser cette relation étroite entre les économistes et la politique à travers une approche historique. Nous proposons une histoire de la pensée économique sur le temps long, en nous concentrant sur les liens entre les idées économiques et les changements politiques et institutionnels.\nÀ l’issue de ce cours, les étudiant·e·s seront capables de : (i) retracer les grandes étapes de l’histoire de la pensée économique en lien avec les transformations politiques et institutionnelles ; (ii) comparer les trajectoires nationales de professionnalisation des économistes, notamment entre les États-Unis et la France ; (iii) porter un regard critique sur la neutralité supposée de la science économique et sur les conditions sociales de sa production.\n\n\nÉvaluation\n\n1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes.\n\n\n\nBibliographie principale\nChaque chapitre de la première partie s’appuie sur une lecture principale indiquée dans le plan ci-dessous. Le cours s’appuie plus globalement sur quatre ouvrages principaux :\n\nHall, Peter A. 1992. The Political Power of Economic Ideas - Keynesianism across Nations. Princeton, N.J: Princeton University Press.\nBlyth, Mark. 2002. Great Transformations: Economic Ideas and Institutional Change in the Twentieth Century. Cambridge: Cambridge University Press.\nFourcade, Marion. 2009. Economists and Societies: Discipline and Profession in the United States, Britain, and France, 1890s to 1990s. Princeton University Press.\nPopp Berman, Elizabeth. 2022. Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy. Princeton University Press.\n\nCes lectures ne sont pas obligatoires mais vivement conseillées si vous voulez approfondir ce sujet.\n\n\nPlan et calendrier\nLe cours est structuré autour de trois chapitres. Le chapitre 1 qui sert d’introduction générale propose un cadre général pour penser le rôle des idées dans les changements politiques et institutionnels. Nous nous intéresserons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un deuxième temps, nous analyserons la montée en puissance des économistes au sein des administrations et des États au XXe siècle, en prenant les cas des États-Unis et de la France (chapitre 3).\n\nChapitre 1 : Introduction générale (séance 1) — l’économie est-elle neutre ?\n\n\nChapitre 2 : L’autonomisation des économistes du politique (séance 2)\n\nLecture principale : Ferey Samuel. (2019). “L’économie, la politique et l’État – XVIIe-XIXe siècles”. Histoire de la pensée économique, Pearson, Paris, pp. 17-42.\n\n\n\nChapitre 3 : Les économistes dans la cité au XXe siècle (séance 3)\n\nLecture principale : Cherrier Béatrice. (2019). “Les économistes dans la cité au XXe siècle”. Histoire de la pensée économique, Pearson, Paris, pp. 217-227."
   },
   {
     "objectID": "upcoming/ENVIRONMENT_EE_2026/index.html",

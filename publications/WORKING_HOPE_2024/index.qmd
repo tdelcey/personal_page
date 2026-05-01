@@ -14,14 +14,9 @@ abstract: 'Where does financial economics come from? This paper studies the orig
 
 ::: {.column}
 ::: {.article-links}
-<div class="article-links-row">
-  <span class="article-journal"><i class="bi bi-journal-text"></i> *History of Political Economy*</span>
-</div>
-<div class="article-links-row">
-  <a href="https://doi.org/10.1215/00182702-11642388" class="article-btn"><i class="bi bi-link-45deg"></i> DOI</a>
-  <a href="https://scholar.google.com/scholar?q=Holbrook%20Working%20and%20the%20Early%20Financial%20Economics" class="article-btn"><i class="bi bi-mortarboard"></i> Google Scholar</a>
-  <a href="https://hal.science/hal-05056404v1" class="article-btn"><i class="bi bi-file-earmark-text"></i> HAL</a>
-</div>
+*History of Political Economy*
+
+[DOI](https://doi.org/10.1215/00182702-11642388) · [Google Scholar](https://scholar.google.com/scholar?q=Holbrook%20Working%20and%20the%20Early%20Financial%20Economics) · [HAL](https://hal.science/hal-05056404v1)
 :::
 :::
 :::

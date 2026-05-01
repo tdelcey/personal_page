@@ -14,14 +14,9 @@ abstract: "This article contributes to the study of the historical relationship 
 
 ::: {.column}
 ::: {.article-links}
-<div class="article-links-row">
-  <span class="article-journal"><i class="bi bi-journal-text"></i> *European Journal of History of Economic Thought*, 30(1)</span>
-</div>
-<div class="article-links-row">
-  <a href="https://doi.org/10.1080/09672567.2022.2108869" class="article-btn"><i class="bi bi-link-45deg"></i> DOI</a>
-  <a href="https://scholar.google.com/scholar?q=The%20Efficient%20Market%20Hypothesis%20and%20Rational%20Expectations%20Macroeconomics.%20How%20Did%20They%20Meet%20and%20Live%20%28Happily%29%20Ever%20After" class="article-btn"><i class="bi bi-mortarboard"></i> Google Scholar</a>
-  <a href="https://hal.science/hal-03774313v1" class="article-btn"><i class="bi bi-file-earmark-text"></i> HAL</a>
-</div>
+*European Journal of History of Economic Thought*, 30(1)
+
+[DOI](https://doi.org/10.1080/09672567.2022.2108869) · [Google Scholar](https://scholar.google.com/scholar?q=The%20Efficient%20Market%20Hypothesis%20and%20Rational%20Expectations%20Macroeconomics.%20How%20Did%20They%20Meet%20and%20Live%20%28Happily%29%20Ever%20After) · [HAL](https://hal.science/hal-03774313v1)
 :::
 :::
 :::

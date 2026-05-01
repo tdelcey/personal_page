@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Economie Financière"
 author:
   - name: Thomas Delcey
@@ -9,13 +9,12 @@ categories: "Teaching"
 date: "2024-09-01"
 date-format: "YYYY-MM-DD"
 sidebar: false
+image: "picture.jpg"
 ---
-
-### Description
 
 ::: {.course-hero}
 ::: {.course-hero-text}
-Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui présente les principaux concepts relatifs au financement de l'économie. Le cours introduit le système financier, ces principaux acteurs et son évolution depuis les années 1970. Le cours aborde ensuite les crises financières à travers des exemples historiques et en discutant les mécanismes communs à ces différentes crises. La dernière partie de l'enseignement présente le rôle de la monnaie dans l'économie et les enjeux contemporains de la politique monétaire. Consulter le [syllabus](syllabus.html) pour plus de détails
+Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui présente les principaux concepts relatifs au financement de l'économie. Le cours introduit le système financier, ces principaux acteurs et son évolution depuis les années 1970. Le cours aborde ensuite les crises financières à travers des exemples historiques et en discutant les mécanismes communs à ces différentes crises. La dernière partie de l'enseignement présente le rôle de la monnaie dans l'économie et les enjeux contemporains de la politique monétaire.
 :::
 
 ::: {.course-hero-image}
@@ -23,9 +22,9 @@ Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui p
 :::
 :::
 
----
+::: {.panel-tabset}
 
-### Slides
+## Slides
 
 ```{=html}
 <div id="slides-finance"></div>
@@ -47,3 +46,34 @@ Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui p
 </script>
 ```
 
+## Syllabus
+
+### Cible
+
+Étudiant.es BUT2
+
+### Description et objectifs
+
+Ce cours introduit les concepts fondamentaux de l'économie monétaire et financière. À l'issue de ce cours, les étudiant.es seront capables de :
+
+1. Expliquer les mécanismes de financement des organisations et le rôle de l'intermédiation financière ;
+2. Comprendre le fonctionnement des principaux marchés financiers et identifier leurs acteurs clés ;
+3. Expliquer les causes et les effets des grandes crises financières, passées et récentes ;
+4. Analyser le rôle de la monnaie et des banques dans le système économique.
+
+### Évaluation
+
+- 1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes.
+
+### Plan du cours
+
+Chaque thématique est abordée à la fois en CM et en TD. Le CM introduit les concepts clefs et le TD se concentre sur les sujets les plus difficiles à appréhender, à travers des études de cas et des exemples pratiques.
+
+- **Chapitre 1 & 2 :** La finance et ses acteurs (CM)
+  - Le TD associé revient sur les différents titres financiers et marchés associés.
+- **Chapitre 3 :** Les crises financières (CM)
+  - Le TD associé propose une explication détaillée de la crise des Subprimes.
+- **Chapitre 4 :** La monnaie et la politique monétaire (CM)
+  - Le TD associé porte sur la création monétaire par les banques commerciales.
+
+:::

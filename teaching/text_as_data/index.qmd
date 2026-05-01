@@ -1,26 +1,22 @@
-﻿---
+---
 title: "Text as Data"
 author: Thomas Delcey
 categories: "Teaching"
 date: "2026-03-09"
 date-format: "YYYY-MM-DD"
 sidebar: false
+image: "picture.png"
 ---
-
-### Description
 
 ::: {.course-hero}
 ::: {.course-hero-text}
 Une intervention pour des étudiants de master sur l'analyse textuelle, structurée autour d'un pipeline complet : création du corpus, représentation et mesure. Le cours couvre la constitution des données (OCR avec Mistral, web scraping, API), la représentation vectorielle et pré-traitement (tokenisation, nettoyage, etc.), puis les principales méthodes d'analyse : mesures directes ou issue d'un modèle d'apprentissage et leur usage pour l'inférence. On illustre ces étapes par la présentation d'un _probabilistic topic model_ (STM). La séance se conclut par les limites du bag-of-words et une ouverture vers des représentations contextuelles (co-occurrence, word embeddings, LLM).
-
 :::
 
 ::: {.course-hero-image}
 ![](picture.png){height=320 fig-align="center"}
 :::
 :::
-
----
 
 ### Slides
 
@@ -40,5 +36,3 @@ Une intervention pour des étudiants de master sur l'analyse textuelle, structur
   });
 </script>
 ```
-
-

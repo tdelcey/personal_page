@@ -8,12 +8,7 @@ abstract: "This paper investigates the polysemic character of the Efficient Mark
 ---
 
 ::: {.article-links}
-<div class="article-links-row">
-  <span class="article-journal"><i class="bi bi-journal-text"></i> *OEconomia*</span>
-</div>
-<div class="article-links-row">
-  <a href="https://doi.org/10.4000/oeconomia.5300" class="article-btn"><i class="bi bi-link-45deg"></i> DOI</a>
-  <a href="https://scholar.google.com/scholar?q=Samuelson%20vs%20Fama%20on%20the%20Efficient%20Market%20Hypothesis%2C%20The%20Point%20of%20View%20of%20Expertise" class="article-btn"><i class="bi bi-mortarboard"></i> Google Scholar</a>
-  <a href="https://hal.science/" class="article-btn"><i class="bi bi-file-earmark-text"></i> HAL</a>
-</div>
+*OEconomia*
+
+[DOI](https://doi.org/10.4000/oeconomia.5300) · [Google Scholar](https://scholar.google.com/scholar?q=Samuelson%20vs%20Fama%20on%20the%20Efficient%20Market%20Hypothesis%2C%20The%20Point%20of%20View%20of%20Expertise) · [HAL](https://hal.science/)
 :::
