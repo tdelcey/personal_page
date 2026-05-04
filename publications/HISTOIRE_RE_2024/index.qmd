@@ -20,7 +20,7 @@ citation:
 ---
 
 ::: {.article-hero-image}
-![This is one of the main results of the probabilistic topic model used in the analysis. It shows the evolution of the average proportion of the general topics by documents.](picture.png)
+![This is one of the main results of the probabilistic topic model used in the analysis. It shows the evolution of the average proportion by documents of estimated topics.](picture.png)
 :::
 
 ### Abstract
