@@ -6,8 +6,6 @@ author:
 date: "2023-01-01"
 date-format: "YYYY-MM-DD"
 categories: "Peer-reviewed article"
-image: "picture.png"
-image-caption: "Credit: [Summers (1985)](https://www.jstor.org/stable/2327785)"
 citation:
   type: article-journal
   container-title: "European Journal of History of Economic Thought"
@@ -16,10 +14,6 @@ citation:
   issue: 1
   page: "86-116"
 ---
-
-::: {.article-hero-image}
-![Credit: [Summers (1985)](https://www.jstor.org/stable/2327785)](picture.png)
-:::
 
 ### Abstract
 
