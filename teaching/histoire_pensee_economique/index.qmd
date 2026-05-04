@@ -69,27 +69,25 @@ Les économistes occupent aujourd'hui une place centrale dans le champ politique
 
 ### Bibliographie principale
 
-Chaque chapitre de la première partie s'appuie sur une lecture principale indiquée dans le plan ci-dessous. Le cours s'appuie plus globalement sur quatre ouvrages principaux :
+Chaque chapitre de la première partie s'appuie sur une lecture principale indiquée dans le plan ci-dessous. Le cours s'appuie plus globalement sur deux articles:  
 
-- Hall, Peter A. 1992. _The Political Power of Economic Ideas - Keynesianism across Nations_. Princeton, N.J: Princeton University Press.
-- Blyth, Mark. 2002. _Great Transformations: Economic Ideas and Institutional Change in the Twentieth Century_. Cambridge: Cambridge University Press.
-- Fourcade, Marion. 2009. _Economists and Societies: Discipline and Profession in the United States_, Britain, and France, 1890s to 1990s. Princeton University Press.
-- Popp Berman, Elizabeth. 2022. _Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy_. Princeton University Press.
+- Ferey Samuel. (2019). "L'économie, la politique et l'État – XVIIe-XIXe siècles". _Histoire de la pensée économique_, Pearson, Paris, pp. 17-42.  
+- Cherrier Béatrice. (2019). "Les économistes dans la cité au XXe siècle". _Histoire de la pensée économique_, Pearson, Paris, pp. 217-227.  
 
-Ces lectures ne sont pas obligatoires mais vivement conseillées si vous voulez approfondir ce sujet.
+
+Et s'inspirent plus globalement de quatre ouvrages en économie politique: 
+
+- Hall, Peter A. 1992. _The Political Power of Economic Ideas - Keynesianism across Nations_. Princeton, N.J: Princeton University Press.  
+- Blyth, Mark. 2002. _Great Transformations: Economic Ideas and Institutional Change in the Twentieth Century_. Cambridge: Cambridge University Press.  
+- Fourcade, Marion. 2009. _Economists and Societies: Discipline and Profession in the United States_, Britain, and France, 1890s to 1990s. Princeton University Press.  
+- Popp Berman, Elizabeth. 2022. _Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy_. Princeton University Press.  
 
 ### Plan et calendrier
 
 Le cours est structuré autour de trois chapitres. Le chapitre 1 qui sert d'introduction générale propose un cadre général pour penser le rôle des idées dans les changements politiques et institutionnels. Nous nous intéresserons ensuite à la naissance de la discipline économique et à son émancipation progressive des autorités politiques et morales (chapitre 2). Dans un deuxième temps, nous analyserons la montée en puissance des économistes au sein des administrations et des États au XX^e^ siècle, en prenant les cas des États-Unis et de la France (chapitre 3).
 
-#### Chapitre 1 : Introduction générale (séance 1) — l'économie est-elle neutre ?
-
-#### Chapitre 2 : L'autonomisation des économistes du politique (séance 2)
-
-- Lecture principale : Ferey Samuel. (2019). "L'économie, la politique et l'État – XVIIe-XIXe siècles". _Histoire de la pensée économique_, Pearson, Paris, pp. 17-42.
-
-#### Chapitre 3 : Les économistes dans la cité au XXe siècle (séance 3)
-
-- Lecture principale : Cherrier Béatrice. (2019). "Les économistes dans la cité au XXe siècle". _Histoire de la pensée économique_, Pearson, Paris, pp. 217-227.
+- Chapitre 1 : Introduction générale, l'économie est-elle neutre ? (séance 1)
+- Chapitre 2 : L'autonomisation des économistes du politique (séance 2)
+- Chapitre 3 : Les économistes dans la cité au XXe siècle (séance 3)
 
 :::

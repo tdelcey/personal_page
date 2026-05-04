@@ -1,6 +1,9 @@
-﻿/* css styles */
+/* ============================================================
+   Page d'accueil
+   Photo et liens sociaux à gauche, texte de présentation à droite.
+   Sur mobile (< 800px), les deux colonnes s'empilent verticalement.
+   ============================================================ */
 
-/* Home page: two-column header + full-width listing below */
 .home-header {
   display: grid;
   grid-template-columns: 210px 1fr;
@@ -11,10 +14,12 @@
   margin-bottom: 2.5rem;
 }
 
+/* Colonne gauche : photo et liens centrés */
 .home-left {
   text-align: center;
 }
 
+/* Photo de profil : taille fixe avec coins arrondis */
 .home-portrait {
   width: 100%;
   max-width: 180px;
@@ -22,12 +27,14 @@
   margin-bottom: 1.25rem;
 }
 
+/* Liste verticale des liens (Email, CV, GitHub…) */
 .home-links {
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
 }
 
+/* Chaque lien social : bouton discret avec bordure */
 .home-link {
   display: block;
   padding: 0.35rem 0.75rem;
@@ -45,10 +52,12 @@
   border-color: #b0bec5;
 }
 
+/* Supprime la marge au-dessus du nom dans la colonne de droite */
 .home-bio .home-name {
   margin-top: 0;
 }
 
+/* Sur mobile : une seule colonne, photo centrée */
 @media (max-width: 800px) {
   .home-header {
     grid-template-columns: 1fr;
@@ -60,63 +69,131 @@
   }
 }
 
+/* Espacement entre colonnes Quarto côte à côte */
 .columns {
   gap: 2rem;
 }
 
+/* Les images dans une colonne ne débordent pas */
 .columns img {
   max-width: 100%;
   height: auto;
 }
 
-/* Consistent research article hero layout and imagery. */
-.article-hero .column + .column {
-  border-left: 1px solid #e6e6e6;
-  padding-left: 1.5rem;
+
+
+/* Sur les pages article, l'abstract YAML est repris dans le body
+   sous un titre ### — on masque la version du title-block. */
+#title-block-header .abstract { display: none; }
+
+/* Titres de section dans le corps de la page (Abstract, Links) :
+   même taille visuelle que le titre de l'appendice Citation. */
+#quarto-document-content h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.25rem;
+  margin-bottom: 0.4rem;
 }
 
-img.article-hero-image {
-  width: 100%;
-  max-width: 600px;
-  height: auto;
-  object-fit: contain;
-}
+/* Le titre de l'appendice Citation (h2 Quarto) ramené à la même taille. */
+.quarto-appendix-heading { font-size: 1.1rem !important; }
 
-@media (max-width: 800px) {
-  .article-hero .column + .column {
-    border-left: none;
-    padding-left: 0;
-  }
-}
 
-/* Publication link section */
+/* ============================================================
+   Liens d'un article (DOI, Google Scholar, HAL, GitHub…)
+   Chaque lien est affiché comme un petit badge arrondi avec
+   une icône automatique selon l'URL de destination.
+   Les séparateurs · écrits dans le Markdown deviennent invisibles
+   grâce à font-size: 0 sur le paragraphe (les badges ont leur
+   propre taille définie sur l'élément <a>).
+   ============================================================ */
+
 .article-links {
   margin-top: 0.75rem;
-  font-size: 0.9rem;
-  line-height: 2;
 }
 
+/* Ligne de badges : disposition horizontale, retour à la ligne si nécessaire */
 .article-links p {
-  margin-bottom: 0;
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  align-items: center;
+  font-size: 0; /* rend les séparateurs · invisibles sans les supprimer du HTML */
 }
 
-.article-links p:first-child {
+/* Exception : le nom du journal (en italique) s'affiche normalement */
+.article-links p:has(em) {
+  display: block;
+  font-size: 0.9rem;
   color: #6c757d;
   font-style: italic;
+  margin-bottom: 0.5rem;
 }
 
+/* Style commun à tous les badges */
 .article-links a {
-  color: #457b9d;
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color 0.15s;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  padding: 0.2em 0.65em;
+  border: 1px solid #dde3eb;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  color: #1d3557 !important;
+  text-decoration: none !important;
+  background: transparent;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+  white-space: nowrap;
 }
 
 .article-links a:hover {
-  border-bottom-color: #457b9d;
+  background: #f4f6f9;
+  border-color: #457b9d;
+  color: #457b9d !important;
 }
 
-/* Publications (type: default) — fixed-size side thumbnail */
+/* Propriétés de base de l'icône insérée avant le texte du badge */
+.article-links a::before {
+  font-style: normal;
+  font-size: 1.1em;
+  line-height: 1;
+}
+
+/* Icônes automatiques selon l'URL : chaque règle cible un domaine précis */
+.article-links a[href*="doi.org"]::before {
+  font-family: "Academicons";
+  content: "\e97e"; /* logo DOI */
+}
+
+.article-links a[href*="scholar.google"]::before {
+  font-family: "Academicons";
+  content: "\e9d4"; /* logo Google Scholar */
+}
+
+.article-links a[href*="hal.science"]::before {
+  font-family: "Academicons";
+  content: "\e92c"; /* logo HAL */
+}
+
+.article-links a[href*="github.com"]::before {
+  font-family: "bootstrap-icons";
+  content: "\f3ed"; /* logo GitHub */
+}
+
+.article-links a[href*="posit.cloud"]::before,
+.article-links a[href*="shinyapps.io"]::before {
+  font-family: "bootstrap-icons";
+  content: "\f17c"; /* logo Shiny/Posit */
+}
+
+
+/* ============================================================
+   Vignettes dans la liste des publications
+   Chaque entrée a une image fixe (160×120 px) sur le côté gauche,
+   indépendamment de la taille réelle de l'image source.
+   ============================================================ */
+
 .quarto-listing-default p.card-img-top {
   width: 160px;
   height: 120px;
@@ -135,7 +212,13 @@ img.article-hero-image {
   object-fit: contain;
 }
 
-/* Teaching grid (type: grid) — uniform height, no overflow */
+
+/* ============================================================
+   Vignettes dans la grille des cours
+   Toutes les images de carte ont la même hauteur (160 px) et
+   remplissent leur cadre en rognant les bords si nécessaire.
+   ============================================================ */
+
 .quarto-grid-item p.card-img-top {
   position: relative;
   width: 100%;
@@ -153,7 +236,12 @@ img.article-hero-image {
   object-fit: cover !important;
 }
 
-/* Clamp listing abstracts to a few lines for tidy cards. */
+
+/* ============================================================
+   Résumés dans les listes (publications, cours)
+   Tronqués à 3 lignes avec "…" pour garder des cartes compactes.
+   ============================================================ */
+
 .quarto-listing .listing-abstract {
   display: -webkit-box;
   -webkit-line-clamp: 3;
@@ -162,29 +250,59 @@ img.article-hero-image {
   line-clamp: 3;
 }
 
-/* Course page hero: description + image in a compact band. */
+
+/* ============================================================
+   Image de couverture d'une page article.
+   Centrée, taille limitée, affichée avant le titre Abstract.
+   ============================================================ */
+
+.article-hero-image {
+  text-align: center;
+  max-width: 480px;
+  margin: 0 auto 1.5rem;
+}
+
+.article-hero-image img {
+  width: 100%;
+  max-height: 320px;
+  height: auto;
+  object-fit: contain;
+}
+
+.article-hero-image figcaption {
+  font-size: 0.75rem;
+  color: #6c757d;
+  margin-top: 0.4rem;
+  font-style: italic;
+}
+
+
+/* ============================================================
+   En-tête d'une page cours (description + image côte à côte)
+   La description prend ~2/3 de la largeur, l'image ~1/3.
+   Sur mobile, les deux blocs s'empilent et l'image passe en premier.
+   ============================================================ */
+
 .course-hero {
   display: grid;
-  grid-template-columns: 1.6fr 0.9fr;
+  grid-template-columns: 1.2fr 1fr;
   gap: 2rem;
   align-items: center;
   margin-bottom: 1.5rem;
 }
 
-/* Center the image block within the hero column. */
 .course-hero-image {
   text-align: center;
 }
 
-/* Keep hero images responsive and proportional. */
 .course-hero-image img {
   width: 100%;
-    max-width: 600px;
-    height: auto;
-    object-fit: contain;
+  max-width: 600px;
+  height: auto;
+  object-fit: contain;
 }
 
-/* Stack hero content on small screens and show image first. */
+/* Sur mobile : une colonne, image affichée au-dessus du texte */
 @media (max-width: 800px) {
   .course-hero {
     grid-template-columns: 1fr;
@@ -195,7 +313,13 @@ img.article-hero-image {
   }
 }
 
-/* Soft frame around slide viewer */
+
+/* ============================================================
+   Visionneuse de diapositives
+   Deux variantes : avec cadre gris (.slide-frame) ou sans cadre
+   mais centré et limité en largeur (.slide-narrow).
+   ============================================================ */
+
 .slide-frame {
   border: 1px solid #e6e6e6;
   background: #fafafa;
@@ -203,9 +327,7 @@ img.article-hero-image {
   border-radius: 8px;
 }
 
-/* Narrow, centered slide viewer without a frame. */
 .slide-narrow {
   max-width: 900px;
   margin: 0 auto;
 }
-

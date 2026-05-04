@@ -2,32 +2,33 @@
 title: "La Revue Economique (1950-2025), une perspective quantitative"
 author:
   - name: "Thomas Delcey"
-    affiliation: "Université de Bourgogne Europe"
-    email: "thomas.delcey@ebe.fr"
+    email: "thomas.delcey@ube.fr"
   - name: "Ivan Ledzema"
-    affiliation: "Université de Bourgogne Europe"
   - name: "Yann Giraud"
-    affiliation: "CY Cergy Paris Université, Agora"
   - name: "Loïc Charles"
-    affiliation: "Université de Paris 8, Led (EA 3391)"
 date: "2025-09-09"
 date-format: "YYYY"
 categories: "Peer-reviewed article"
-abstract: "This article analyzes the evolution of the _Revue Economique_ from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the _Revue Economique_. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline."
+image: "picture.png"
+citation:
+  type: article-journal
+  container-title: "Revue Economique"
+  doi: "10.3917/reco.763.0363"
+  volume: 76
+  issue: 3
+  page: "363-413"
 ---
 
-::: {.columns .article-hero}
-::: {.column}
-![](picture.png){fig-align="center" .article-hero-image}
+::: {.article-hero-image}
+![This is one of the main results of the probabilistic topic model used in the analysis. It shows the evolution of the average proportion of the general topics by documents.](picture.png)
 :::
 
-::: {.column}
+### Abstract
+
+This article analyzes the evolution of the _Revue Economique_ from its creation in 1950 to 2025. We trace its history, its central place in French economic research, and the transformations of its editorial content. Our study is based on a probabilistic topic model, an unsupervised machine learning classification method that we apply to the full texts of the _Revue Economique_. Initially positioned between a reformist approach and an openness to other social sciences, the journal gradually became standardized around quantitative methods, with a central focus on macroeconomics. We then show a shift toward a more applied and empirical approach at the end of the 20th century. Beyond the topics covered, the final section discusses pluralism within the journal, as well as the influence of internationalization and the feminization of the discipline.
+
+### Links
+
 ::: {.article-links}
-*Revue Economique*
-
-[DOI](https://doi.org/10.3917/reco.763.0363) · [Google Scholar](https://scholar.google.com/scholar?q=La%20Revue%20Economique%20%281950-2025%29%2C%20une%20perspective%20quantitative) · [HAL](https://shs.hal.science/halshs-05360642v1)
-
-[Annexe](https://doi.org/10.5281/zenodo.15083220) · [View annexe](annexe.html) · [Code](https://github.com/tdelcey/research/tree/main/revue_economique)
-:::
-:::
+[DOI](https://doi.org/10.3917/reco.763.0363) · [Google Scholar](https://scholar.google.com/scholar?q=La%20Revue%20Economique%20%281950-2025%29%2C%20une%20perspective%20quantitative) · [HAL](https://shs.hal.science/halshs-05360642v1) · [Annexe en ligne](https://doi.org/10.5281/zenodo.15083220) · [Code](https://github.com/tdelcey/research/tree/main/revue_economique)
 :::

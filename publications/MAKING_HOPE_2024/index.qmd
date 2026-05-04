@@ -1,22 +1,32 @@
 ---
 title: "The Making of Informational Efficiency: Information Policy and Theory in Interwar Agricultural Economics"
-author: Thomas Delcey, Guillaume Noblet
+author: 
+  - "Thomas Delcey" 
+  - "Guillaume Noblet"
 date: "2024-08-01"
 date-format: "YYYY-MM-DD"
 categories: "Peer-reviewed article"
-abstract: 'This article offers a historical analysis of American interwar agricultural economists and their interest in information. Believing that the main problem facing farmers was a lack of information, agricultural economists designed an information policy aiming to produce, format, and disseminate information. Using administrative archives, we analyze the motivations of these economists and the implementation of this policy. We show that the policy was a prerequisite for theoretical discussions on information, and established institutional tools that are still active today, such as the USDA market news service.'
+image: "picture.png"
+image-caption: "Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)"
+citation:
+  type: article-journal
+  container-title: "History of Political Economy"
+  doi: "10.1215/00182702-11242749"
+  volume: 56
+  issue: 4
+  page: "685-711"
 ---
 
-::: {.columns .article-hero}
-::: {.column}
-![Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png){fig-align="center" .article-hero-image}
+::: {.article-hero-image}
+![This picture is an illustration of the information policy implemented by agricultural economists in the interwar period. It shows two employees of the United States Department of Agriculture marketing the new broadcasting service of the department. The board behind them indicates "Know your market", encapsulating the main goal of the information policy described in the article. Credit: [Radio Broadcast](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)](picture.png)
 :::
 
-::: {.column}
+### Abstract
+
+This article offers a historical analysis of American interwar agricultural economists and their interest in information. Believing that the main problem facing farmers was a lack of information, agricultural economists designed an information policy aiming to produce, format, and disseminate information. Using administrative archives, we analyze the motivations of these economists and the implementation of this policy. We show that the policy was a prerequisite for theoretical discussions on information, and established institutional tools that are still active today, such as the USDA market news service.
+
+### Links
+
 ::: {.article-links}
-*History of Political Economy*
-
 [DOI](https://doi.org/10.1215/00182702-11242749) · [Google Scholar](https://scholar.google.com/scholar?q=The%20Making%20of%20Informational%20Efficiency%3A%20Information%20Policy%20and%20Theory%20in%20Interwar%20Agricultural%20Economics) · [HAL](https://hal.science/hal-03227973v3)
-:::
-:::
 :::

@@ -4,19 +4,19 @@ author: Thomas Delcey
 date: "2025-06-19"
 date-format: "YYYY"
 categories: "Working paper"
-abstract: 'What is the life of a seminal paper? This article addresses this question by studying the dissemination of Fama (1970), which introduced the efficient market hypothesis. Using network analysis, I study the various groups of research that cite Fama (1970) and how they evolve over time. I show that the paper was not only a canonical article in economics but also a reference in other fields such as law, management, and marketing. Market efficiency was interpreted in various ways, from a testable hypothesis about the behavior of prices to a useful assumption for evaluating policies. By tracing the various pathways through which this seminal article was exported and translated, the analysis shows the rising influence of finance across the social sciences in the second half of the twentieth century. The article also contributes to the development of quantitative methods applied to the history of economics by providing an interactive, open-source platform that allows users to explore networks and clusters. The article is available in [pdf](https://hal.science/hal-05121997).'
+image: "picture.jpg"
 ---
 
-::: {.columns .article-hero}
-::: {.column}
-![](picture.jpg){fig-align="center" .article-hero-image}
+::: {.article-hero-image}
+![This graph is one of the main results of the bibliometric analysis. It shows how Fama (1970) disseminates in various communities and disciplines.](picture.jpg)
 :::
 
-::: {.column}
+### Abstract
+
+What is the life of a seminal paper? This article addresses this question by studying the dissemination of Fama (1970), which introduced the efficient market hypothesis. Using network analysis, I study the various groups of research that cite Fama (1970) and how they evolve over time. I show that the paper was not only a canonical article in economics but also a reference in other fields such as law, management, and marketing. Market efficiency was interpreted in various ways, from a testable hypothesis about the behavior of prices to a useful assumption for evaluating policies. By tracing the various pathways through which this seminal article was exported and translated, the analysis shows the rising influence of finance across the social sciences in the second half of the twentieth century. The article also contributes to the development of quantitative methods applied to the history of economics by providing an interactive, open-source platform that allows users to explore networks and clusters. The article is available in [pdf](https://hal.science/hal-05121997).
+
+### Links
+
 ::: {.article-links}
-[HAL](https://hal.science/hal-05121997/) · [Google Scholar](https://scholar.google.com/scholar?q=The%20Dissemination%20of%20Fama%20%281970%29%3A%20A%20Bibliometric%20Analysis)
-
-[Shiny app](https://019c241f-91f4-a63b-1097-ed53083ffbbc.share.connect.posit.cloud) · [Code](https://github.com/tdelcey/research/tree/main/fama_1970)
-:::
-:::
+[HAL](https://hal.science/hal-05121997/) · [Google Scholar](https://scholar.google.com/scholar?q=The%20Dissemination%20of%20Fama%20%281970%29%3A%20A%20Bibliometric%20Analysis) · [Shiny app](https://019c241f-91f4-a63b-1097-ed53083ffbbc.share.connect.posit.cloud) · [Code](https://github.com/tdelcey/research/tree/main/fama_1970)
 :::

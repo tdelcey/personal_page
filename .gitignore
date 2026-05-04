@@ -10,3 +10,5 @@ docs/CNAME
 TODO.md
 AGENTS.md
 upcoming/
+
+/.luarc.json
