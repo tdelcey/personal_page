@@ -2,11 +2,11 @@
 title: "One Sentence at a Time: A Quantitative History of Rationality in Economic Thought"
 author:
   - name: "Thomas Delcey"
-    affiliation: "Université de Bourgogne"
+    affiliation: "Université de Bourgogne Europe"
   - name: "Aurelien Goutsmedt"
     affiliation: "UC Louvain; ICHEC"
   - name: "Alexandre Truc"
-    affiliation: "Université du CNRS"
+    affiliation: "Université Sophia Antipolis, CNRS" 
 date: "2025-09-09"
 date-format: "YYYY"
 categories: "Working paper"
