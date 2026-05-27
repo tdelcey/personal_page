@@ -11,9 +11,6 @@ date: "2026-01-01"
 date-format: "YYYY"
 categories: "Peer-reviewed article"
 image: "picture.png"
-citation:
-  type: article-journal
-  container-title: "European Journal of the History of Economic Thought"
 ---
 
 ::: {.article-hero-image}

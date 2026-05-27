@@ -12,6 +12,7 @@ citation:
   container-title: "Œconomia"
   volume: 16
   issue: 1
+  doi: "10.4000/169qx"
 ---
 
 *Special issue edited with Christian Walter and Emmanuel Picavet.*
