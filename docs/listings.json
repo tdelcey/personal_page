@@ -12,9 +12,24 @@
     ]
   },
   {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/RATIONALITY_EJHET_2026/index.html",
+      "/other_publications/MANDELBROT_EDITION_2026/index.html",
+      "/publications/HISTOIRE_RE_2024/index.html",
+      "/publications/WORKING_HOPE_2024/index.html",
+      "/publications/MAKING_HOPE_2024/index.html",
+      "/other_publications/SHIFTS_EDITION_2024/index.html",
+      "/publications/EFFICIENT_EJHET_2023/index.html",
+      "/other_publications/MACKENZIE_REVIEW_2023/index.html",
+      "/publications/EFFICIENT_JEM_2021/index.html",
+      "/other_publications/LEMERCIER_REVIEW_2020/index.html",
+      "/publications/EFFICIENT_OE_19/index.html"
+    ]
+  },
+  {
     "listing": "/project.html",
     "items": [
-      "/projects/RATIONALITY_WP_2025/index.html",
       "/projects/FAMA_WP_2024/index.html"
     ]
   },
@@ -29,8 +44,8 @@
     "listing": "/index.html",
     "items": [
       "/teaching/text_as_data/index.html",
+      "/publications/RATIONALITY_EJHET_2026/index.html",
       "/publications/HISTOIRE_RE_2024/index.html",
-      "/projects/RATIONALITY_WP_2025/index.html",
       "/teaching/histoire_pensee_economique/index.html",
       "/projects/FAMA_WP_2024/index.html",
       "/publications/WORKING_HOPE_2024/index.html",
@@ -41,17 +56,6 @@
       "/data/ORAL_HISTORY/index.html",
       "/teaching/economie_financière/index.html",
       "/teaching/economie_inégalité/index.html",
-      "/publications/MAKING_HOPE_2024/index.html",
-      "/publications/EFFICIENT_EJHET_2023/index.html",
-      "/publications/EFFICIENT_JEM_2021/index.html",
-      "/publications/EFFICIENT_OE_19/index.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/HISTOIRE_RE_2024/index.html",
-      "/publications/WORKING_HOPE_2024/index.html",
       "/publications/MAKING_HOPE_2024/index.html",
       "/publications/EFFICIENT_EJHET_2023/index.html",
       "/publications/EFFICIENT_JEM_2021/index.html",

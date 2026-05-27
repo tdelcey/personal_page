@@ -1,0 +1,23 @@
+---
+title: "Benoît Mandelbrot's Legacy in Economics and Finance"
+author:
+  - name: "Thomas Delcey"
+  - name: "Christian Walter"
+  - name: "Emmanuel Picavet"
+date: "2026-01-01"
+date-format: "YYYY"
+categories: "Edition"
+citation:
+  type: article-journal
+  container-title: "Œconomia"
+  volume: 16
+  issue: 1
+---
+
+*Special issue edited with Christian Walter and Emmanuel Picavet.*
+
+### Links
+
+::: {.article-links}
+[DOI](https://doi.org/10.4000/169qx)
+:::

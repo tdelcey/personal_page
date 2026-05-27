@@ -1,11 +1,17 @@
 ---
 title: "Publications"
-listing: 
-  type: default
-  contents: 
-    - "publications"
-  fields: [image, date, title, author, categories, abstract]  
-  sort: "date desc"
-  date-format: "YYYY"
-  image-height: "120px"
+listing:
+  - id: articles
+    type: default
+    contents: [publications, other_publications]
+    fields: [image, date, title, author, categories, abstract]
+    sort: "date desc"
+    sort-ui: [date, title]
+    filter-ui: true
+    categories: true
+    date-format: "YYYY"
+    image-height: "120px"
 ---
+
+::: {#articles}
+:::

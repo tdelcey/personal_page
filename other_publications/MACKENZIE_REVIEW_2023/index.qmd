@@ -1,0 +1,20 @@
+---
+title: "Donald MacKenzie, *Trading at the Speed of Light: How Ultrafast Algorithms Are Transforming Financial Markets*"
+author: Thomas Delcey
+date: "2023-01-01"
+date-format: "YYYY"
+categories: "Book review"
+citation:
+  type: article-journal
+  container-title: "Œconomia"
+  doi: "10.4000/oeconomia.16251"
+  volume: 13
+  issue: 4
+  page: "1299-1303"
+---
+
+### Links
+
+::: {.article-links}
+[DOI](https://doi.org/10.4000/oeconomia.16374)
+:::
