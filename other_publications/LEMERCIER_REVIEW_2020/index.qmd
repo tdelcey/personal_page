@@ -1,0 +1,20 @@
+---
+title: "Claire Lemercier & Claire Zalc, *Quantitative Methods in the Humanities: An Introduction*"
+author: Thomas Delcey
+date: "2020-01-01"
+date-format: "YYYY"
+categories: "Book review"
+citation:
+  type: article-journal
+  container-title: "Œconomia"
+  doi: "10.4000/oeconomia.10117"
+  volume: 10
+  issue: 4
+  page: "821-826"
+---
+
+### Links
+
+::: {.article-links}
+[DOI](https://doi.org/10.4000/oeconomia.9511)
+:::

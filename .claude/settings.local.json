@@ -6,6 +6,9 @@
       "WebFetch(domain:quarto.org)",
       "WebFetch(domain:raw.githubusercontent.com)",
       "WebSearch"
+    ],
+    "additionalDirectories": [
+      "C:\\github_w\\personal_page\\.quarto"
     ]
   }
 }

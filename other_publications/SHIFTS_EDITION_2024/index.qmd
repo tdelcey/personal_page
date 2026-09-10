@@ -1,0 +1,25 @@
+---
+title: "Recent Shifts in the Boundaries of Economics: Philosophy and History"
+author:
+  - name: "Thomas Delcey"
+  - name: "Annie L. Cot"
+  - name: "Dorian Jullien"
+date: "2024-01-01"
+date-format: "YYYY"
+categories: "Edition"
+citation:
+  type: article-journal
+  container-title: "Œconomia"
+  doi: "10.4000/oeconomia.17047"
+  volume: 14
+  issue: 2
+  page: "141-148"
+---
+
+*Special issue edited with Annie L. Cot and Dorian Jullien.*
+
+### Links
+
+::: {.article-links}
+[DOI](https://doi.org/10.4000/120ip)
+:::
