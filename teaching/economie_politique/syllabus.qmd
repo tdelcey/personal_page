@@ -7,8 +7,7 @@ author:
       - name: Université de Bourgogne Europe
 engine: knitr
 format:
-  html: default 
-  pdf: default
+  html: default
 ---
 
 

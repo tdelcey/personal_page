@@ -1,5 +1,5 @@
 ---
-title: "Economie Financière"
+title: "Économie monétaire et financière"
 author:
   - name: Thomas Delcey
     email: thomdelcey@gmail.com
@@ -14,7 +14,7 @@ image: "picture.jpg"
 
 ::: {.course-hero}
 ::: {.course-hero-text}
-Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui présente les principaux concepts relatifs au financement de l'économie. Le cours introduit le système financier, ces principaux acteurs et son évolution depuis les années 1970. Le cours aborde ensuite les crises financières à travers des exemples historiques et en discutant les mécanismes communs à ces différentes crises. La dernière partie de l'enseignement présente le rôle de la monnaie dans l'économie et les enjeux contemporains de la politique monétaire.
+Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui présente les principaux concepts relatifs au financement de l'économie. Le cours introduit d'abord le financement des organisations, ses acteurs et ses instruments, puis le rôle de la monnaie et sa création. Il aborde ensuite les crises financières à travers des exemples historiques et les mécanismes qui leur sont communs, avant de terminer sur la banque centrale, pompier des crises puis pilote de l'économie.
 :::
 
 ::: {.course-hero-image}
@@ -31,16 +31,15 @@ Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui p
 <noscript>
   <p>JavaScript est requis pour changer de slide ici.
     Accédez directement :
-    <a href="CM1_slides.html">CM1</a>, <a href="CM2_slides.html">CM2</a>, <a href="CM3_slides.html">CM3</a>, <a href="CM4_slides.html">CM4</a>.
+    <a href="CM1_slides.html">CM1</a>, <a href="CM2_slides.html">CM2</a>, <a href="CM3_slides.html">CM3</a>.
   </p>
 </noscript>
 <script>
   window.addEventListener('DOMContentLoaded', function() {
     initSlideViewer('#slides-finance', [
-      { file: 'CM1_slides.html#/', label: 'Chapitre 1 - Finance et acteurs' },
-      { file: 'CM2_slides.html#/', label: 'Chapitre 2 - Marchés et titres financiers' },
-      { file: 'CM3_slides.html#/', label: 'Chapitre 3 - Crises financières' },
-      { file: 'CM4_slides.html#/', label: 'Chapitre 4 - Monnaie et politique monétaire' },
+      { file: 'CM1_slides.html#/', label: 'Chapitre 1 - Le financement des organisations' },
+      { file: 'CM2_slides.html#/', label: 'Chapitre 2 - La monnaie' },
+      { file: 'CM3_slides.html#/', label: 'Chapitre 3 - Bulles et crises financières' },
     ], { storageKey: 'lastSlideSrc' });
   });
 </script>
@@ -54,26 +53,27 @@ Un enseignement de deuxième année à l'IUT de l'université de Bourgogne qui p
 
 ### Description et objectifs
 
-Ce cours introduit les concepts fondamentaux de l'économie monétaire et financière. À l'issue de ce cours, les étudiant.es seront capables de :
+Ce cours introduit les concepts fondamentaux de l'économie monétaire et financière. À l'issue du cours, vous serez en capacité de :
 
-1. Expliquer les mécanismes de financement des organisations et le rôle de l'intermédiation financière ;
-2. Comprendre le fonctionnement des principaux marchés financiers et identifier leurs acteurs clés ;
-3. Expliquer les causes et les effets des grandes crises financières, passées et récentes ;
-4. Analyser le rôle de la monnaie et des banques dans le système économique.
+- Expliquer comment les organisations se financent, et identifier les acteurs et les marchés qui y concourent.
+- Analyser le rôle de la monnaie, des banques et de la banque centrale dans l'économie.
+- Expliquer les causes et les effets des grandes crises financières, passées et récentes.
+
+### Organisation
+
+Quatre séances de cours magistral, soit 6 h. Quatre séances de travaux dirigés et une séance d'évaluation, soit 7,5 h.
+
+Chaque thématique est abordée en CM et en TD. Le CM introduit les concepts clefs, le TD reprend les points les plus difficiles à travers des études de cas.
 
 ### Évaluation
 
-- 1 devoir sur table (100%), ensemble du cours ; questions de réflexion et analyse de données courtes.
+- Devoir sur table en TD, lors de la dernière séance, 100 %. Portée : ensemble du cours, questions argumentées.
 
 ### Plan du cours
 
-Chaque thématique est abordée à la fois en CM et en TD. Le CM introduit les concepts clefs et le TD se concentre sur les sujets les plus difficiles à appréhender, à travers des études de cas et des exemples pratiques.
-
-- **Chapitre 1 & 2 :** La finance et ses acteurs (CM)
-  - Le TD associé revient sur les différents titres financiers et marchés associés.
-- **Chapitre 3 :** Les crises financières (CM)
-  - Le TD associé propose une explication détaillée de la crise des Subprimes.
-- **Chapitre 4 :** La monnaie et la politique monétaire (CM)
-  - Le TD associé porte sur la création monétaire par les banques commerciales.
+1. Le financement des organisations. TD : les instruments de financement, actions, obligations et dette.
+2. La monnaie. TD : la création monétaire et les agrégats monétaires.
+3. Bulles et crises financières. TD : la crise des subprimes.
+4. La banque centrale. TD : les taux directeurs, l'inflation et leurs effets sur les entreprises.
 
 :::

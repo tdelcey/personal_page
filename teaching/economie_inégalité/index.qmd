@@ -31,16 +31,18 @@ Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui 
 <noscript>
   <p>JavaScript est requis pour changer de slide ici.
     Accédez directement :
-    <a href="CM1_slides.html">CM1</a>, <a href="CM2_slides.html">CM2</a>, <a href="CM3_slides.html">CM3</a>, <a href="CM4_slides.html">CM4</a>.
+    <a href="CM1_slides.html">CM1</a>, <a href="CM2_slides.html">CM2</a>, <a href="CM3_slides.html">CM3</a>, <a href="CM4_slides.html">CM4</a>, <a href="CM5_slides.html">CM5</a>, <a href="CM6_slides.html">CM6</a>.
   </p>
 </noscript>
 <script>
   window.addEventListener('DOMContentLoaded', function() {
     initSlideViewer('#slides-ineg', [
-      { file: 'CM1_slides.html#/', label: 'Chapitre 1 - Introduction' },
+      { file: 'CM1_slides.html#/', label: 'Chapitre 1 - Introduction générale' },
       { file: 'CM2_slides.html#/', label: 'Chapitre 2 - Pourquoi réduire les inégalités ?' },
       { file: 'CM3_slides.html#/', label: 'Chapitre 3 - Définir les inégalités' },
       { file: 'CM4_slides.html#/', label: 'Chapitre 4 - Mesurer les inégalités' },
+      { file: 'CM5_slides.html#/', label: 'Chapitre 5 - Les inégalités dans le monde et en France' },
+      { file: 'CM6_slides.html#/', label: 'Chapitre 6 - Les causes des inégalités : le salaire' },
     ], { storageKey: 'lastSlideSrc' });
   });
 </script>
@@ -54,29 +56,33 @@ Un enseignement de troisième année à l'IUT de l'université de Bourgogne qui 
 
 ### Description et objectifs
 
-Acquérir les bases pour analyser les inégalités économiques et sociales (mesure, causes, conséquences, politiques publiques). À l'issue du cours, vous serez en capacité de :
+Comprendre l'environnement économique dans lequel vous allez évoluer et acquérir les bases pour analyser les inégalités : les définir, les mesurer, en expliquer les causes et évaluer les politiques publiques qui les corrigent. À l'issue du cours, vous serez en capacité de :
 
-1. **Identifier** les principales formes d'inégalités économiques et sociales.
-2. **Distinguer et justifier** quelles inégalités peuvent être jugées souhaitables (incitation, mérite) et lesquelles ne le sont pas.
-3. **Décrire et interpréter** l'état des inégalités dans le monde et en France, avant et après redistribution.
-4. **Expliquer** les mécanismes et causes des inégalités (facteurs de production, institutions, technologie, marché du travail, capital/travail).
-5. **Évaluer** les politiques publiques de réduction des inégalités (fiscales, sociales, marché du travail) et en discuter les arbitrages.
-6. **Mobiliser** des données (WID, séries nationales) pour produire des graphiques et arguments chiffrés.
+- Identifier et mesurer les principales formes d'inégalités économiques, avant et après redistribution, à partir des données du WID et des séries nationales.
+- Distinguer et justifier quelles inégalités peuvent être jugées souhaitables et lesquelles ne le sont pas.
+- Expliquer les causes des inégalités, du côté du salaire comme du côté du capital.
+- Évaluer les politiques publiques de réduction des inégalités et en discuter les arbitrages.
+
+### Organisation
+
+Huit séances de cours magistral, soit 12,5 h, plus 1,5 h d'évaluation en TD.
 
 ### Évaluation
 
-- **QCM en CM (40 %)** — Portée : chapitres 1–3, définitions, interprétation de graphiques.
-- **Examen final en TD (60 %)** — Portée : ensemble du cours, questions de réflexion et analyse de données courtes.
+- QCM en CM, 40 %. Portée : chapitres 1 à 3, définitions et interprétation de graphiques.
+- Examen final en TD, 60 %. Portée : ensemble du cours, questions de réflexion et analyse de données courtes.
 
 ### Plan du cours
 
-Chaque chapitre pose une question centrale :
+Huit séances, huit chapitres. À partir du chapitre 2, chaque chapitre pose une question centrale.
 
-1. **Pourquoi (et faut-il) réduire les inégalités ?** (théorie de la justice, économie normative).
-2. **Définir une inégalité** (revenu, patrimoine, redistribution, capital culturel/social).
-3. **Mesurer les inégalités** (indicateurs, Gini, parts top/bas, avant/après redistribution).
-4. **Quel est l'état des inégalités dans le monde et en France ?** (évolution en France, comparaisons internationales).
-5. **Quelles sont les principales causes des inégalités ?** (capital humain, technologie, capital/travail).
-6. **Quelles politiques pour réduire les inégalités ?** (politique préventive vs corrective).
+1. Introduction : l'environnement économique, les facteurs de production et leurs rémunérations.
+2. Pourquoi (et faut-il) réduire les inégalités ? Théories de la justice, économie normative.
+3. Définir une inégalité. Revenu, patrimoine, redistribution, capital culturel et social.
+4. Mesurer les inégalités. Indicateurs, Gini, parts du haut et du bas, avant et après redistribution.
+5. L'état des inégalités dans le monde et en France. Évolution française, comparaisons internationales.
+6. Les causes des inégalités : le salaire. Capital humain, genre, territoires.
+7. Les causes des inégalités : le capital. Partage capital/travail, patrimoine, héritage.
+8. Les politiques publiques de réduction des inégalités. Préventives et correctives.
 
 :::
