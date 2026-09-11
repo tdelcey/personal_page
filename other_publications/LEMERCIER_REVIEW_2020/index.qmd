@@ -7,7 +7,7 @@ categories: "Book review"
 citation:
   type: article-journal
   container-title: "Œconomia"
-  doi: "10.4000/oeconomia.10117"
+  doi: "10.4000/oeconomia.9511"
   volume: 10
   issue: 4
   page: "821-826"

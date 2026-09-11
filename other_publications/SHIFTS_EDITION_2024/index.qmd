@@ -10,7 +10,7 @@ categories: "Edition"
 citation:
   type: article-journal
   container-title: "Œconomia"
-  doi: "10.4000/oeconomia.17047"
+  doi: "10.4000/120ip"
   volume: 14
   issue: 2
   page: "141-148"

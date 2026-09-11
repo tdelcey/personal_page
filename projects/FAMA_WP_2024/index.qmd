@@ -18,5 +18,5 @@ What is the life of a seminal paper? This article addresses this question by stu
 ### Links
 
 ::: {.article-links}
-[HAL](https://hal.science/hal-05121997/) · [Google Scholar](https://scholar.google.com/scholar?q=The%20Dissemination%20of%20Fama%20%281970%29%3A%20A%20Bibliometric%20Analysis) · [Shiny app](https://019c241f-91f4-a63b-1097-ed53083ffbbc.share.connect.posit.cloud) · [Code](https://github.com/tdelcey/research/tree/main/fama_1970)
+[HAL](https://hal.science/hal-05121997/) · [Google Scholar](https://scholar.google.com/scholar?q=The%20Dissemination%20of%20Fama%20%281970%29%3A%20A%20Bibliometric%20Analysis) · [Shiny app](https://019f12e5-9feb-cbef-4462-676ff2bbde4f.share.connect.posit.cloud/) · [Code](https://github.com/tdelcey/research/tree/main/fama_1970)
 :::
