@@ -1,0 +1,10 @@
+---
+title: "How Ecological Concepts Diffuse in Economics? A Textual Analysis"
+authors:
+  - name: "Thomas Delcey"
+  - name: "Malo Mofakhami"
+    affiliation: "Université Sorbonne Paris Nord"
+date: "2026-09-17"
+date-format: "YYYY-MM-DD"
+categories: "Working paper"
+---

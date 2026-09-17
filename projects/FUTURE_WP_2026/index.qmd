@@ -1,0 +1,15 @@
+---
+title: "Do We “Simply not Know”? Finding the Future in Twentieth-Century Economics"
+author:
+  - name: "Béatrice Cherrier"
+    affiliation: "CNRS, Polytechnique Paris, CREST"
+  - name: "Thomas Delcey"
+    affiliation: "Université de Bourgogne Europe"
+  - name: "Aurélien Goutsmedt"
+    affiliation: "ICHEC Brussels & UCLouvain"
+  - name: "Aurélien Saïdi"
+    affiliation: "IDHE.S, ENS Paris-Saclay"
+date: "2026-09-17"
+date-format: "YYYY-MM-DD"
+categories: "Working paper"
+---

@@ -1,9 +1,9 @@
 ---
 title: "The Dissemination of Fama (1970): A Bibliometric Analysis"
 author: Thomas Delcey
-date: "2025-06-19"
+date: "2026-17-09"
 date-format: "YYYY"
-categories: "Working paper"
+categories: "Peer-reviewed article"
 image: "picture.jpg"
 ---
 
