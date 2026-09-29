@@ -236,6 +236,13 @@
   object-fit: cover !important;
 }
 
+/* Quarto donne height: 100% au corps de la carte, qui s'ajoute
+   aux 160 px de l'image et crée un grand vide sous le titre. */
+.quarto-grid-item div.post-contents {
+  height: auto;
+  flex-grow: 1;
+}
+
 
 /* ============================================================
    Résumés dans les listes (publications, cours)
