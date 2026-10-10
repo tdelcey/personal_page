@@ -1,5 +1,5 @@
 ---
-title: "How Ecological Concepts Diffuse in Economics? A Textual Analysis"
+title: "How Do Ecological Concepts Diffuse in Economics? A Textual Analysis"
 authors:
   - name: "Thomas Delcey"
   - name: "Malo Mofakhami"

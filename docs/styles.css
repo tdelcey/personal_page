@@ -223,9 +223,19 @@
   position: relative;
   width: 100%;
   height: 160px;
+  flex: 0 0 auto;
   overflow: hidden;
   margin: 0;
   padding: 0;
+}
+
+/* Quarto pose height:100% sur le corps de la carte. Combiné à un cadre
+   d'image de hauteur fixe, cela sur-contraint la colonne flex : le corps
+   réclame à lui seul toute la hauteur de la carte, et flexbox comprime
+   l'image pour compenser (160 px demandés, 86 px obtenus). Le corps
+   reprend sa taille naturelle, l'image son cadre entier. */
+.quarto-grid-item div.post-contents {
+  height: auto;
 }
 
 .quarto-grid-item p.card-img-top img {
