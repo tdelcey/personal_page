@@ -12,3 +12,5 @@ AGENTS.md
 upcoming/
 
 /.luarc.json
+
+.claude/
